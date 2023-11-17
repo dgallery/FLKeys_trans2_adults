@@ -1,0 +1,488 @@
+id	term	lev	value	seq
+"reproduction"	GO:0000003	1	-1.4332062787095	Mcavernosa05857
+"biological_process"	GO:0008150	-1	-1.4332062787095	Mcavernosa05857
+"regulation of cyclin-dependent protein serine/threonine kinase activity"	GO:0000079	2	-1.4332062787095	Mcavernosa05857
+"regulation of protein serine/threonine kinase activity"	GO:0071900	5	-1.4332062787095	Mcavernosa05857
+"regulation of cyclin-dependent protein kinase activity"	GO:1904029	6	-1.4332062787095	Mcavernosa05857
+"regulation of protein kinase activity"	GO:0045859	4	-1.4332062787095	Mcavernosa05857
+"regulation of cell cycle"	GO:0051726	3	-1.4332062787095	Mcavernosa05857
+"regulation of protein phosphorylation"	GO:0001932	2	-1.4332062787095	Mcavernosa05857
+"regulation of kinase activity"	GO:0043549	2	-1.4332062787095	Mcavernosa05857
+"regulation of cellular process"	GO:0050794	2	-1.4332062787095	Mcavernosa05857
+"regulation of protein modification process"	GO:0031399	2	-1.4332062787095	Mcavernosa05857
+"regulation of phosphorylation"	GO:0042325	2	-1.4332062787095	Mcavernosa05857
+"regulation of transferase activity"	GO:0051338	2	-1.4332062787095	Mcavernosa05857
+"regulation of biological process"	GO:0050789	2	-1.4332062787095	Mcavernosa05857
+"regulation of cellular protein metabolic process"	GO:0032268	2	-1.4332062787095	Mcavernosa05857
+"regulation of phosphate metabolic process"	GO:0019220	4	-1.4332062787095	Mcavernosa05857
+"regulation of catalytic activity"	GO:0050790	3	-1.4332062787095	Mcavernosa05857
+"biological regulation"	GO:0065007	1	-1.4332062787095	Mcavernosa05857
+"regulation of cellular metabolic process"	GO:0031323	2	-1.4332062787095	Mcavernosa05857
+"regulation of protein metabolic process"	GO:0051246	5	-1.4332062787095	Mcavernosa05857
+"regulation of phosphorus metabolic process"	GO:0051174	3	-1.4332062787095	Mcavernosa05857
+"regulation of molecular function"	GO:0065009	2	-1.4332062787095	Mcavernosa05857
+"regulation of metabolic process"	GO:0019222	2	-1.4332062787095	Mcavernosa05857
+"regulation of nitrogen compound metabolic process"	GO:0051171	2	-1.4332062787095	Mcavernosa05857
+"regulation of macromolecule metabolic process"	GO:0060255	4	-1.4332062787095	Mcavernosa05857
+"regulation of primary metabolic process"	GO:0080090	4	-1.4332062787095	Mcavernosa05857
+"nematode larval development"	GO:0002119	2	-1.4332062787095	Mcavernosa05857
+"larval development"	GO:0002164	3	-1.4332062787095	Mcavernosa05857
+"multicellular organism development"	GO:0007275	2	-1.4332062787095	Mcavernosa05857
+"post-embryonic development"	GO:0009791	2	-1.4332062787095	Mcavernosa05857
+"multicellular organismal process"	GO:0032501	1	-1.4332062787095	Mcavernosa05857
+"anatomical structure development"	GO:0048856	2	-1.4332062787095	Mcavernosa05857
+"developmental process"	GO:0032502	1	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing compound metabolic process"	GO:0006139	2	-1.4332062787095	Mcavernosa05857
+"cellular aromatic compound metabolic process"	GO:0006725	3	-1.4332062787095	Mcavernosa05857
+"cellular nitrogen compound metabolic process"	GO:0034641	3	-1.4332062787095	Mcavernosa05857
+"primary metabolic process"	GO:0044238	2	-1.4332062787095	Mcavernosa05857
+"heterocycle metabolic process"	GO:0046483	2	-1.4332062787095	Mcavernosa05857
+"organic cyclic compound metabolic process"	GO:1901360	2	-1.4332062787095	Mcavernosa05857
+"cellular metabolic process"	GO:0044237	2	-1.4332062787095	Mcavernosa05857
+"metabolic process"	GO:0008152	1	-1.4332062787095	Mcavernosa05857
+"cellular process"	GO:0009987	1	-1.4332062787095	Mcavernosa05857
+"nitrogen compound metabolic process"	GO:0006807	2	-1.4332062787095	Mcavernosa05857
+"organic substance metabolic process"	GO:0071704	2	-1.4332062787095	Mcavernosa05857
+"purine nucleoside catabolic process"	GO:0006152	2	-1.4332062787095	Mcavernosa05857
+"nucleoside catabolic process"	GO:0009164	3	-1.4332062787095	Mcavernosa05857
+"purine nucleoside metabolic process"	GO:0042278	3	-1.4332062787095	Mcavernosa05857
+"purine-containing compound catabolic process"	GO:0072523	2	-1.4332062787095	Mcavernosa05857
+"nucleoside metabolic process"	GO:0009116	2	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing small molecule catabolic process"	GO:0034656	2	-1.4332062787095	Mcavernosa05857
+"organonitrogen compound catabolic process"	GO:1901565	3	-1.4332062787095	Mcavernosa05857
+"glycosyl compound catabolic process"	GO:1901658	2	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing small molecule metabolic process"	GO:0055086	3	-1.4332062787095	Mcavernosa05857
+"organonitrogen compound metabolic process"	GO:1901564	2	-1.4332062787095	Mcavernosa05857
+"glycosyl compound metabolic process"	GO:1901657	3	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing compound catabolic process"	GO:0034655	2	-1.4332062787095	Mcavernosa05857
+"small molecule catabolic process"	GO:0044282	2	-1.4332062787095	Mcavernosa05857
+"organic substance catabolic process"	GO:1901575	2	-1.4332062787095	Mcavernosa05857
+"catabolic process"	GO:0009056	2	-1.4332062787095	Mcavernosa05857
+"carbohydrate derivative catabolic process"	GO:1901136	2	-1.4332062787095	Mcavernosa05857
+"small molecule metabolic process"	GO:0044281	2	-1.4332062787095	Mcavernosa05857
+"carbohydrate derivative metabolic process"	GO:1901135	2	-1.4332062787095	Mcavernosa05857
+"aromatic compound catabolic process"	GO:0019439	2	-1.4332062787095	Mcavernosa05857
+"cellular nitrogen compound catabolic process"	GO:0044270	4	-1.4332062787095	Mcavernosa05857
+"heterocycle catabolic process"	GO:0046700	4	-1.4332062787095	Mcavernosa05857
+"organic cyclic compound catabolic process"	GO:1901361	3	-1.4332062787095	Mcavernosa05857
+"cellular catabolic process"	GO:0044248	3	-1.4332062787095	Mcavernosa05857
+"purine-containing compound metabolic process"	GO:0072521	2	-1.4332062787095	Mcavernosa05857
+"purine nucleotide metabolic process"	GO:0006163	3	-1.4332062787095	Mcavernosa05857
+"nucleotide metabolic process"	GO:0009117	2	-1.4332062787095	Mcavernosa05857
+"nucleoside phosphate metabolic process"	GO:0006753	4	-1.4332062787095	Mcavernosa05857
+"phosphate-containing compound metabolic process"	GO:0006796	2	-1.4332062787095	Mcavernosa05857
+"organophosphate metabolic process"	GO:0019637	3	-1.4332062787095	Mcavernosa05857
+"phosphorus metabolic process"	GO:0006793	3	-1.4332062787095	Mcavernosa05857
+"obsolete GTP catabolic process"	GO:0006184	-1	-1.4332062787095	Mcavernosa05857
+"purine nucleotide catabolic process"	GO:0006195	6	-1.4332062787095	Mcavernosa05857
+"nucleotide catabolic process"	GO:0009166	3	-1.4332062787095	Mcavernosa05857
+"nucleoside phosphate catabolic process"	GO:1901292	2	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing small molecule biosynthetic process"	GO:0034404	3	-1.4332062787095	Mcavernosa05857
+"organophosphate catabolic process"	GO:0046434	2	-1.4332062787095	Mcavernosa05857
+"nucleobase-containing compound biosynthetic process"	GO:0034654	3	-1.4332062787095	Mcavernosa05857
+"small molecule biosynthetic process"	GO:0044283	2	-1.4332062787095	Mcavernosa05857
+"heterocycle biosynthetic process"	GO:0018130	4	-1.4332062787095	Mcavernosa05857
+"aromatic compound biosynthetic process"	GO:0019438	2	-1.4332062787095	Mcavernosa05857
+"cellular nitrogen compound biosynthetic process"	GO:0044271	2	-1.4332062787095	Mcavernosa05857
+"organic cyclic compound biosynthetic process"	GO:1901362	2	-1.4332062787095	Mcavernosa05857
+"biosynthetic process"	GO:0009058	2	-1.4332062787095	Mcavernosa05857
+"cellular biosynthetic process"	GO:0044249	2	-1.4332062787095	Mcavernosa05857
+"organic substance biosynthetic process"	GO:1901576	2	-1.4332062787095	Mcavernosa05857
+"regulation of DNA replication"	GO:0006275	3	-1.4332062787095	Mcavernosa05857
+"regulation of DNA metabolic process"	GO:0051052	2	-1.4332062787095	Mcavernosa05857
+"regulation of cellular macromolecule biosynthetic process"	GO:2000112	3	-1.4332062787095	Mcavernosa05857
+"regulation of nucleobase-containing compound metabolic process"	GO:0019219	5	-1.4332062787095	Mcavernosa05857
+"regulation of macromolecule biosynthetic process"	GO:0010556	2	-1.4332062787095	Mcavernosa05857
+"regulation of cellular biosynthetic process"	GO:0031326	2	-1.4332062787095	Mcavernosa05857
+"regulation of biosynthetic process"	GO:0009889	4	-1.4332062787095	Mcavernosa05857
+"negative regulation of cell adhesion"	GO:0007162	2	-1.4332062787095	Mcavernosa05857
+"regulation of cell adhesion"	GO:0030155	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular process"	GO:0048523	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of biological process"	GO:0048519	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of DNA replication"	GO:0008156	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of DNA metabolic process"	GO:0051053	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular macromolecule biosynthetic process"	GO:2000113	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of macromolecule metabolic process"	GO:0010605	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of nucleobase-containing compound metabolic process"	GO:0045934	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of macromolecule biosynthetic process"	GO:0010558	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular biosynthetic process"	GO:0031327	4	-1.4332062787095	Mcavernosa05857
+"negative regulation of metabolic process"	GO:0009892	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular metabolic process"	GO:0031324	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of nitrogen compound metabolic process"	GO:0051172	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of biosynthetic process"	GO:0009890	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of cell population proliferation"	GO:0008285	2	-1.4332062787095	Mcavernosa05857
+"regulation of cell population proliferation"	GO:0042127	3	-1.4332062787095	Mcavernosa05857
+"ribonucleoside metabolic process"	GO:0009119	6	-1.4332062787095	Mcavernosa05857
+"nucleoside triphosphate metabolic process"	GO:0009141	5	-1.4332062787095	Mcavernosa05857
+"nucleoside triphosphate catabolic process"	GO:0009143	3	-1.4332062787095	Mcavernosa05857
+"purine nucleoside triphosphate metabolic process"	GO:0009144	6	-1.4332062787095	Mcavernosa05857
+"purine nucleoside triphosphate catabolic process"	GO:0009146	2	-1.4332062787095	Mcavernosa05857
+"purine ribonucleotide metabolic process"	GO:0009150	4	-1.4332062787095	Mcavernosa05857
+"ribonucleotide metabolic process"	GO:0009259	3	-1.4332062787095	Mcavernosa05857
+"ribose phosphate metabolic process"	GO:0019693	4	-1.4332062787095	Mcavernosa05857
+"purine ribonucleotide catabolic process"	GO:0009154	2	-1.4332062787095	Mcavernosa05857
+"ribonucleotide catabolic process"	GO:0009261	2	-1.4332062787095	Mcavernosa05857
+"ribonucleoside triphosphate metabolic process"	GO:0009199	2	-1.4332062787095	Mcavernosa05857
+"ribonucleoside triphosphate catabolic process"	GO:0009203	6	-1.4332062787095	Mcavernosa05857
+"purine ribonucleoside triphosphate metabolic process"	GO:0009205	2	-1.4332062787095	Mcavernosa05857
+"purine ribonucleoside triphosphate catabolic process"	GO:0009207	7	-1.4332062787095	Mcavernosa05857
+"embryo development"	GO:0009790	3	-1.4332062787095	Mcavernosa05857
+"embryo development ending in birth or egg hatching"	GO:0009792	4	-1.4332062787095	Mcavernosa05857
+"regulation of gene expression"	GO:0010468	2	-1.4332062787095	Mcavernosa05857
+"posttranscriptional regulation of gene expression"	GO:0010608	6	-1.4332062787095	Mcavernosa05857
+"regulation of cell-cell adhesion"	GO:0022407	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cell-cell adhesion"	GO:0022408	4	-1.4332062787095	Mcavernosa05857
+"regulation of cell migration"	GO:0030334	2	-1.4332062787095	Mcavernosa05857
+"regulation of cell motility"	GO:2000145	4	-1.4332062787095	Mcavernosa05857
+"regulation of locomotion"	GO:0040012	2	-1.4332062787095	Mcavernosa05857
+"regulation of cellular component movement"	GO:0051270	3	-1.4332062787095	Mcavernosa05857
+"regulation of localization"	GO:0032879	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cell migration"	GO:0030336	4	-1.4332062787095	Mcavernosa05857
+"negative regulation of cell motility"	GO:2000146	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of locomotion"	GO:0040013	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular component movement"	GO:0051271	3	-1.4332062787095	Mcavernosa05857
+"regulation of protein ubiquitination"	GO:0031396	3	-1.4332062787095	Mcavernosa05857
+"regulation of protein modification by small protein conjugation or removal"	GO:1903320	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of protein ubiquitination"	GO:0031397	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of protein modification by small protein conjugation or removal"	GO:1903321	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of protein modification process"	GO:0031400	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of cellular protein metabolic process"	GO:0032269	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of protein metabolic process"	GO:0051248	2	-1.4332062787095	Mcavernosa05857
+"regulation of protein stability"	GO:0031647	2	-1.4332062787095	Mcavernosa05857
+"regulation of biological quality"	GO:0065008	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of protein binding"	GO:0032091	2	-1.4332062787095	Mcavernosa05857
+"regulation of protein binding"	GO:0043393	2	-1.4332062787095	Mcavernosa05857
+"negative regulation of binding"	GO:0051100	4	-1.4332062787095	Mcavernosa05857
+"regulation of binding"	GO:0051098	3	-1.4332062787095	Mcavernosa05857
+"negative regulation of molecular function"	GO:0044092	2	-1.4332062787095	Mcavernosa05857
+"regulation of collagen binding"	GO:0033341	4	-1.4332062787095	Mcavernosa05857
+"negative regulation of collagen binding"	GO:0033342	2	-1.4332062787095	Mcavernosa05857
+"growth"	GO:0040007	1	-1.4332062787095	Mcavernosa05857
+"regulation of growth"	GO:0040008	2	-1.4332062787095	Mcavernosa05857
+"regulation of growth rate"	GO:0040009	3	-1.4332062787095	Mcavernosa05857
+"positive regulation of growth rate"	GO:0040010	2	-1.4332062787095	Mcavernosa05857
+"positive regulation of growth"	GO:0045927	4	-1.4332062787095	Mcavernosa05857
+"positive regulation of biological process"	GO:0048518	3	-1.4332062787095	Mcavernosa05857
+"locomotion"	GO:0040011	1	-1.4332062787095	Mcavernosa05857
+"ribonucleoside catabolic process"	GO:0042454	5	-1.4332062787095	Mcavernosa05857
+"GTP metabolic process"	GO:0046039	3	-1.4332062787095	Mcavernosa05857
+"guanosine-containing compound metabolic process"	GO:1901068	3	-1.4332062787095	Mcavernosa05857
+"purine ribonucleoside metabolic process"	GO:0046128	2	-1.4332062787095	Mcavernosa05857
+"purine ribonucleoside catabolic process"	GO:0046130	3	-1.4332062787095	Mcavernosa05857
+"protein stabilization"	GO:0050821	2	-1.4332062787095	Mcavernosa05857
+"guanosine-containing compound catabolic process"	GO:1901069	2	-1.4332062787095	Mcavernosa05857
+"plasma membrane repair"	GO:0001778	4	2.01601097386935	Mcavernosa08308
+"plasma membrane organization"	GO:0007009	2	2.01601097386935	Mcavernosa08308
+"membrane organization"	GO:0061024	2	2.01601097386935	Mcavernosa08308
+"cellular component organization"	GO:0016043	2	2.01601097386935	Mcavernosa08308
+"cellular process"	GO:0009987	1	2.01601097386935	Mcavernosa08308
+"cellular component organization or biogenesis"	GO:0071840	1	2.01601097386935	Mcavernosa08308
+"biological_process"	GO:0008150	-1	2.01601097386935	Mcavernosa08308
+"system process"	GO:0003008	2	2.01601097386935	Mcavernosa08308
+"multicellular organismal process"	GO:0032501	1	2.01601097386935	Mcavernosa08308
+"muscle system process"	GO:0003012	2	2.01601097386935	Mcavernosa08308
+"circulatory system process"	GO:0003013	2	2.01601097386935	Mcavernosa08308
+"muscle contraction"	GO:0006936	2	2.01601097386935	Mcavernosa08308
+"response to stress"	GO:0006950	2	2.01601097386935	Mcavernosa08308
+"response to stimulus"	GO:0050896	1	2.01601097386935	Mcavernosa08308
+"blood circulation"	GO:0008015	3	2.01601097386935	Mcavernosa08308
+"response to temperature stimulus"	GO:0009266	3	2.01601097386935	Mcavernosa08308
+"response to abiotic stimulus"	GO:0009628	2	2.01601097386935	Mcavernosa08308
+"response to heat"	GO:0009408	2	2.01601097386935	Mcavernosa08308
+"response to wounding"	GO:0009611	3	2.01601097386935	Mcavernosa08308
+"regulation of signal transduction"	GO:0009966	2	2.01601097386935	Mcavernosa08308
+"regulation of cell communication"	GO:0010646	3	2.01601097386935	Mcavernosa08308
+"regulation of signaling"	GO:0023051	2	2.01601097386935	Mcavernosa08308
+"regulation of response to stimulus"	GO:0048583	2	2.01601097386935	Mcavernosa08308
+"regulation of cellular process"	GO:0050794	2	2.01601097386935	Mcavernosa08308
+"regulation of biological process"	GO:0050789	2	2.01601097386935	Mcavernosa08308
+"biological regulation"	GO:0065007	1	2.01601097386935	Mcavernosa08308
+"regulation of vascular endothelial growth factor receptor signaling pathway"	GO:0030947	4	2.01601097386935	Mcavernosa08308
+"regulation of cellular response to growth factor stimulus"	GO:0090287	2	2.01601097386935	Mcavernosa08308
+"cellular response to stress"	GO:0033554	3	2.01601097386935	Mcavernosa08308
+"cellular response to stimulus"	GO:0051716	2	2.01601097386935	Mcavernosa08308
+"cellular response to heat"	GO:0034605	3	2.01601097386935	Mcavernosa08308
+"wound healing"	GO:0042060	4	2.01601097386935	Mcavernosa08308
+"cell morphogenesis"	GO:0000902	3	-2.12502101982812	Mcavernosa10628
+"cellular component morphogenesis"	GO:0032989	2	-2.12502101982812	Mcavernosa10628
+"anatomical structure morphogenesis"	GO:0009653	2	-2.12502101982812	Mcavernosa10628
+"cellular component organization"	GO:0016043	2	-2.12502101982812	Mcavernosa10628
+"cellular developmental process"	GO:0048869	2	-2.12502101982812	Mcavernosa10628
+"developmental process"	GO:0032502	1	-2.12502101982812	Mcavernosa10628
+"biological_process"	GO:0008150	-1	-2.12502101982812	Mcavernosa10628
+"cellular process"	GO:0009987	1	-2.12502101982812	Mcavernosa10628
+"cellular component organization or biogenesis"	GO:0071840	1	-2.12502101982812	Mcavernosa10628
+"eye development"	GO:0001654	3	-2.12502101982812	Mcavernosa10628
+"sensory organ development"	GO:0007423	2	-2.12502101982812	Mcavernosa10628
+"animal organ development"	GO:0048513	3	-2.12502101982812	Mcavernosa10628
+"anatomical structure development"	GO:0048856	2	-2.12502101982812	Mcavernosa10628
+"eye photoreceptor cell differentiation"	GO:0001754	2	-2.12502101982812	Mcavernosa10628
+"photoreceptor cell differentiation"	GO:0046530	5	-2.12502101982812	Mcavernosa10628
+"neuron differentiation"	GO:0030182	4	-2.12502101982812	Mcavernosa10628
+"cell differentiation"	GO:0030154	3	-2.12502101982812	Mcavernosa10628
+"system process"	GO:0003008	2	-2.12502101982812	Mcavernosa10628
+"multicellular organismal process"	GO:0032501	1	-2.12502101982812	Mcavernosa10628
+"cilium movement"	GO:0003341	4	-2.12502101982812	Mcavernosa10628
+"microtubule-based movement"	GO:0007018	2	-2.12502101982812	Mcavernosa10628
+"movement of cell or subcellular component"	GO:0006928	2	-2.12502101982812	Mcavernosa10628
+"microtubule-based process"	GO:0007017	2	-2.12502101982812	Mcavernosa10628
+"epithelial cilium movement"	GO:0003351	2	-2.12502101982812	Mcavernosa10628
+"neural retina development"	GO:0003407	3	-2.12502101982812	Mcavernosa10628
+"transport"	GO:0006810	2	-2.12502101982812	Mcavernosa10628
+"establishment of localization"	GO:0051234	2	-2.12502101982812	Mcavernosa10628
+"localization"	GO:0051179	1	-2.12502101982812	Mcavernosa10628
+"intracellular protein transport"	GO:0006886	2	-2.12502101982812	Mcavernosa10628
+"protein transport"	GO:0015031	3	-2.12502101982812	Mcavernosa10628
+"intracellular transport"	GO:0046907	2	-2.12502101982812	Mcavernosa10628
+"peptide transport"	GO:0015833	2	-2.12502101982812	Mcavernosa10628
+"establishment of protein localization"	GO:0045184	2	-2.12502101982812	Mcavernosa10628
+"amide transport"	GO:0042886	3	-2.12502101982812	Mcavernosa10628
+"organic substance transport"	GO:0071702	2	-2.12502101982812	Mcavernosa10628
+"protein localization"	GO:0008104	3	-2.12502101982812	Mcavernosa10628
+"nitrogen compound transport"	GO:0071705	2	-2.12502101982812	Mcavernosa10628
+"macromolecule localization"	GO:0033036	2	-2.12502101982812	Mcavernosa10628
+"cellular localization"	GO:0051641	2	-2.12502101982812	Mcavernosa10628
+"establishment of localization in cell"	GO:0051649	2	-2.12502101982812	Mcavernosa10628
+"organelle organization"	GO:0006996	2	-2.12502101982812	Mcavernosa10628
+"multicellular organism development"	GO:0007275	2	-2.12502101982812	Mcavernosa10628
+"determination of left/right symmetry"	GO:0007368	3	-2.12502101982812	Mcavernosa10628
+"determination of bilateral symmetry"	GO:0009855	2	-2.12502101982812	Mcavernosa10628
+"specification of symmetry"	GO:0009799	3	-2.12502101982812	Mcavernosa10628
+"pattern specification process"	GO:0007389	2	-2.12502101982812	Mcavernosa10628
+"nervous system development"	GO:0007399	2	-2.12502101982812	Mcavernosa10628
+"system development"	GO:0048731	3	-2.12502101982812	Mcavernosa10628
+"sensory perception"	GO:0007600	2	-2.12502101982812	Mcavernosa10628
+"nervous system process"	GO:0050877	2	-2.12502101982812	Mcavernosa10628
+"visual perception"	GO:0007601	2	-2.12502101982812	Mcavernosa10628
+"sensory perception of light stimulus"	GO:0050953	4	-2.12502101982812	Mcavernosa10628
+"animal organ morphogenesis"	GO:0009887	2	-2.12502101982812	Mcavernosa10628
+"retina layer formation"	GO:0010842	3	-2.12502101982812	Mcavernosa10628
+"anatomical structure formation involved in morphogenesis"	GO:0048646	2	-2.12502101982812	Mcavernosa10628
+"cellular component assembly involved in morphogenesis"	GO:0010927	3	-2.12502101982812	Mcavernosa10628
+"cellular component assembly"	GO:0022607	2	-2.12502101982812	Mcavernosa10628
+"transport along microtubule"	GO:0010970	4	-2.12502101982812	Mcavernosa10628
+"cytoskeleton-dependent intracellular transport"	GO:0030705	4	-2.12502101982812	Mcavernosa10628
+"microtubule-based transport"	GO:0099111	3	-2.12502101982812	Mcavernosa10628
+"neurogenesis"	GO:0022008	2	-2.12502101982812	Mcavernosa10628
+"cell projection organization"	GO:0030030	2	-2.12502101982812	Mcavernosa10628
+"cell projection assembly"	GO:0030031	2	-2.12502101982812	Mcavernosa10628
+"cell part morphogenesis"	GO:0032990	3	-2.12502101982812	Mcavernosa10628
+"cellular protein localization"	GO:0034613	4	-2.12502101982812	Mcavernosa10628
+"cellular macromolecule localization"	GO:0070727	2	-2.12502101982812	Mcavernosa10628
+"intraciliary transport"	GO:0042073	6	-2.12502101982812	Mcavernosa10628
+"protein-containing complex localization"	GO:0031503	2	-2.12502101982812	Mcavernosa10628
+"protein transport along microtubule"	GO:0098840	3	-2.12502101982812	Mcavernosa10628
+"microtubule-based protein transport"	GO:0099118	2	-2.12502101982812	Mcavernosa10628
+"photoreceptor cell development"	GO:0042461	2	-2.12502101982812	Mcavernosa10628
+"neuron development"	GO:0048666	2	-2.12502101982812	Mcavernosa10628
+"cell development"	GO:0048468	2	-2.12502101982812	Mcavernosa10628
+"eye photoreceptor cell development"	GO:0042462	6	-2.12502101982812	Mcavernosa10628
+"camera-type eye development"	GO:0043010	2	-2.12502101982812	Mcavernosa10628
+"cellular component biogenesis"	GO:0044085	2	-2.12502101982812	Mcavernosa10628
+"cilium organization"	GO:0044782	2	-2.12502101982812	Mcavernosa10628
+"plasma membrane bounded cell projection organization"	GO:0120036	3	-2.12502101982812	Mcavernosa10628
+"eye morphogenesis"	GO:0048592	2	-2.12502101982812	Mcavernosa10628
+"sensory organ morphogenesis"	GO:0090596	2	-2.12502101982812	Mcavernosa10628
+"camera-type eye morphogenesis"	GO:0048593	5	-2.12502101982812	Mcavernosa10628
+"generation of neurons"	GO:0048699	2	-2.12502101982812	Mcavernosa10628
+"cell projection morphogenesis"	GO:0048858	2	-2.12502101982812	Mcavernosa10628
+"retina development in camera-type eye"	GO:0060041	3	-2.12502101982812	Mcavernosa10628
+"retina morphogenesis in camera-type eye"	GO:0060042	2	-2.12502101982812	Mcavernosa10628
+"cilium assembly"	GO:0060271	2	-2.12502101982812	Mcavernosa10628
+"organelle assembly"	GO:0070925	2	-2.12502101982812	Mcavernosa10628
+"plasma membrane bounded cell projection assembly"	GO:0120031	2	-2.12502101982812	Mcavernosa10628
+"epithelial cilium movement involved in determination of left/right asymmetry"	GO:0060287	3	-2.12502101982812	Mcavernosa10628
+"nematode larval development"	GO:0002119	2	-2.05789261689392	Mcavernosa34467
+"larval development"	GO:0002164	3	-2.05789261689392	Mcavernosa34467
+"multicellular organism development"	GO:0007275	2	-2.05789261689392	Mcavernosa34467
+"post-embryonic development"	GO:0009791	2	-2.05789261689392	Mcavernosa34467
+"multicellular organismal process"	GO:0032501	1	-2.05789261689392	Mcavernosa34467
+"anatomical structure development"	GO:0048856	2	-2.05789261689392	Mcavernosa34467
+"biological_process"	GO:0008150	-1	-2.05789261689392	Mcavernosa34467
+"developmental process"	GO:0032502	1	-2.05789261689392	Mcavernosa34467
+"system process"	GO:0003008	2	-2.05789261689392	Mcavernosa34467
+"transport"	GO:0006810	2	-2.05789261689392	Mcavernosa34467
+"establishment of localization"	GO:0051234	2	-2.05789261689392	Mcavernosa34467
+"localization"	GO:0051179	1	-2.05789261689392	Mcavernosa34467
+"excretion"	GO:0007588	2	-2.05789261689392	Mcavernosa34467
+"protein localization"	GO:0008104	3	-2.05789261689392	Mcavernosa34467
+"macromolecule localization"	GO:0033036	2	-2.05789261689392	Mcavernosa34467
+"metabolic process"	GO:0008152	1	-2.05789261689392	Mcavernosa34467
+"catabolic process"	GO:0009056	2	-2.05789261689392	Mcavernosa34467
+"macromolecule catabolic process"	GO:0009057	3	-2.05789261689392	Mcavernosa34467
+"macromolecule metabolic process"	GO:0043170	2	-2.05789261689392	Mcavernosa34467
+"organic substance catabolic process"	GO:1901575	2	-2.05789261689392	Mcavernosa34467
+"organic substance metabolic process"	GO:0071704	2	-2.05789261689392	Mcavernosa34467
+"embryo development"	GO:0009790	3	-2.05789261689392	Mcavernosa34467
+"embryo development ending in birth or egg hatching"	GO:0009792	4	-2.05789261689392	Mcavernosa34467
+"cellular process"	GO:0009987	1	-2.05789261689392	Mcavernosa34467
+"protein metabolic process"	GO:0019538	2	-2.05789261689392	Mcavernosa34467
+"primary metabolic process"	GO:0044238	2	-2.05789261689392	Mcavernosa34467
+"organonitrogen compound metabolic process"	GO:1901564	2	-2.05789261689392	Mcavernosa34467
+"nitrogen compound metabolic process"	GO:0006807	2	-2.05789261689392	Mcavernosa34467
+"protein catabolic process"	GO:0030163	4	-2.05789261689392	Mcavernosa34467
+"organonitrogen compound catabolic process"	GO:1901565	3	-2.05789261689392	Mcavernosa34467
+"defecation"	GO:0030421	2	-2.05789261689392	Mcavernosa34467
+"secretion by cell"	GO:0032940	2	-2.05789261689392	Mcavernosa34467
+"secretion"	GO:0046903	2	-2.05789261689392	Mcavernosa34467
+"protein localization to synapse"	GO:0035418	2	-2.05789261689392	Mcavernosa34467
+"growth"	GO:0040007	1	-2.05789261689392	Mcavernosa34467
+"regulation of growth"	GO:0040008	2	-2.05789261689392	Mcavernosa34467
+"regulation of biological process"	GO:0050789	2	-2.05789261689392	Mcavernosa34467
+"biological regulation"	GO:0065007	1	-2.05789261689392	Mcavernosa34467
+"regulation of growth rate"	GO:0040009	3	-2.05789261689392	Mcavernosa34467
+"positive regulation of growth rate"	GO:0040010	2	-2.05789261689392	Mcavernosa34467
+"positive regulation of growth"	GO:0045927	4	-2.05789261689392	Mcavernosa34467
+"positive regulation of biological process"	GO:0048518	3	-2.05789261689392	Mcavernosa34467
+"locomotion"	GO:0040011	1	-2.05789261689392	Mcavernosa34467
+"cellular localization"	GO:0051641	2	-2.05789261689392	Mcavernosa34467
+"establishment of localization in cell"	GO:0051649	2	-2.05789261689392	Mcavernosa34467
+"regulation of cell growth"	GO:0001558	2	6.03742012503422	Mcavernosa31103
+"regulation of growth"	GO:0040008	2	6.03742012503422	Mcavernosa31103
+"regulation of cellular component organization"	GO:0051128	3	6.03742012503422	Mcavernosa31103
+"regulation of biological process"	GO:0050789	2	6.03742012503422	Mcavernosa31103
+"biological regulation"	GO:0065007	1	6.03742012503422	Mcavernosa31103
+"biological_process"	GO:0008150	-1	6.03742012503422	Mcavernosa31103
+"regulation of cellular process"	GO:0050794	2	6.03742012503422	Mcavernosa31103
+"in utero embryonic development"	GO:0001701	2	6.03742012503422	Mcavernosa31103
+"chordate embryonic development"	GO:0043009	2	6.03742012503422	Mcavernosa31103
+"embryo development ending in birth or egg hatching"	GO:0009792	4	6.03742012503422	Mcavernosa31103
+"embryo development"	GO:0009790	3	6.03742012503422	Mcavernosa31103
+"multicellular organism development"	GO:0007275	2	6.03742012503422	Mcavernosa31103
+"multicellular organismal process"	GO:0032501	1	6.03742012503422	Mcavernosa31103
+"anatomical structure development"	GO:0048856	2	6.03742012503422	Mcavernosa31103
+"developmental process"	GO:0032502	1	6.03742012503422	Mcavernosa31103
+"cell activation"	GO:0001775	2	6.03742012503422	Mcavernosa31103
+"cellular process"	GO:0009987	1	6.03742012503422	Mcavernosa31103
+"myeloid leukocyte activation"	GO:0002274	3	6.03742012503422	Mcavernosa31103
+"leukocyte activation"	GO:0045321	2	6.03742012503422	Mcavernosa31103
+"immune system process"	GO:0002376	1	6.03742012503422	Mcavernosa31103
+"regulation of immune system process"	GO:0002682	2	6.03742012503422	Mcavernosa31103
+"positive regulation of immune system process"	GO:0002684	4	6.03742012503422	Mcavernosa31103
+"positive regulation of biological process"	GO:0048518	3	6.03742012503422	Mcavernosa31103
+"regulation of leukocyte migration"	GO:0002685	3	6.03742012503422	Mcavernosa31103
+"regulation of cell migration"	GO:0030334	2	6.03742012503422	Mcavernosa31103
+"regulation of cell motility"	GO:2000145	4	6.03742012503422	Mcavernosa31103
+"regulation of locomotion"	GO:0040012	2	6.03742012503422	Mcavernosa31103
+"regulation of cellular component movement"	GO:0051270	3	6.03742012503422	Mcavernosa31103
+"regulation of localization"	GO:0032879	2	6.03742012503422	Mcavernosa31103
+"positive regulation of leukocyte migration"	GO:0002687	2	6.03742012503422	Mcavernosa31103
+"positive regulation of cell migration"	GO:0030335	6	6.03742012503422	Mcavernosa31103
+"positive regulation of cell motility"	GO:2000147	2	6.03742012503422	Mcavernosa31103
+"positive regulation of locomotion"	GO:0040017	4	6.03742012503422	Mcavernosa31103
+"positive regulation of cellular component movement"	GO:0051272	3	6.03742012503422	Mcavernosa31103
+"positive regulation of cellular process"	GO:0048522	2	6.03742012503422	Mcavernosa31103
+"regulation of leukocyte chemotaxis"	GO:0002688	4	6.03742012503422	Mcavernosa31103
+"regulation of chemotaxis"	GO:0050920	3	6.03742012503422	Mcavernosa31103
+"regulation of response to external stimulus"	GO:0032101	2	6.03742012503422	Mcavernosa31103
+"regulation of response to stimulus"	GO:0048583	2	6.03742012503422	Mcavernosa31103
+"positive regulation of leukocyte chemotaxis"	GO:0002690	2	6.03742012503422	Mcavernosa31103
+"positive regulation of chemotaxis"	GO:0050921	5	6.03742012503422	Mcavernosa31103
+"positive regulation of response to external stimulus"	GO:0032103	2	6.03742012503422	Mcavernosa31103
+"positive regulation of response to stimulus"	GO:0048584	4	6.03742012503422	Mcavernosa31103
+"regulation of myeloid leukocyte differentiation"	GO:0002761	2	6.03742012503422	Mcavernosa31103
+"regulation of myeloid cell differentiation"	GO:0045637	2	6.03742012503422	Mcavernosa31103
+"regulation of leukocyte differentiation"	GO:1902105	3	6.03742012503422	Mcavernosa31103
+"regulation of cell differentiation"	GO:0045595	2	6.03742012503422	Mcavernosa31103
+"regulation of hemopoiesis"	GO:1903706	3	6.03742012503422	Mcavernosa31103
+"regulation of developmental process"	GO:0050793	3	6.03742012503422	Mcavernosa31103
+"regulation of multicellular organismal development"	GO:2000026	2	6.03742012503422	Mcavernosa31103
+"regulation of multicellular organismal process"	GO:0051239	2	6.03742012503422	Mcavernosa31103
+"cellular protein modification process"	GO:0006464	2	6.03742012503422	Mcavernosa31103
+"protein modification process"	GO:0036211	3	6.03742012503422	Mcavernosa31103
+"cellular protein metabolic process"	GO:0044267	4	6.03742012503422	Mcavernosa31103
+"protein metabolic process"	GO:0019538	2	6.03742012503422	Mcavernosa31103
+"macromolecule modification"	GO:0043412	3	6.03742012503422	Mcavernosa31103
+"macromolecule metabolic process"	GO:0043170	2	6.03742012503422	Mcavernosa31103
+"primary metabolic process"	GO:0044238	2	6.03742012503422	Mcavernosa31103
+"organonitrogen compound metabolic process"	GO:1901564	2	6.03742012503422	Mcavernosa31103
+"organic substance metabolic process"	GO:0071704	2	6.03742012503422	Mcavernosa31103
+"metabolic process"	GO:0008152	1	6.03742012503422	Mcavernosa31103
+"nitrogen compound metabolic process"	GO:0006807	2	6.03742012503422	Mcavernosa31103
+"cellular macromolecule metabolic process"	GO:0044260	2	6.03742012503422	Mcavernosa31103
+"cellular metabolic process"	GO:0044237	2	6.03742012503422	Mcavernosa31103
+"protein phosphorylation"	GO:0006468	6	6.03742012503422	Mcavernosa31103
+"phosphorylation"	GO:0016310	5	6.03742012503422	Mcavernosa31103
+"phosphate-containing compound metabolic process"	GO:0006796	2	6.03742012503422	Mcavernosa31103
+"phosphorus metabolic process"	GO:0006793	3	6.03742012503422	Mcavernosa31103
+"proteolysis"	GO:0006508	3	6.03742012503422	Mcavernosa31103
+"membrane protein ectodomain proteolysis"	GO:0006509	3	6.03742012503422	Mcavernosa31103
+"membrane protein proteolysis"	GO:0033619	2	6.03742012503422	Mcavernosa31103
+"transport"	GO:0006810	2	6.03742012503422	Mcavernosa31103
+"establishment of localization"	GO:0051234	2	6.03742012503422	Mcavernosa31103
+"localization"	GO:0051179	1	6.03742012503422	Mcavernosa31103
+"nucleocytoplasmic transport"	GO:0006913	2	6.03742012503422	Mcavernosa31103
+"nuclear transport"	GO:0051169	3	6.03742012503422	Mcavernosa31103
+"intracellular transport"	GO:0046907	2	6.03742012503422	Mcavernosa31103
+"cellular localization"	GO:0051641	2	6.03742012503422	Mcavernosa31103
+"establishment of localization in cell"	GO:0051649	2	6.03742012503422	Mcavernosa31103
+"cell communication"	GO:0007154	2	6.03742012503422	Mcavernosa31103
+"negative regulation of cell adhesion"	GO:0007162	2	6.03742012503422	Mcavernosa31103
+"regulation of cell adhesion"	GO:0030155	2	6.03742012503422	Mcavernosa31103
+"negative regulation of cellular process"	GO:0048523	2	6.03742012503422	Mcavernosa31103
+"negative regulation of biological process"	GO:0048519	3	6.03742012503422	Mcavernosa31103
+"signal transduction"	GO:0007165	3	6.03742012503422	Mcavernosa31103
+"cell surface receptor signaling pathway"	GO:0007166	2	6.03742012503422	Mcavernosa31103
+"enzyme linked receptor protein signaling pathway"	GO:0007167	5	6.03742012503422	Mcavernosa31103
+"transmembrane receptor protein tyrosine kinase signaling pathway"	GO:0007169	2	6.03742012503422	Mcavernosa31103
+"epidermal growth factor receptor signaling pathway"	GO:0007173	4	6.03742012503422	Mcavernosa31103
+"ERBB signaling pathway"	GO:0038127	3	6.03742012503422	Mcavernosa31103
+"Notch signaling pathway"	GO:0007219	5	6.03742012503422	Mcavernosa31103
+"Notch receptor processing"	GO:0007220	5	6.03742012503422	Mcavernosa31103
+"integrin-mediated signaling pathway"	GO:0007229	5	6.03742012503422	Mcavernosa31103
+"cell-cell signaling"	GO:0007267	2	6.03742012503422	Mcavernosa31103
+"signaling"	GO:0023052	1	6.03742012503422	Mcavernosa31103
+"positive regulation of cell population proliferation"	GO:0008284	5	6.03742012503422	Mcavernosa31103
+"regulation of cell population proliferation"	GO:0042127	3	6.03742012503422	Mcavernosa31103
+"response to organic substance"	GO:0010033	2	6.03742012503422	Mcavernosa31103
+"response to chemical"	GO:0042221	2	6.03742012503422	Mcavernosa31103
+"response to stimulus"	GO:0050896	1	6.03742012503422	Mcavernosa31103
+"regulation of T cell chemotaxis"	GO:0010819	2	6.03742012503422	Mcavernosa31103
+"regulation of lymphocyte chemotaxis"	GO:1901623	4	6.03742012503422	Mcavernosa31103
+"regulation of T cell migration"	GO:2000404	2	6.03742012503422	Mcavernosa31103
+"regulation of lymphocyte migration"	GO:2000401	4	6.03742012503422	Mcavernosa31103
+"positive regulation of T cell chemotaxis"	GO:0010820	5	6.03742012503422	Mcavernosa31103
+"positive regulation of lymphocyte chemotaxis"	GO:0140131	3	6.03742012503422	Mcavernosa31103
+"positive regulation of T cell migration"	GO:2000406	3	6.03742012503422	Mcavernosa31103
+"positive regulation of lymphocyte migration"	GO:2000403	2	6.03742012503422	Mcavernosa31103
+"positive regulation of cell growth"	GO:0030307	2	6.03742012503422	Mcavernosa31103
+"positive regulation of growth"	GO:0045927	4	6.03742012503422	Mcavernosa31103
+"response to cytokine"	GO:0034097	2	6.03742012503422	Mcavernosa31103
+"response to tumor necrosis factor"	GO:0034612	4	6.03742012503422	Mcavernosa31103
+"monocyte activation"	GO:0042117	4	6.03742012503422	Mcavernosa31103
+"regulation of osteoclast differentiation"	GO:0045670	7	6.03742012503422	Mcavernosa31103
+"positive regulation of behavior"	GO:0048520	2	6.03742012503422	Mcavernosa31103
+"regulation of behavior"	GO:0050795	3	6.03742012503422	Mcavernosa31103
+"PMA-inducible membrane protein ectodomain proteolysis"	GO:0051088	7	6.03742012503422	Mcavernosa31103
+"constitutive protein ectodomain proteolysis"	GO:0051089	7	6.03742012503422	Mcavernosa31103
+"cellular response to stimulus"	GO:0051716	2	6.03742012503422	Mcavernosa31103
+"morphogenesis of an epithelium"	GO:0002009	2	1.39456001248902	Mcavernosa31484
+"tissue morphogenesis"	GO:0048729	3	1.39456001248902	Mcavernosa31484
+"anatomical structure morphogenesis"	GO:0009653	2	1.39456001248902	Mcavernosa31484
+"developmental process"	GO:0032502	1	1.39456001248902	Mcavernosa31484
+"biological_process"	GO:0008150	-1	1.39456001248902	Mcavernosa31484
+"heart morphogenesis"	GO:0003007	2	1.39456001248902	Mcavernosa31484
+"animal organ morphogenesis"	GO:0009887	2	1.39456001248902	Mcavernosa31484
+"movement of cell or subcellular component"	GO:0006928	2	1.39456001248902	Mcavernosa31484
+"cellular process"	GO:0009987	1	1.39456001248902	Mcavernosa31484
+"cell adhesion"	GO:0007155	2	1.39456001248902	Mcavernosa31484
+"biological adhesion"	GO:0022610	1	1.39456001248902	Mcavernosa31484
+"establishment or maintenance of cell polarity"	GO:0007163	2	1.39456001248902	Mcavernosa31484
+"multicellular organism development"	GO:0007275	2	1.39456001248902	Mcavernosa31484
+"multicellular organismal process"	GO:0032501	1	1.39456001248902	Mcavernosa31484
+"anatomical structure development"	GO:0048856	2	1.39456001248902	Mcavernosa31484
+"heart development"	GO:0007507	2	1.39456001248902	Mcavernosa31484
+"animal organ development"	GO:0048513	3	1.39456001248902	Mcavernosa31484
+"tissue development"	GO:0009888	3	1.39456001248902	Mcavernosa31484
+"cell migration"	GO:0016477	2	1.39456001248902	Mcavernosa31484
+"cell motility"	GO:0048870	2	1.39456001248902	Mcavernosa31484
+"locomotion"	GO:0040011	1	1.39456001248902	Mcavernosa31484
+"establishment or maintenance of apical/basal cell polarity"	GO:0035088	3	1.39456001248902	Mcavernosa31484
+"establishment or maintenance of bipolar cell polarity"	GO:0061245	2	1.39456001248902	Mcavernosa31484
+"system development"	GO:0048731	3	1.39456001248902	Mcavernosa31484
+"localization"	GO:0051179	1	1.39456001248902	Mcavernosa31484
+"localization of cell"	GO:0051674	2	1.39456001248902	Mcavernosa31484
+"epithelium development"	GO:0060429	2	1.39456001248902	Mcavernosa31484
+"cell adhesion involved in heart morphogenesis"	GO:0061343	2	1.39456001248902	Mcavernosa31484
+"cardiovascular system development"	GO:0072358	2	1.39456001248902	Mcavernosa31484
+"circulatory system development"	GO:0072359	2	1.39456001248902	Mcavernosa31484

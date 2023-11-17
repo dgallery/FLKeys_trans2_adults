@@ -1,0 +1,1272 @@
+name	term	lev	seq	value
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa05262	0.522731951518855
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa12603	2.32304930562969
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa26417	-1.10306161121984
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa20543	-0.599163747756626
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa20819	0.0191638557897351
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa22974	0.163445434006652
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa23463	-0.430850708354606
+"phosphoric ester hydrolase activity"	GO:0042578;GO:0016791	4	Mcavernosa27270	0.673811688773883
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa05180	0.673917421470048
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa06045	3.63297316502377
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa28254	0.0541101250994746
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa14781	-0.256613942938293
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa11909	0.0280737616928119
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa18494	0.429402161603429
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa18576	5.80344925688899
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa24154	-0.097375879571784
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa01527	-0.172004214181967
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa07504	-0.672201145071351
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa31100	-0.0685195971525766
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa15167	0.0333040173608385
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa10510	0.718094058442981
+"tubulin binding"	GO:0008017;GO:0015631	2	Mcavernosa30913	0.250552878907586
+"actin filament binding"	GO:0051015	3	Mcavernosa04816	-0.0670500502245522
+"actin filament binding"	GO:0051015	3	Mcavernosa14884	-0.498363375320034
+"actin filament binding"	GO:0051015	3	Mcavernosa22769	-0.0617633547711772
+"actin filament binding"	GO:0051015	3	Mcavernosa02165	-1.05865497645643
+"actin filament binding"	GO:0051015	3	Mcavernosa16568	0.116770398226089
+"acetyltransferase activity"	GO:0016407	2	Mcavernosa04802	0.472010769236991
+"acetyltransferase activity"	GO:0016407	2	Mcavernosa09078	-0.948114914000184
+"acetyltransferase activity"	GO:0016407	2	Mcavernosa18494	0.429402161603429
+"acetyltransferase activity"	GO:0016407	2	Mcavernosa00562	0.77646277496146
+"acetyltransferase activity"	GO:0016407	2	Mcavernosa03676	-0.24881206133562
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa05816	-0.760069472640234
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa14122	0.231792385828952
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa09170	0.366787195976221
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa06671	1.14550013860001
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa19924	-0.368300848060483
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa15612	-0.539804277966065
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa23808	0.249215346536184
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa03729	0.0922103417562317
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa17245	1.24291486841466
+"catalytic activity, acting on RNA"	GO:0140098	2	Mcavernosa03173	1.05713828962951
+"magnesium ion binding"	GO:0000287	4	Mcavernosa06175	0.121088496567171
+"magnesium ion binding"	GO:0000287	4	Mcavernosa13397	-0.786174282487517
+"magnesium ion binding"	GO:0000287	4	Mcavernosa14751	-0.123619317319729
+"magnesium ion binding"	GO:0000287	4	Mcavernosa07051	-1.850643412202
+"magnesium ion binding"	GO:0000287	4	Mcavernosa15703	0.282400392778105
+"magnesium ion binding"	GO:0000287	4	Mcavernosa27270	0.673811688773883
+"magnesium ion binding"	GO:0000287	4	Mcavernosa34528	-0.612932245838887
+"magnesium ion binding"	GO:0000287	4	Mcavernosa30802	-0.194300469766652
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa07051	-1.850643412202
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa16263	2.10425852194976
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa17803	-0.434968401979785
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa03456	0.171156162763934
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa03676	-0.24881206133562
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa25310	0.0804512557101142
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa25737	-0.0709725441164587
+"cofactor binding"	GO:0050662;GO:0048037	3	Mcavernosa08156	-0.577835983015791
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa04816	-0.0670500502245522
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa14884	-0.498363375320034
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa22406	-0.0308216896606807
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa22769	-0.0617633547711772
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa15975	0.198240066856783
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa11213	0.491234618623641
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa09460	-0.185565370419602
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa21130	0.812437125159734
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa02023	0.67131258067255
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa02165	-1.05865497645643
+"protein-containing complex binding"	GO:0044877	2	Mcavernosa16568	0.116770398226089
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa05857	-1.4332062787095
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa28254	0.0541101250994746
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa14781	-0.256613942938293
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa15320	-0.288574972977498
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa11853	0.0979694899785635
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa11894	-0.167530093122046
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa07024	0.0626969610878739
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa22595	0.214919130480114
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa15703	0.282400392778105
+"guanyl nucleotide binding"	GO:0005525;GO:0032561;GO:0019001	4	Mcavernosa21915	0.256498838374204
+"zinc ion binding"	GO:0008270	2	Mcavernosa13095	-0.726118469279859
+"zinc ion binding"	GO:0008270	2	Mcavernosa14548	-0.621496206227601
+"zinc ion binding"	GO:0008270	2	Mcavernosa21917	-1.25462189876393
+"zinc ion binding"	GO:0008270	2	Mcavernosa20543	-0.599163747756626
+"zinc ion binding"	GO:0008270	2	Mcavernosa27270	0.673811688773883
+"zinc ion binding"	GO:0008270	2	Mcavernosa24666	0.267346810618777
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa06121	-0.508650361596383
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa06124	-0.370970371770491
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa27973	0.58975433854391
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa12026	-0.31244203675719
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa31864	4.78993432753747
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa21863	0.319187097881905
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa22404	-0.259866053399535
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa20682	1.25294841929505
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa17414	-0.828858344467344
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa18021	1.65900870410481
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa23555	2.9960866557639
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa25691	0.667908962964863
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa01893	-0.741890454808612
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa08225	0.449887207593551
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa24413	1.55841231686804
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa24412	-0.360296653063839
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa16477	0.0861228024737234
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa16481	-0.510185448060468
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa16569	0.02967333755885
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa08566	0.575239077073468
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa08683	-0.0832333350479906
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa18374	0.383472946403686
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa24349	1.13432288884195
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa02584	4.37301239877326
+"inorganic molecular entity transmembrane transporter activity"	GO:0022890;GO:0015318;GO:0008324;GO:0015075	2	Mcavernosa22382	-0.297589197438231
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa14408	0.0253585104133313
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa12026	-0.31244203675719
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa18374	0.383472946403686
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa06192	-1.37200423060549
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa29901	0.0756091517951236
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa24413	1.55841231686804
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa24412	-0.360296653063839
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa16477	0.0861228024737234
+"primary active transmembrane transporter activity"	GO:0015399;GO:0015405;GO:0042626;GO:0043492	4	Mcavernosa16481	-0.510185448060468
+"transcription factor binding"	GO:0008134	3	Mcavernosa04314	-0.664524149603033
+"transcription factor binding"	GO:0008134	3	Mcavernosa12724	1.26925234277308
+"transcription factor binding"	GO:0008134	3	Mcavernosa13095	-0.726118469279859
+"transcription factor binding"	GO:0008134	3	Mcavernosa14027	-0.14262794060665
+"transcription factor binding"	GO:0008134	3	Mcavernosa27934	-0.28777852761249
+"transcription factor binding"	GO:0008134	3	Mcavernosa08425	-0.181900892835396
+"transcription factor binding"	GO:0008134	3	Mcavernosa08742	0.196609911836709
+"transcription factor binding"	GO:0008134	3	Mcavernosa14751	-0.123619317319729
+"transcription factor binding"	GO:0008134	3	Mcavernosa15167	0.0333040173608385
+"transcription factor binding"	GO:0008134	3	Mcavernosa12071	-0.758684363840594
+"transcription factor binding"	GO:0008134	3	Mcavernosa18360	0.0485783053385017
+"transcription factor binding"	GO:0008134	3	Mcavernosa18979	1.41061210898768
+"transcription factor binding"	GO:0008134	3	Mcavernosa19825	1.09858251275218
+"transcription factor binding"	GO:0008134	3	Mcavernosa21915	0.256498838374204
+"transcription factor binding"	GO:0008134	3	Mcavernosa15655	-0.149533102472838
+"transcription factor binding"	GO:0008134	3	Mcavernosa09909	1.08698349040042
+"transcription factor binding"	GO:0008134	3	Mcavernosa21601	-0.310050078103574
+"transcription factor binding"	GO:0008134	3	Mcavernosa20110	0.60638146048907
+"transcription factor binding"	GO:0008134	3	Mcavernosa20189	0.386173314174017
+"transcription factor binding"	GO:0008134	3	Mcavernosa34528	-0.612932245838887
+"transcription factor binding"	GO:0008134	3	Mcavernosa35077	0.213496107693504
+"transcription factor binding"	GO:0008134	3	Mcavernosa01285	-0.207988595902223
+"transcription factor binding"	GO:0008134	3	Mcavernosa01422	-0.837715943514968
+"transcription factor binding"	GO:0008134	3	Mcavernosa24666	0.267346810618777
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa12990	-0.307729589030377
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa27934	-0.28777852761249
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa08698	0.614577290097225
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa18979	1.41061210898768
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa07070	-0.370973263325129
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa22745	0.951240224855774
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa20110	0.60638146048907
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa00562	0.77646277496146
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa29923	-0.853863724542416
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa34528	-0.612932245838887
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa01422	-0.837715943514968
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa07800	2.29574399553417
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa08185	-0.0945669431220221
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa24829	0.279132910313718
+"transcription coactivator activity"	GO:0003713	2	Mcavernosa31020	0.0609799430608194
+"amino acid binding"	GO:0016597	2	Mcavernosa06121	-0.508650361596383
+"amino acid binding"	GO:0016597	2	Mcavernosa06124	-0.370970371770491
+"amino acid binding"	GO:0016597	2	Mcavernosa27973	0.58975433854391
+"amino acid binding"	GO:0016597	2	Mcavernosa10627	0.423204802250414
+"amino acid binding"	GO:0016597	2	Mcavernosa17803	-0.434968401979785
+"amino acid binding"	GO:0016597	2	Mcavernosa03071	-0.158957605909666
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa04314	-0.664524149603033
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa05262	0.522731951518855
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa05572	-0.150035331929679
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa05656	-1.23850595038755
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa12724	1.26925234277308
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa13971	-0.631274940226337
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa27934	-0.28777852761249
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa11853	0.0979694899785635
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa31684	-0.719906890979876
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa18360	0.0485783053385017
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa18494	0.429402161603429
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa06632	0.15317520527364
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa19734	-0.198541010301918
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa21863	0.319187097881905
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10819	0.462969572312989
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10817	-0.344660161863013
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10821	-0.219376291510543
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10941	-0.603741916391632
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa09460	-0.185565370419602
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10032	-0.466763806372361
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa20680	-0.770245429144605
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa23609	0.306401124140134
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa00928	-0.60818461781578
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa33463	0.79877707350172
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa01882	-0.167587435746091
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa02023	0.67131258067255
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa17044	0.0320318701688481
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa31089	-0.476866212432916
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa10094	-0.564596654060776
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa17276	0.464853038625831
+"molecular function regulator"	GO:0030234;GO:0098772	2	Mcavernosa30914	-1.34088169843686
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa06121	-0.508650361596383
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa06124	-0.370970371770491
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa27973	0.58975433854391
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa08566	0.575239077073468
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa08683	-0.0832333350479906
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa14408	0.0253585104133313
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa12026	-0.31244203675719
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa18374	0.383472946403686
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa06192	-1.37200423060549
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa22404	-0.259866053399535
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa29901	0.0756091517951236
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa24413	1.55841231686804
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa24412	-0.360296653063839
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa16477	0.0861228024737234
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa16481	-0.510185448060468
+"active transmembrane transporter activity"	GO:0022804	2	Mcavernosa16569	0.02967333755885
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa06121	-0.508650361596383
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa06124	-0.370970371770491
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa27973	0.58975433854391
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa08566	0.575239077073468
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa08683	-0.0832333350479906
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa22404	-0.259866053399535
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa24349	1.13432288884195
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa12026	-0.31244203675719
+"organic anion transmembrane transporter activity"	GO:0005342;GO:0046943;GO:0008514;GO:0015291	2	Mcavernosa16569	0.02967333755885
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa05970	0.294198738119405
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa09460	-0.185565370419602
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa09600	-0.0715986086542219
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa21508	-0.970197057308383
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa34160	-0.480438260358516
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa16657	0.0327333267531349
+"transmembrane signaling receptor activity"	GO:0004888	3	Mcavernosa02691	-0.200131903117409
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa04314	-0.664524149603033
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa13971	-0.631274940226337
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa10941	-0.603741916391632
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa09460	-0.185565370419602
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa10032	-0.466763806372361
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa23609	0.306401124140134
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa00928	-0.60818461781578
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa17044	0.0320318701688481
+"kinase regulator activity"	GO:0019887;GO:0019207	2	Mcavernosa33463	0.79877707350172
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa06121	-0.508650361596383
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa06124	-0.370970371770491
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa27973	0.58975433854391
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa08683	-0.0832333350479906
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa22382	-0.297589197438231
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa22404	-0.259866053399535
+"drug transmembrane transporter activity"	GO:0015238	2	Mcavernosa24349	1.13432288884195
+"amino acid transmembrane transporter activity"	GO:0015171	2	Mcavernosa06121	-0.508650361596383
+"amino acid transmembrane transporter activity"	GO:0015171	2	Mcavernosa06124	-0.370970371770491
+"amino acid transmembrane transporter activity"	GO:0015171	2	Mcavernosa27973	0.58975433854391
+"amino acid transmembrane transporter activity"	GO:0015171	2	Mcavernosa08566	0.575239077073468
+"amino acid transmembrane transporter activity"	GO:0015171	2	Mcavernosa22404	-0.259866053399535
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa14027	-0.14262794060665
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa27934	-0.28777852761249
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa14751	-0.123619317319729
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa32486	0.480115907600957
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa19825	1.09858251275218
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa20017	-0.38650416364824
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa16043	3.03815916299368
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa21601	-0.310050078103574
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa20110	0.60638146048907
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa20189	0.386173314174017
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa35077	0.213496107693504
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa01422	-0.837715943514968
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa24829	0.279132910313718
+"DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981	3	Mcavernosa31020	0.0609799430608194
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa06121	-0.508650361596383
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa06124	-0.370970371770491
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa27973	0.58975433854391
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa19201	4.46476326915684
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa15703	0.282400392778105
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa16263	2.10425852194976
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa10627	0.423204802250414
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa17803	-0.434968401979785
+"carboxylic acid binding"	GO:0031406;GO:0043177	4	Mcavernosa03071	-0.158957605909666
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa05816	-0.760069472640234
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa14122	0.231792385828952
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa11855	-0.319854767304927
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa12026	-0.31244203675719
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa18374	0.383472946403686
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa18494	0.429402161603429
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa06192	-1.37200423060549
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa06671	1.14550013860001
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa15612	-0.539804277966065
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa29901	0.0756091517951236
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa03729	0.0922103417562317
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa07547	-0.0908589883393588
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa07764	0.728345662297823
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa24413	1.55841231686804
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa24412	-0.360296653063839
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa16477	0.0861228024737234
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa16481	-0.510185448060468
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa31100	-0.0685195971525766
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa08742	0.196609911836709
+"ATPase activity"	GO:0042623;GO:0016887	8	Mcavernosa18373	-0.555295164081298
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa04816	-0.0670500502245522
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa05180	0.673917421470048
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa06045	3.63297316502377
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa13096	0.416739251989667
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa28254	0.0541101250994746
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa28850	1.43560668868124
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa14446	0.678178016802795
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa14781	-0.256613942938293
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa14884	-0.498363375320034
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa15167	0.0333040173608385
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa11909	0.0280737616928119
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa32167	-0.573993608386713
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa18494	0.429402161603429
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa18576	5.80344925688899
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa06769	-1.78569421646435
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa19620	-0.330881738452255
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa22382	-0.297589197438231
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa22769	-0.0617633547711772
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa10510	0.718094058442981
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa26417	-1.10306161121984
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa00764	-0.595615411011593
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa24154	-0.097375879571784
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa01446	0.336114885910516
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa01527	-0.172004214181967
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa02165	-1.05865497645643
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa07504	-0.672201145071351
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa16568	0.116770398226089
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa17007	1.4124865093372
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa03007	-0.338686104151266
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa30913	0.250552878907586
+"cytoskeletal protein binding"	GO:0008092	3	Mcavernosa31100	-0.0685195971525766
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa05656	-1.23850595038755
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa05970	0.294198738119405
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa06112	0.21023019033174
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa14013	2.20713307040576
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa11795	-1.08952582362016
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa11801	-0.485368027326044
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa09460	-0.185565370419602
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa09600	-0.0715986086542219
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa09909	1.08698349040042
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa21508	-0.970197057308383
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa26865	0.278567777720581
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa00889	-0.100069355469063
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa34160	-0.480438260358516
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa01422	-0.837715943514968
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa08185	-0.0945669431220221
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa24666	0.267346810618777
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa16657	0.0327333267531349
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa02691	-0.200131903117409
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa02940	-0.52896471660652
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa31020	0.0609799430608194
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa06079	0.140973300299667
+"molecular transducer activity"	GO:0004871;GO:0060089	-1	Mcavernosa06175	0.121088496567171
+"drug binding"	GO:0008144	2	Mcavernosa06175	0.121088496567171
+"drug binding"	GO:0008144	2	Mcavernosa12603	2.32304930562969
+"drug binding"	GO:0008144	2	Mcavernosa15167	0.0333040173608385
+"drug binding"	GO:0008144	2	Mcavernosa12026	-0.31244203675719
+"drug binding"	GO:0008144	2	Mcavernosa12071	-0.758684363840594
+"drug binding"	GO:0008144	2	Mcavernosa18374	0.383472946403686
+"drug binding"	GO:0008144	2	Mcavernosa07051	-1.850643412202
+"drug binding"	GO:0008144	2	Mcavernosa19201	4.46476326915684
+"drug binding"	GO:0008144	2	Mcavernosa19820	-0.714459107185693
+"drug binding"	GO:0008144	2	Mcavernosa19829	0.435643429045769
+"drug binding"	GO:0008144	2	Mcavernosa22155	-0.325982516564244
+"drug binding"	GO:0008144	2	Mcavernosa15612	-0.539804277966065
+"drug binding"	GO:0008144	2	Mcavernosa15975	0.198240066856783
+"drug binding"	GO:0008144	2	Mcavernosa16263	2.10425852194976
+"drug binding"	GO:0008144	2	Mcavernosa09869	0.787329419965521
+"drug binding"	GO:0008144	2	Mcavernosa21601	-0.310050078103574
+"drug binding"	GO:0008144	2	Mcavernosa17803	-0.434968401979785
+"drug binding"	GO:0008144	2	Mcavernosa18056	0.155191988683286
+"drug binding"	GO:0008144	2	Mcavernosa29901	0.0756091517951236
+"drug binding"	GO:0008144	2	Mcavernosa25737	-0.0709725441164587
+"drug binding"	GO:0008144	2	Mcavernosa34528	-0.612932245838887
+"drug binding"	GO:0008144	2	Mcavernosa03456	0.171156162763934
+"drug binding"	GO:0008144	2	Mcavernosa03729	0.0922103417562317
+"drug binding"	GO:0008144	2	Mcavernosa07547	-0.0908589883393588
+"drug binding"	GO:0008144	2	Mcavernosa08156	-0.577835983015791
+"drug binding"	GO:0008144	2	Mcavernosa02538	0.19644347423095
+"drug binding"	GO:0008144	2	Mcavernosa02940	-0.52896471660652
+"drug binding"	GO:0008144	2	Mcavernosa03071	-0.158957605909666
+"drug binding"	GO:0008144	2	Mcavernosa30802	-0.194300469766652
+"drug binding"	GO:0008144	2	Mcavernosa30882	0.7945165032609
+"drug binding"	GO:0008144	2	Mcavernosa31100	-0.0685195971525766
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa05624	-0.111071327905123
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa05656	-1.23850595038755
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa18360	0.0485783053385017
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa06914	0.573815329259569
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa02165	-1.05865497645643
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa16635	0.341111573838429
+"GTPase binding"	GO:0017016;GO:0031267;GO:0051020	2	Mcavernosa01882	-0.167587435746091
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa04314	-0.664524149603033
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa04750	0.800363917137061
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa06079	0.140973300299667
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa06175	0.121088496567171
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa14013	2.20713307040576
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa27949	-0.29781826012432
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa08312	0.271334263782396
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa14884	-0.498363375320034
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa12071	-0.758684363840594
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa31719	-1.99236311634553
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa19820	-0.714459107185693
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa22155	-0.325982516564244
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa10827	0.504449621127159
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa26865	0.278567777720581
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa00928	-0.60818461781578
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa34528	-0.612932245838887
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa01574	0.467130886011092
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa17090	0.794125515658332
+"protein serine/threonine kinase activity"	GO:0004674	4	Mcavernosa30898	-0.244040607811537
+"ligase activity"	GO:0016874	2	Mcavernosa04656	-0.280116465588387
+"ligase activity"	GO:0016874	2	Mcavernosa14548	-0.621496206227601
+"ligase activity"	GO:0016874	2	Mcavernosa11795	-1.08952582362016
+"ligase activity"	GO:0016874	2	Mcavernosa11801	-0.485368027326044
+"ligase activity"	GO:0016874	2	Mcavernosa19924	-0.368300848060483
+"ligase activity"	GO:0016874	2	Mcavernosa16263	2.10425852194976
+"ligase activity"	GO:0016874	2	Mcavernosa09350	0.330030320435978
+"ligase activity"	GO:0016874	2	Mcavernosa29896	0.0324868301985241
+"ligase activity"	GO:0016874	2	Mcavernosa01648	-2.07532720318025
+"ligase activity"	GO:0016874	2	Mcavernosa02783	-0.359999395994707
+"ligase activity"	GO:0016874	2	Mcavernosa03071	-0.158957605909666
+"ligase activity"	GO:0016874	2	Mcavernosa03173	1.05713828962951
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa06121	-0.508650361596383
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa06124	-0.370970371770491
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa27973	0.58975433854391
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa08566	0.575239077073468
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa08683	-0.0832333350479906
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa12026	-0.31244203675719
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa31864	4.78993432753747
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa22404	-0.259866053399535
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa24349	1.13432288884195
+"anion transmembrane transporter activity"	GO:0008509	3	Mcavernosa02584	4.37301239877326
+"actin binding"	GO:0003779	2	Mcavernosa04816	-0.0670500502245522
+"actin binding"	GO:0003779	2	Mcavernosa06045	3.63297316502377
+"actin binding"	GO:0003779	2	Mcavernosa28254	0.0541101250994746
+"actin binding"	GO:0003779	2	Mcavernosa14446	0.678178016802795
+"actin binding"	GO:0003779	2	Mcavernosa14781	-0.256613942938293
+"actin binding"	GO:0003779	2	Mcavernosa14884	-0.498363375320034
+"actin binding"	GO:0003779	2	Mcavernosa06769	-1.78569421646435
+"actin binding"	GO:0003779	2	Mcavernosa22769	-0.0617633547711772
+"actin binding"	GO:0003779	2	Mcavernosa26417	-1.10306161121984
+"actin binding"	GO:0003779	2	Mcavernosa01446	0.336114885910516
+"actin binding"	GO:0003779	2	Mcavernosa02165	-1.05865497645643
+"actin binding"	GO:0003779	2	Mcavernosa16568	0.116770398226089
+"actin binding"	GO:0003779	2	Mcavernosa30913	0.250552878907586
+"phospholipid binding"	GO:0005543	2	Mcavernosa06025	1.97193255879547
+"phospholipid binding"	GO:0005543	2	Mcavernosa12724	1.26925234277308
+"phospholipid binding"	GO:0005543	2	Mcavernosa08299	-0.953542517206381
+"phospholipid binding"	GO:0005543	2	Mcavernosa08308	2.01601097386935
+"phospholipid binding"	GO:0005543	2	Mcavernosa08312	0.271334263782396
+"phospholipid binding"	GO:0005543	2	Mcavernosa11855	-0.319854767304927
+"phospholipid binding"	GO:0005543	2	Mcavernosa18374	0.383472946403686
+"phospholipid binding"	GO:0005543	2	Mcavernosa07024	0.0626969610878739
+"phospholipid binding"	GO:0005543	2	Mcavernosa10627	0.423204802250414
+"phospholipid binding"	GO:0005543	2	Mcavernosa20543	-0.599163747756626
+"phospholipid binding"	GO:0005543	2	Mcavernosa02940	-0.52896471660652
+"phospholipid binding"	GO:0005543	2	Mcavernosa03071	-0.158957605909666
+"phospholipid binding"	GO:0005543	2	Mcavernosa30913	0.250552878907586
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa12724	1.26925234277308
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa14027	-0.14262794060665
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa27934	-0.28777852761249
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa32486	0.480115907600957
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa06769	-1.78569421646435
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa07070	-0.370973263325129
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa15655	-0.149533102472838
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa21601	-0.310050078103574
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa20110	0.60638146048907
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa20189	0.386173314174017
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa00889	-0.100069355469063
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa24337	-0.74635847634559
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa35077	0.213496107693504
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa01422	-0.837715943514968
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa01862	0.432181055484751
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa24666	0.267346810618777
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa24829	0.279132910313718
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa02940	-0.52896471660652
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa31020	0.0609799430608194
+"transcription regulatory region DNA binding"	GO:0001067;GO:0044212	3	Mcavernosa31465	1.32013346605937
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa12603	2.32304930562969
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa12838	-0.0287782023496003
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa17971	0.0507993314756932
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa16787	-0.0857851712332167
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa30843	-0.564504479742849
+"carbohydrate binding"	GO:0030246;GO:0048029	2	Mcavernosa30913	0.250552878907586
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa14027	-0.14262794060665
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa27934	-0.28777852761249
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa06769	-1.78569421646435
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa07070	-0.370973263325129
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa21601	-0.310050078103574
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa20110	0.60638146048907
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa20189	0.386173314174017
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa00889	-0.100069355469063
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa01422	-0.837715943514968
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa01862	0.432181055484751
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa24666	0.267346810618777
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa24829	0.279132910313718
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa31020	0.0609799430608194
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa08742	0.196609911836709
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa24337	-0.74635847634559
+"sequence-specific double-stranded DNA binding"	GO:0000976;GO:1990837	3	Mcavernosa35077	0.213496107693504
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa06175	0.121088496567171
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa12026	-0.31244203675719
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa12071	-0.758684363840594
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa18374	0.383472946403686
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa19820	-0.714459107185693
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa22155	-0.325982516564244
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa15612	-0.539804277966065
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa15975	0.198240066856783
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa09869	0.787329419965521
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa21601	-0.310050078103574
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa18056	0.155191988683286
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa29901	0.0756091517951236
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa34528	-0.612932245838887
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa03729	0.0922103417562317
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa07547	-0.0908589883393588
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa02940	-0.52896471660652
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa03071	-0.158957605909666
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa30802	-0.194300469766652
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa30882	0.7945165032609
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa31100	-0.0685195971525766
+"adenyl ribonucleotide binding"	GO:0005524;GO:0032559;GO:0030554	3	Mcavernosa12603	2.32304930562969
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa06121	-0.508650361596383
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa06124	-0.370970371770491
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa27973	0.58975433854391
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa22404	-0.259866053399535
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa17414	-0.828858344467344
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa16477	0.0861228024737234
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa16481	-0.510185448060468
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa16569	0.02967333755885
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa24413	1.55841231686804
+"monovalent inorganic cation transmembrane transporter activity"	GO:0015081;GO:0015077	4	Mcavernosa24412	-0.360296653063839
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa08742	0.196609911836709
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa32167	-0.573993608386713
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa18283	0.0400478530810982
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa19829	0.435643429045769
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa10414	-0.765952690736744
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa01285	-0.207988595902223
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa19201	4.46476326915684
+"amide binding"	GO:0042277;GO:0033218	3	Mcavernosa16263	2.10425852194976
+"signaling receptor activity"	GO:0038023	2	Mcavernosa05970	0.294198738119405
+"signaling receptor activity"	GO:0038023	2	Mcavernosa06112	0.21023019033174
+"signaling receptor activity"	GO:0038023	2	Mcavernosa09460	-0.185565370419602
+"signaling receptor activity"	GO:0038023	2	Mcavernosa09600	-0.0715986086542219
+"signaling receptor activity"	GO:0038023	2	Mcavernosa21508	-0.970197057308383
+"signaling receptor activity"	GO:0038023	2	Mcavernosa34160	-0.480438260358516
+"signaling receptor activity"	GO:0038023	2	Mcavernosa08185	-0.0945669431220221
+"signaling receptor activity"	GO:0038023	2	Mcavernosa16657	0.0327333267531349
+"signaling receptor activity"	GO:0038023	2	Mcavernosa02691	-0.200131903117409
+"signaling receptor activity"	GO:0038023	2	Mcavernosa31020	0.0609799430608194
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa06121	-0.508650361596383
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa06124	-0.370970371770491
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa27973	0.58975433854391
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa21863	0.319187097881905
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa22404	-0.259866053399535
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa17414	-0.828858344467344
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa18021	1.65900870410481
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa23555	2.9960866557639
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa25691	0.667908962964863
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa01893	-0.741890454808612
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa08225	0.449887207593551
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa16477	0.0861228024737234
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa16481	-0.510185448060468
+"metal ion transmembrane transporter activity"	GO:0046873	2	Mcavernosa16569	0.02967333755885
+"chromatin binding"	GO:0003682	2	Mcavernosa07070	-0.370973263325129
+"chromatin binding"	GO:0003682	2	Mcavernosa19620	-0.330881738452255
+"chromatin binding"	GO:0003682	2	Mcavernosa19825	1.09858251275218
+"chromatin binding"	GO:0003682	2	Mcavernosa22406	-0.0308216896606807
+"chromatin binding"	GO:0003682	2	Mcavernosa22661	1.10657174492153
+"chromatin binding"	GO:0003682	2	Mcavernosa22745	0.951240224855774
+"chromatin binding"	GO:0003682	2	Mcavernosa21601	-0.310050078103574
+"chromatin binding"	GO:0003682	2	Mcavernosa20110	0.60638146048907
+"chromatin binding"	GO:0003682	2	Mcavernosa00562	0.77646277496146
+"chromatin binding"	GO:0003682	2	Mcavernosa00889	-0.100069355469063
+"chromatin binding"	GO:0003682	2	Mcavernosa01285	-0.207988595902223
+"chromatin binding"	GO:0003682	2	Mcavernosa01862	0.432181055484751
+"chromatin binding"	GO:0003682	2	Mcavernosa03561	0.290838306877101
+"chromatin binding"	GO:0003682	2	Mcavernosa07547	-0.0908589883393588
+"chromatin binding"	GO:0003682	2	Mcavernosa24666	0.267346810618777
+"chromatin binding"	GO:0003682	2	Mcavernosa24829	0.279132910313718
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa06121	-0.508650361596383
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa06124	-0.370970371770491
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa27973	0.58975433854391
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa08445	0.740546899072698
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa08566	0.575239077073468
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa08683	-0.0832333350479906
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa14408	0.0253585104133313
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa12026	-0.31244203675719
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa31864	4.78993432753747
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa32167	-0.573993608386713
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa18374	0.383472946403686
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa06192	-1.37200423060549
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa21863	0.319187097881905
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa22382	-0.297589197438231
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa22404	-0.259866053399535
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa09460	-0.185565370419602
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa10006	-0.0914288087987167
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa20682	1.25294841929505
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa17414	-0.828858344467344
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa18021	1.65900870410481
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa23555	2.9960866557639
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa29901	0.0756091517951236
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa25691	0.667908962964863
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa24349	1.13432288884195
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa01893	-0.741890454808612
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa08225	0.449887207593551
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa24413	1.55841231686804
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa24412	-0.360296653063839
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa16477	0.0861228024737234
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa16481	-0.510185448060468
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa16569	0.02967333755885
+"transmembrane transporter activity"	GO:0022857	2	Mcavernosa02584	4.37301239877326
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa06112	0.21023019033174
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa12990	-0.307729589030377
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa27934	-0.28777852761249
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa08698	0.614577290097225
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa12071	-0.758684363840594
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa18979	1.41061210898768
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa07070	-0.370973263325129
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa19825	1.09858251275218
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa22745	0.951240224855774
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa09909	1.08698349040042
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa20110	0.60638146048907
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa00562	0.77646277496146
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa00887	0.295233787285398
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa29923	-0.853863724542416
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa34528	-0.612932245838887
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa01422	-0.837715943514968
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa07800	2.29574399553417
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa08185	-0.0945669431220221
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa24829	0.279132910313718
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa17044	0.0320318701688481
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa17276	0.464853038625831
+"obsolete transcription factor activity, protein binding"	GO:0000988;GO:0000989;GO:0003712	-1	Mcavernosa31020	0.0609799430608194
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa06025	1.97193255879547
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa12724	1.26925234277308
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa11855	-0.319854767304927
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa20543	-0.599163747756626
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa02940	-0.52896471660652
+"phosphatidylinositol binding"	GO:1901981;GO:0035091	2	Mcavernosa07024	0.0626969610878739
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa05656	-1.23850595038755
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa06175	0.121088496567171
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa12603	2.32304930562969
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa13095	-0.726118469279859
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa13397	-0.786174282487517
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa14548	-0.621496206227601
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa14751	-0.123619317319729
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa14884	-0.498363375320034
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa07051	-1.850643412202
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa21863	0.319187097881905
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa21917	-1.25462189876393
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa15703	0.282400392778105
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa21601	-0.310050078103574
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa20543	-0.599163747756626
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa20808	0.867431389344885
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa17591	-0.229168609122514
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa27270	0.673811688773883
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa34528	-0.612932245838887
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa34288	0.00469606747525235
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa24666	0.267346810618777
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa24997	-1.24074123562113
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa16569	0.02967333755885
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa03071	-0.158957605909666
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa30802	-0.194300469766652
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa31727	-0.589070574504853
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa08156	-0.577835983015791
+"cation binding"	GO:0046872;GO:0043169	2	Mcavernosa30913	0.250552878907586
+"isomerase activity"	GO:0016853	2	Mcavernosa12806	4.21821314187269
+"isomerase activity"	GO:0016853	2	Mcavernosa07051	-1.850643412202
+"isomerase activity"	GO:0016853	2	Mcavernosa19829	0.435643429045769
+"isomerase activity"	GO:0016853	2	Mcavernosa02538	0.19644347423095
+"isomerase activity"	GO:0016853	2	Mcavernosa30914	-1.34088169843686
+"transition metal ion binding"	GO:0046914	5	Mcavernosa13095	-0.726118469279859
+"transition metal ion binding"	GO:0046914	5	Mcavernosa14548	-0.621496206227601
+"transition metal ion binding"	GO:0046914	5	Mcavernosa21863	0.319187097881905
+"transition metal ion binding"	GO:0046914	5	Mcavernosa21917	-1.25462189876393
+"transition metal ion binding"	GO:0046914	5	Mcavernosa15703	0.282400392778105
+"transition metal ion binding"	GO:0046914	5	Mcavernosa20543	-0.599163747756626
+"transition metal ion binding"	GO:0046914	5	Mcavernosa27270	0.673811688773883
+"transition metal ion binding"	GO:0046914	5	Mcavernosa24666	0.267346810618777
+"transition metal ion binding"	GO:0046914	5	Mcavernosa30802	-0.194300469766652
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa14548	-0.621496206227601
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa07024	0.0626969610878739
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa21866	-1.25234641880411
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa21917	-1.25462189876393
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa22259	-0.00871806399440748
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa22261	-0.83405902532729
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa22639	-0.496111250043636
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa16115	0.00514781336685019
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa09869	0.787329419965521
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa10167	5.5681456725744
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa21571	-0.829864340877287
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa26766	0.207733924738959
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa25737	-0.0709725441164587
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa30573	-1.07188469363559
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa30624	-0.189069949047245
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa34480	-0.533080213785389
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa01431	-0.500393914862214
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa03804	-0.693465297709415
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa07902	-0.593341095396684
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa24449	-0.229888075804008
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa25310	0.0804512557101142
+"oxidoreductase activity"	GO:0016491	2	Mcavernosa25362	-1.07166489762903
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa04314	-0.664524149603033
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa12343	-0.930422887478385
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa13971	-0.631274940226337
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa14013	2.20713307040576
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa08312	0.271334263782396
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa33463	0.79877707350172
+"kinase binding"	GO:0019900;GO:0019901	2	Mcavernosa31100	-0.0685195971525766
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa27934	-0.28777852761249
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa06769	-1.78569421646435
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa20110	0.60638146048907
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa24829	0.279132910313718
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa31020	0.0609799430608194
+"proximal promoter sequence-specific DNA binding"	GO:0000978;GO:0000987	4	Mcavernosa24666	0.267346810618777
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	GO:0015662;GO:0042625;GO:0022853;GO:0019829	3	Mcavernosa12026	-0.31244203675719
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	GO:0015662;GO:0042625;GO:0022853;GO:0019829	3	Mcavernosa24413	1.55841231686804
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	GO:0015662;GO:0042625;GO:0022853;GO:0019829	3	Mcavernosa24412	-0.360296653063839
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	GO:0015662;GO:0042625;GO:0022853;GO:0019829	3	Mcavernosa16477	0.0861228024737234
+"ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism"	GO:0015662;GO:0042625;GO:0022853;GO:0019829	3	Mcavernosa16481	-0.510185448060468
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa31864	4.78993432753747
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa20682	1.25294841929505
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa25691	0.667908962964863
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa01893	-0.741890454808612
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa08225	0.449887207593551
+"ion channel activity"	GO:0005216;GO:0022838;GO:0015267;GO:0022803;GO:0005261	4	Mcavernosa02584	4.37301239877326
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa06121	-0.508650361596383
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa06124	-0.370970371770491
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa27973	0.58975433854391
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa18283	0.0400478530810982
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa22382	-0.297589197438231
+"neurotransmitter transporter activity"	GO:0005326	2	Mcavernosa22404	-0.259866053399535
+"enzyme binding"	GO:0019899	3	Mcavernosa04314	-0.664524149603033
+"enzyme binding"	GO:0019899	3	Mcavernosa05624	-0.111071327905123
+"enzyme binding"	GO:0019899	3	Mcavernosa05656	-1.23850595038755
+"enzyme binding"	GO:0019899	3	Mcavernosa06175	0.121088496567171
+"enzyme binding"	GO:0019899	3	Mcavernosa12343	-0.930422887478385
+"enzyme binding"	GO:0019899	3	Mcavernosa13971	-0.631274940226337
+"enzyme binding"	GO:0019899	3	Mcavernosa14013	2.20713307040576
+"enzyme binding"	GO:0019899	3	Mcavernosa28254	0.0541101250994746
+"enzyme binding"	GO:0019899	3	Mcavernosa08312	0.271334263782396
+"enzyme binding"	GO:0019899	3	Mcavernosa14548	-0.621496206227601
+"enzyme binding"	GO:0019899	3	Mcavernosa14781	-0.256613942938293
+"enzyme binding"	GO:0019899	3	Mcavernosa18360	0.0485783053385017
+"enzyme binding"	GO:0019899	3	Mcavernosa18494	0.429402161603429
+"enzyme binding"	GO:0019899	3	Mcavernosa06914	0.573815329259569
+"enzyme binding"	GO:0019899	3	Mcavernosa19620	-0.330881738452255
+"enzyme binding"	GO:0019899	3	Mcavernosa11162	0.578140465307482
+"enzyme binding"	GO:0019899	3	Mcavernosa25737	-0.0709725441164587
+"enzyme binding"	GO:0019899	3	Mcavernosa33463	0.79877707350172
+"enzyme binding"	GO:0019899	3	Mcavernosa01285	-0.207988595902223
+"enzyme binding"	GO:0019899	3	Mcavernosa01882	-0.167587435746091
+"enzyme binding"	GO:0019899	3	Mcavernosa02165	-1.05865497645643
+"enzyme binding"	GO:0019899	3	Mcavernosa16635	0.341111573838429
+"enzyme binding"	GO:0019899	3	Mcavernosa17007	1.4124865093372
+"enzyme binding"	GO:0019899	3	Mcavernosa30913	0.250552878907586
+"enzyme binding"	GO:0019899	3	Mcavernosa31100	-0.0685195971525766
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa14122	0.231792385828952
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa27911	-0.693187497059862
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa22366	1.45520279876153
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa15612	-0.539804277966065
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa15975	0.198240066856783
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa26978	-1.24862507783711
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa35077	0.213496107693504
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa33577	-0.865570884449565
+"translation regulator activity, nucleic acid binding"	GO:0090079;GO:0045182	2	Mcavernosa03729	0.0922103417562317
+"obsolete transcription factor activity, RNA polymerase II transcription factor binding"	GO:0001076	-1	Mcavernosa27934	-0.28777852761249
+"obsolete transcription factor activity, RNA polymerase II transcription factor binding"	GO:0001076	-1	Mcavernosa19825	1.09858251275218
+"obsolete transcription factor activity, RNA polymerase II transcription factor binding"	GO:0001076	-1	Mcavernosa20110	0.60638146048907
+"obsolete transcription factor activity, RNA polymerase II transcription factor binding"	GO:0001076	-1	Mcavernosa00887	0.295233787285398
+"obsolete transcription factor activity, RNA polymerase II transcription factor binding"	GO:0001076	-1	Mcavernosa01422	-0.837715943514968
+"single-stranded RNA binding"	GO:0003727	5	Mcavernosa06743	0.0705020330498237
+"single-stranded RNA binding"	GO:0003727	5	Mcavernosa15612	-0.539804277966065
+"single-stranded RNA binding"	GO:0003727	5	Mcavernosa26978	-1.24862507783711
+"single-stranded RNA binding"	GO:0003727	5	Mcavernosa33577	-0.865570884449565
+"single-stranded RNA binding"	GO:0003727	5	Mcavernosa03729	0.0922103417562317
+"endopeptidase activity"	GO:0004175	3	Mcavernosa13789	-0.265050822945202
+"endopeptidase activity"	GO:0004175	3	Mcavernosa19690	-1.27369572817142
+"endopeptidase activity"	GO:0004175	3	Mcavernosa21863	0.319187097881905
+"endopeptidase activity"	GO:0004175	3	Mcavernosa10414	-0.765952690736744
+"endopeptidase activity"	GO:0004175	3	Mcavernosa00930	-0.311000229810628
+"endopeptidase activity"	GO:0004175	3	Mcavernosa34843	0.257328636018939
+"endopeptidase activity"	GO:0004175	3	Mcavernosa34273	-0.0764840031452243
+"endopeptidase activity"	GO:0004175	3	Mcavernosa34288	0.00469606747525235
+"endopeptidase activity"	GO:0004175	3	Mcavernosa01412	-0.23919121991648
+"endopeptidase activity"	GO:0004175	3	Mcavernosa03071	-0.158957605909666
+"endopeptidase activity"	GO:0004175	3	Mcavernosa31070	0.0587935573939201
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa27934	-0.28777852761249
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa06769	-1.78569421646435
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa07070	-0.370973263325129
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa21601	-0.310050078103574
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa20110	0.60638146048907
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa20189	0.386173314174017
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa00889	-0.100069355469063
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa01422	-0.837715943514968
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa24829	0.279132910313718
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa31020	0.0609799430608194
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa15655	-0.149533102472838
+"RNA polymerase II regulatory region DNA binding"	GO:0000977;GO:0001012	2	Mcavernosa02940	-0.52896471660652
+"single-stranded DNA binding"	GO:0003697	3	Mcavernosa06112	0.21023019033174
+"single-stranded DNA binding"	GO:0003697	3	Mcavernosa08698	0.614577290097225
+"single-stranded DNA binding"	GO:0003697	3	Mcavernosa08742	0.196609911836709
+"single-stranded DNA binding"	GO:0003697	3	Mcavernosa18298	-0.191166343356433
+"single-stranded DNA binding"	GO:0003697	3	Mcavernosa35077	0.213496107693504
+"oxidoreductase activity, acting on NAD(P)H"	GO:0016651	2	Mcavernosa07024	0.0626969610878739
+"oxidoreductase activity, acting on NAD(P)H"	GO:0016651	2	Mcavernosa16115	0.00514781336685019
+"oxidoreductase activity, acting on NAD(P)H"	GO:0016651	2	Mcavernosa09869	0.787329419965521
+"oxidoreductase activity, acting on NAD(P)H"	GO:0016651	2	Mcavernosa30573	-1.07188469363559
+"oxidoreductase activity, acting on NAD(P)H"	GO:0016651	2	Mcavernosa07902	-0.593341095396684
+"lipid binding"	GO:0008289	2	Mcavernosa05656	-1.23850595038755
+"lipid binding"	GO:0008289	2	Mcavernosa06025	1.97193255879547
+"lipid binding"	GO:0008289	2	Mcavernosa12724	1.26925234277308
+"lipid binding"	GO:0008289	2	Mcavernosa12942	1.82726227221657
+"lipid binding"	GO:0008289	2	Mcavernosa08299	-0.953542517206381
+"lipid binding"	GO:0008289	2	Mcavernosa08308	2.01601097386935
+"lipid binding"	GO:0008289	2	Mcavernosa08312	0.271334263782396
+"lipid binding"	GO:0008289	2	Mcavernosa08742	0.196609911836709
+"lipid binding"	GO:0008289	2	Mcavernosa11855	-0.319854767304927
+"lipid binding"	GO:0008289	2	Mcavernosa18374	0.383472946403686
+"lipid binding"	GO:0008289	2	Mcavernosa07024	0.0626969610878739
+"lipid binding"	GO:0008289	2	Mcavernosa19820	-0.714459107185693
+"lipid binding"	GO:0008289	2	Mcavernosa10627	0.423204802250414
+"lipid binding"	GO:0008289	2	Mcavernosa20543	-0.599163747756626
+"lipid binding"	GO:0008289	2	Mcavernosa00597	-0.373919870581882
+"lipid binding"	GO:0008289	2	Mcavernosa00590	0.515637692538516
+"lipid binding"	GO:0008289	2	Mcavernosa02940	-0.52896471660652
+"lipid binding"	GO:0008289	2	Mcavernosa03071	-0.158957605909666
+"lipid binding"	GO:0008289	2	Mcavernosa30898	-0.244040607811537
+"lipid binding"	GO:0008289	2	Mcavernosa30913	0.250552878907586
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa05816	-0.760069472640234
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa14122	0.231792385828952
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa06671	1.14550013860001
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa15612	-0.539804277966065
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa03729	0.0922103417562317
+"helicase activity"	GO:0003724;GO:0004386;GO:0004004;GO:0008026;GO:0008186;GO:0070035	2	Mcavernosa22366	1.45520279876153
+"calcium ion binding"	GO:0005509	5	Mcavernosa05656	-1.23850595038755
+"calcium ion binding"	GO:0005509	5	Mcavernosa14884	-0.498363375320034
+"calcium ion binding"	GO:0005509	5	Mcavernosa21601	-0.310050078103574
+"calcium ion binding"	GO:0005509	5	Mcavernosa20808	0.867431389344885
+"calcium ion binding"	GO:0005509	5	Mcavernosa17591	-0.229168609122514
+"calcium ion binding"	GO:0005509	5	Mcavernosa34288	0.00469606747525235
+"calcium ion binding"	GO:0005509	5	Mcavernosa24997	-1.24074123562113
+"calcium ion binding"	GO:0005509	5	Mcavernosa16569	0.02967333755885
+"calcium ion binding"	GO:0005509	5	Mcavernosa03071	-0.158957605909666
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa04314	-0.664524149603033
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa27934	-0.28777852761249
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa21601	-0.310050078103574
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa20110	0.60638146048907
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa17971	0.0507993314756932
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa08156	-0.577835983015791
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa08185	-0.0945669431220221
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa24829	0.279132910313718
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa17044	0.0320318701688481
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa02584	4.37301239877326
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa31020	0.0609799430608194
+"protein heterodimerization activity"	GO:0046982	4	Mcavernosa31465	1.32013346605937
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa04400	0.441578259187158
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa04869	0.356535645676911
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa13093	-0.497075021413875
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa08497	0.878299200435298
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa14340	-0.289346365578871
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa14396	-0.111975973081987
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa18279	-0.518707817334222
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa15527	0.0210108328166567
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa10950	-0.580761972240143
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa10998	-0.0323085102032109
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa29763	0.202320790359257
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa30052	-0.28116844447541
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa03561	0.290838306877101
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa24468	-0.0454159436839074
+"structural constituent of ribosome"	GO:0003735	2	Mcavernosa17003	-0.113628641190917
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa04802	0.472010769236991
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa09054	-0.8017085629108
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa09078	-0.948114914000184
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa18494	0.429402161603429
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa00562	0.77646277496146
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa01648	-2.07532720318025
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa03676	-0.24881206133562
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa31458	-0.636837932635095
+"transferase activity, transferring acyl groups"	GO:0016747;GO:0016746	3	Mcavernosa31457	3.8237607986774
+"alcohol binding"	GO:0043178	3	Mcavernosa18374	0.383472946403686
+"alcohol binding"	GO:0043178	3	Mcavernosa00597	-0.373919870581882
+"alcohol binding"	GO:0043178	3	Mcavernosa00590	0.515637692538516
+"alcohol binding"	GO:0043178	3	Mcavernosa16787	-0.0857851712332167
+"alcohol binding"	GO:0043178	3	Mcavernosa30913	0.250552878907586
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa04314	-0.664524149603033
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa04750	0.800363917137061
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa06079	0.140973300299667
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa06175	0.121088496567171
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa12536	-0.186436636568721
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa14013	2.20713307040576
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa27949	-0.29781826012432
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa08312	0.271334263782396
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa14884	-0.498363375320034
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa12071	-0.758684363840594
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa31719	-1.99236311634553
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa19820	-0.714459107185693
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa22155	-0.325982516564244
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa10827	0.504449621127159
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa26865	0.278567777720581
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa00144	0.308746307270233
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa00928	-0.60818461781578
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa34528	-0.612932245838887
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa34598	0.316378248703965
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa34160	-0.480438260358516
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa01574	0.467130886011092
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa16657	0.0327333267531349
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa17090	0.794125515658332
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa02691	-0.200131903117409
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa02940	-0.52896471660652
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa30898	-0.244040607811537
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa12806	4.21821314187269
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa12942	1.82726227221657
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa13397	-0.786174282487517
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa28776	4.70328761550953
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa19013	-0.222948737525943
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa20543	-0.599163747756626
+"kinase activity"	GO:0004672;GO:0016301;GO:0016773	2	Mcavernosa30882	0.7945165032609
+"N-acyltransferase activity"	GO:0016410	2	Mcavernosa04802	0.472010769236991
+"N-acyltransferase activity"	GO:0016410	2	Mcavernosa09078	-0.948114914000184
+"N-acyltransferase activity"	GO:0016410	2	Mcavernosa00562	0.77646277496146
+"N-acyltransferase activity"	GO:0016410	2	Mcavernosa31458	-0.636837932635095
+"N-acyltransferase activity"	GO:0016410	2	Mcavernosa31457	3.8237607986774
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa05262	0.522731951518855
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa12603	2.32304930562969
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa09090	0.00623164808996233
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa09170	0.366787195976221
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa19690	-1.27369572817142
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa19829	0.435643429045769
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa26417	-1.10306161121984
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa20543	-0.599163747756626
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa20819	0.0191638557897351
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa22974	0.163445434006652
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa23463	-0.430850708354606
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa23808	0.249215346536184
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa27270	0.673811688773883
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa34273	-0.0764840031452243
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa03804	-0.693465297709415
+"hydrolase activity, acting on ester bonds"	GO:0016788	3	Mcavernosa02779	0.116342777118432
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa12071	-0.758684363840594
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa18979	1.41061210898768
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa19825	1.09858251275218
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa21915	0.256498838374204
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa34528	-0.612932245838887
+"DNA-binding transcription factor binding"	GO:0140297	2	Mcavernosa01422	-0.837715943514968
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa28254	0.0541101250994746
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa11855	-0.319854767304927
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa18576	5.80344925688899
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa22406	-0.0308216896606807
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa10510	0.718094058442981
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa07764	0.728345662297823
+"microtubule motor activity"	GO:0003774;GO:0003777	4	Mcavernosa31100	-0.0685195971525766
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa06112	0.21023019033174
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa12380	-0.697728256124547
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa14027	-0.14262794060665
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa27934	-0.28777852761249
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa08742	0.196609911836709
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa14751	-0.123619317319729
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa06769	-1.78569421646435
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa07070	-0.370973263325129
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa21601	-0.310050078103574
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa20110	0.60638146048907
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa20189	0.386173314174017
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa00889	-0.100069355469063
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa24337	-0.74635847634559
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa35077	0.213496107693504
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa01287	-0.605549469782994
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa01422	-0.837715943514968
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa01862	0.432181055484751
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa03414	0.52677319168989
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa24666	0.267346810618777
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa24829	0.279132910313718
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa31020	0.0609799430608194
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa13027	-0.269232996123441
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa20017	-0.38650416364824
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa03628	-0.200050834076026
+"double-stranded DNA binding"	GO:0003690;GO:0043565	3	Mcavernosa24833	0.119629749184281
+"dicarboxylic acid transmembrane transporter activity"	GO:0005310	2	Mcavernosa06121	-0.508650361596383
+"dicarboxylic acid transmembrane transporter activity"	GO:0005310	2	Mcavernosa06124	-0.370970371770491
+"dicarboxylic acid transmembrane transporter activity"	GO:0005310	2	Mcavernosa27973	0.58975433854391
+"dicarboxylic acid transmembrane transporter activity"	GO:0005310	2	Mcavernosa08683	-0.0832333350479906
+"dicarboxylic acid transmembrane transporter activity"	GO:0005310	2	Mcavernosa24349	1.13432288884195
+"mRNA binding"	GO:0003729	3	Mcavernosa08698	0.614577290097225
+"mRNA binding"	GO:0003729	3	Mcavernosa14396	-0.111975973081987
+"mRNA binding"	GO:0003729	3	Mcavernosa14552	0.0526914045239751
+"mRNA binding"	GO:0003729	3	Mcavernosa18298	-0.191166343356433
+"mRNA binding"	GO:0003729	3	Mcavernosa06743	0.0705020330498237
+"mRNA binding"	GO:0003729	3	Mcavernosa06798	-0.0034966444425546
+"mRNA binding"	GO:0003729	3	Mcavernosa19829	0.435643429045769
+"mRNA binding"	GO:0003729	3	Mcavernosa15612	-0.539804277966065
+"mRNA binding"	GO:0003729	3	Mcavernosa26873	-0.331693944643268
+"mRNA binding"	GO:0003729	3	Mcavernosa26978	-1.24862507783711
+"mRNA binding"	GO:0003729	3	Mcavernosa35077	0.213496107693504
+"mRNA binding"	GO:0003729	3	Mcavernosa33577	-0.865570884449565
+"mRNA binding"	GO:0003729	3	Mcavernosa01593	0.192005096335008
+"mRNA binding"	GO:0003729	3	Mcavernosa03729	0.0922103417562317
+"mRNA binding"	GO:0003729	3	Mcavernosa24468	-0.0454159436839074
+"mRNA binding"	GO:0003729	3	Mcavernosa25362	-1.07166489762903
+"mRNA binding"	GO:0003729	3	Mcavernosa17084	0.869733607799375
+"mRNA binding"	GO:0003729	3	Mcavernosa30882	0.7945165032609
+"protein transporter activity"	GO:0008565	2	Mcavernosa08445	0.740546899072698
+"protein transporter activity"	GO:0008565	2	Mcavernosa14408	0.0253585104133313
+"protein transporter activity"	GO:0008565	2	Mcavernosa32167	-0.573993608386713
+"protein transporter activity"	GO:0008565	2	Mcavernosa18374	0.383472946403686
+"protein transporter activity"	GO:0008565	2	Mcavernosa09460	-0.185565370419602
+"protein transporter activity"	GO:0008565	2	Mcavernosa01159	0.456147246317325
+"protein transporter activity"	GO:0008565	2	Mcavernosa24997	-1.24074123562113
+"protein transporter activity"	GO:0008565	2	Mcavernosa17171	0.393609893387578
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa04314	-0.664524149603033
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa13027	-0.269232996123441
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa27884	0.658786419214924
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa27934	-0.28777852761249
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa27949	-0.29781826012432
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa28254	0.0541101250994746
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa14446	0.678178016802795
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa14548	-0.621496206227601
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa31684	-0.719906890979876
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa18374	0.383472946403686
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa18494	0.429402161603429
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa18576	5.80344925688899
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa06743	0.0705020330498237
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa07070	-0.370973263325129
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa09909	1.08698349040042
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa21601	-0.310050078103574
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa20110	0.60638146048907
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa17803	-0.434968401979785
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa17971	0.0507993314756932
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa23602	-0.480018399543052
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa34288	0.00469606747525235
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa01412	-0.23919121991648
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa03456	0.171156162763934
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa03676	-0.24881206133562
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa08156	-0.577835983015791
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa25310	0.0804512557101142
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa17044	0.0320318701688481
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa02584	4.37301239877326
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa03173	1.05713828962951
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa30913	0.250552878907586
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa31020	0.0609799430608194
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa31465	1.32013346605937
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa08185	-0.0945669431220221
+"identical protein binding"	GO:0042802;GO:0042803;GO:0046983	3	Mcavernosa24829	0.279132910313718
+"divalent inorganic cation transmembrane transporter activity"	GO:0072509	3	Mcavernosa18021	1.65900870410481
+"divalent inorganic cation transmembrane transporter activity"	GO:0072509	3	Mcavernosa25691	0.667908962964863
+"divalent inorganic cation transmembrane transporter activity"	GO:0072509	3	Mcavernosa01893	-0.741890454808612
+"divalent inorganic cation transmembrane transporter activity"	GO:0072509	3	Mcavernosa08225	0.449887207593551
+"divalent inorganic cation transmembrane transporter activity"	GO:0072509	3	Mcavernosa16569	0.02967333755885
+"lyase activity"	GO:0016829	2	Mcavernosa04400	0.441578259187158
+"lyase activity"	GO:0016829	2	Mcavernosa27884	0.658786419214924
+"lyase activity"	GO:0016829	2	Mcavernosa31727	-0.589070574504853
+"lyase activity"	GO:0016829	2	Mcavernosa07051	-1.850643412202
+"lyase activity"	GO:0016829	2	Mcavernosa15703	0.282400392778105
+"lyase activity"	GO:0016829	2	Mcavernosa11213	0.491234618623641
+"lyase activity"	GO:0016829	2	Mcavernosa08156	-0.577835983015791
+"lyase activity"	GO:0016829	2	Mcavernosa30913	0.250552878907586
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa13789	-0.265050822945202
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa19201	4.46476326915684
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa19690	-1.27369572817142
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa21863	0.319187097881905
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa10414	-0.765952690736744
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa21773	1.13381683671171
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa00930	-0.311000229810628
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa34843	0.257328636018939
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa29351	0.354671063902004
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa34273	-0.0764840031452243
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa34288	0.00469606747525235
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa01412	-0.23919121991648
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa03071	-0.158957605909666
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa31070	0.0587935573939201
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa15974	0.372835711562477
+"peptidase activity"	GO:0070011;GO:0008233	2	Mcavernosa20116	-0.0303298928887569
+"protein domain specific binding"	GO:0019904	3	Mcavernosa13971	-0.631274940226337
+"protein domain specific binding"	GO:0019904	3	Mcavernosa14027	-0.14262794060665
+"protein domain specific binding"	GO:0019904	3	Mcavernosa14446	0.678178016802795
+"protein domain specific binding"	GO:0019904	3	Mcavernosa19825	1.09858251275218
+"protein domain specific binding"	GO:0019904	3	Mcavernosa22404	-0.259866053399535
+"protein domain specific binding"	GO:0019904	3	Mcavernosa20189	0.386173314174017
+"protein domain specific binding"	GO:0019904	3	Mcavernosa20819	0.0191638557897351
+"protein domain specific binding"	GO:0019904	3	Mcavernosa25691	0.667908962964863
+"protein domain specific binding"	GO:0019904	3	Mcavernosa01159	0.456147246317325
+"protein domain specific binding"	GO:0019904	3	Mcavernosa08225	0.449887207593551
+"protein domain specific binding"	GO:0019904	3	Mcavernosa17044	0.0320318701688481
+"protein domain specific binding"	GO:0019904	3	Mcavernosa02584	4.37301239877326
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa00144	0.308746307270233
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa34598	0.316378248703965
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa34160	-0.480438260358516
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa16657	0.0327333267531349
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa02691	-0.200131903117409
+"protein tyrosine kinase activity"	GO:0004713	3	Mcavernosa02940	-0.52896471660652
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa12724	1.26925234277308
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa13027	-0.269232996123441
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa14027	-0.14262794060665
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa27934	-0.28777852761249
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa14751	-0.123619317319729
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa32486	0.480115907600957
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa18298	-0.191166343356433
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa07070	-0.370973263325129
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa19825	1.09858251275218
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa20017	-0.38650416364824
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa16043	3.03815916299368
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa11162	0.578140465307482
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa21601	-0.310050078103574
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa26538	0.303246083088959
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa20110	0.60638146048907
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa20189	0.386173314174017
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa23602	-0.480018399543052
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa00889	-0.100069355469063
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa30321	-0.618019370859369
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa35077	0.213496107693504
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa01287	-0.605549469782994
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa01422	-0.837715943514968
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa01862	0.432181055484751
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa08185	-0.0945669431220221
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa24666	0.267346810618777
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa24829	0.279132910313718
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa31020	0.0609799430608194
+"DNA-binding transcription factor activity"	GO:0003700	2	Mcavernosa31465	1.32013346605937
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa12071	-0.758684363840594
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa07070	-0.370973263325129
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa19825	1.09858251275218
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa09909	1.08698349040042
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa20110	0.60638146048907
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa17044	0.0320318701688481
+"transcription corepressor activity"	GO:0003714	3	Mcavernosa17276	0.464853038625831
+"peptidase regulator activity"	GO:0061134	3	Mcavernosa13971	-0.631274940226337
+"peptidase regulator activity"	GO:0061134	3	Mcavernosa10819	0.462969572312989
+"peptidase regulator activity"	GO:0061134	3	Mcavernosa10817	-0.344660161863013
+"peptidase regulator activity"	GO:0061134	3	Mcavernosa10821	-0.219376291510543
+"peptidase regulator activity"	GO:0061134	3	Mcavernosa02023	0.67131258067255
+"GTPase activity"	GO:0003924	3	Mcavernosa05857	-1.4332062787095
+"GTPase activity"	GO:0003924	3	Mcavernosa14262	-0.164546166791202
+"GTPase activity"	GO:0003924	3	Mcavernosa28254	0.0541101250994746
+"GTPase activity"	GO:0003924	3	Mcavernosa14781	-0.256613942938293
+"GTPase activity"	GO:0003924	3	Mcavernosa15320	-0.288574972977498
+"GTPase activity"	GO:0003924	3	Mcavernosa11853	0.0979694899785635
+"GTPase activity"	GO:0003924	3	Mcavernosa11894	-0.167530093122046
+"GTPase activity"	GO:0003924	3	Mcavernosa07024	0.0626969610878739
+"GTPase activity"	GO:0003924	3	Mcavernosa21915	0.256498838374204
+"GTPase activity"	GO:0003924	3	Mcavernosa22595	0.214919130480114
+"GTPase activity"	GO:0003924	3	Mcavernosa21590	-0.0594193346341187
+"GTPase activity"	GO:0003924	3	Mcavernosa00025	-0.189961304137219
+"enzyme activator activity"	GO:0008047	3	Mcavernosa05656	-1.23850595038755
+"enzyme activator activity"	GO:0008047	3	Mcavernosa12724	1.26925234277308
+"enzyme activator activity"	GO:0008047	3	Mcavernosa13971	-0.631274940226337
+"enzyme activator activity"	GO:0008047	3	Mcavernosa27934	-0.28777852761249
+"enzyme activator activity"	GO:0008047	3	Mcavernosa31684	-0.719906890979876
+"enzyme activator activity"	GO:0008047	3	Mcavernosa18360	0.0485783053385017
+"enzyme activator activity"	GO:0008047	3	Mcavernosa06632	0.15317520527364
+"enzyme activator activity"	GO:0008047	3	Mcavernosa10941	-0.603741916391632
+"enzyme activator activity"	GO:0008047	3	Mcavernosa09460	-0.185565370419602
+"enzyme activator activity"	GO:0008047	3	Mcavernosa10032	-0.466763806372361
+"enzyme activator activity"	GO:0008047	3	Mcavernosa20680	-0.770245429144605
+"enzyme activator activity"	GO:0008047	3	Mcavernosa33463	0.79877707350172
+"enzyme activator activity"	GO:0008047	3	Mcavernosa02023	0.67131258067255
+"enzyme activator activity"	GO:0008047	3	Mcavernosa17044	0.0320318701688481
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa05262	0.522731951518855
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa05656	-1.23850595038755
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa12724	1.26925234277308
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa27934	-0.28777852761249
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa11853	0.0979694899785635
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa31684	-0.719906890979876
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa18360	0.0485783053385017
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa06632	0.15317520527364
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa10941	-0.603741916391632
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa20680	-0.770245429144605
+"GTPase regulator activity"	GO:0030695;GO:0060589	2	Mcavernosa01882	-0.167587435746091
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa04314	-0.664524149603033
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa05262	0.522731951518855
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa13971	-0.631274940226337
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa11853	0.0979694899785635
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa19734	-0.198541010301918
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa21863	0.319187097881905
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa10819	0.462969572312989
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa10817	-0.344660161863013
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa10821	-0.219376291510543
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa10032	-0.466763806372361
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa17044	0.0320318701688481
+"enzyme inhibitor activity"	GO:0004857	2	Mcavernosa31089	-0.476866212432916
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa05857	-1.4332062787095
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa06175	0.121088496567171
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa12603	2.32304930562969
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa28254	0.0541101250994746
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa14781	-0.256613942938293
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa15320	-0.288574972977498
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa11853	0.0979694899785635
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa11894	-0.167530093122046
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa12026	-0.31244203675719
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa12071	-0.758684363840594
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa18325	0.0334142878618093
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa18374	0.383472946403686
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa07024	0.0626969610878739
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa19820	-0.714459107185693
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa21915	0.256498838374204
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa22155	-0.325982516564244
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa22595	0.214919130480114
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa15612	-0.539804277966065
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa15703	0.282400392778105
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa15975	0.198240066856783
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa09869	0.787329419965521
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa21601	-0.310050078103574
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa18056	0.155191988683286
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa29901	0.0756091517951236
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa34528	-0.612932245838887
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa03729	0.0922103417562317
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa07547	-0.0908589883393588
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa25310	0.0804512557101142
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa02940	-0.52896471660652
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa03071	-0.158957605909666
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa30802	-0.194300469766652
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa30843	-0.564504479742849
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa30882	0.7945165032609
+"nucleoside phosphate binding"	GO:0000166;GO:1901265;GO:0001882;GO:0001883;GO:0032550;GO:0035639;GO:0032549;GO:0032555;GO:0017076;GO:0032553	3	Mcavernosa31100	-0.0685195971525766
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa28827	-0.618644872734359
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa28831	0.0474056452267975
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa28825	-0.460701950060155
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa18494	0.429402161603429
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa21863	0.319187097881905
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa03561	0.290838306877101
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa02691	-0.200131903117409
+"sulfur compound binding"	GO:0005539;GO:0008201;GO:1901681	2	Mcavernosa16263	2.10425852194976
+"signaling receptor binding"	GO:0005102	3	Mcavernosa04656	-0.280116465588387
+"signaling receptor binding"	GO:0005102	3	Mcavernosa13971	-0.631274940226337
+"signaling receptor binding"	GO:0005102	3	Mcavernosa28827	-0.618644872734359
+"signaling receptor binding"	GO:0005102	3	Mcavernosa28831	0.0474056452267975
+"signaling receptor binding"	GO:0005102	3	Mcavernosa28825	-0.460701950060155
+"signaling receptor binding"	GO:0005102	3	Mcavernosa14446	0.678178016802795
+"signaling receptor binding"	GO:0005102	3	Mcavernosa21915	0.256498838374204
+"signaling receptor binding"	GO:0005102	3	Mcavernosa26494	0.616989658715082
+"signaling receptor binding"	GO:0005102	3	Mcavernosa00597	-0.373919870581882
+"signaling receptor binding"	GO:0005102	3	Mcavernosa01769	0.185906799087506
+"signaling receptor binding"	GO:0005102	3	Mcavernosa24997	-1.24074123562113
+"signaling receptor binding"	GO:0005102	3	Mcavernosa17007	1.4124865093372
+"signaling receptor binding"	GO:0005102	3	Mcavernosa17276	0.464853038625831
+"signaling receptor binding"	GO:0005102	3	Mcavernosa30914	-1.34088169843686
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa04656	-0.280116465588387
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa14548	-0.621496206227601
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa11795	-1.08952582362016
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa11801	-0.485368027326044
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa09350	0.330030320435978
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa29896	0.0324868301985241
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa02783	-0.359999395994707
+"ligase activity, forming carbon-nitrogen bonds"	GO:0004842;GO:0019787;GO:0016879;GO:0016881	4	Mcavernosa03071	-0.158957605909666
+"GTPase activator activity"	GO:0005096	2	Mcavernosa05656	-1.23850595038755
+"GTPase activator activity"	GO:0005096	2	Mcavernosa12724	1.26925234277308
+"GTPase activator activity"	GO:0005096	2	Mcavernosa27934	-0.28777852761249
+"GTPase activator activity"	GO:0005096	2	Mcavernosa31684	-0.719906890979876
+"GTPase activator activity"	GO:0005096	2	Mcavernosa18360	0.0485783053385017
+"GTPase activator activity"	GO:0005096	2	Mcavernosa06632	0.15317520527364
+"GTPase activator activity"	GO:0005096	2	Mcavernosa10941	-0.603741916391632
+"GTPase activator activity"	GO:0005096	2	Mcavernosa20680	-0.770245429144605
+"serine-type peptidase activity"	GO:0004252;GO:0008236;GO:0017171	3	Mcavernosa13789	-0.265050822945202
+"serine-type peptidase activity"	GO:0004252;GO:0008236;GO:0017171	3	Mcavernosa21863	0.319187097881905
+"serine-type peptidase activity"	GO:0004252;GO:0008236;GO:0017171	3	Mcavernosa10414	-0.765952690736744
+"serine-type peptidase activity"	GO:0004252;GO:0008236;GO:0017171	3	Mcavernosa34288	0.00469606747525235
+"serine-type peptidase activity"	GO:0004252;GO:0008236;GO:0017171	3	Mcavernosa31070	0.0587935573939201
+"structural molecule activity"	GO:0005198	1	Mcavernosa04400	0.441578259187158
+"structural molecule activity"	GO:0005198	1	Mcavernosa04869	0.356535645676911
+"structural molecule activity"	GO:0005198	1	Mcavernosa13093	-0.497075021413875
+"structural molecule activity"	GO:0005198	1	Mcavernosa13096	0.416739251989667
+"structural molecule activity"	GO:0005198	1	Mcavernosa08497	0.878299200435298
+"structural molecule activity"	GO:0005198	1	Mcavernosa09207	0.677960215660932
+"structural molecule activity"	GO:0005198	1	Mcavernosa14340	-0.289346365578871
+"structural molecule activity"	GO:0005198	1	Mcavernosa14396	-0.111975973081987
+"structural molecule activity"	GO:0005198	1	Mcavernosa14446	0.678178016802795
+"structural molecule activity"	GO:0005198	1	Mcavernosa14781	-0.256613942938293
+"structural molecule activity"	GO:0005198	1	Mcavernosa14884	-0.498363375320034
+"structural molecule activity"	GO:0005198	1	Mcavernosa31974	0.156540775855939
+"structural molecule activity"	GO:0005198	1	Mcavernosa18279	-0.518707817334222
+"structural molecule activity"	GO:0005198	1	Mcavernosa22745	0.951240224855774
+"structural molecule activity"	GO:0005198	1	Mcavernosa15527	0.0210108328166567
+"structural molecule activity"	GO:0005198	1	Mcavernosa10950	-0.580761972240143
+"structural molecule activity"	GO:0005198	1	Mcavernosa10998	-0.0323085102032109
+"structural molecule activity"	GO:0005198	1	Mcavernosa26494	0.616989658715082
+"structural molecule activity"	GO:0005198	1	Mcavernosa29763	0.202320790359257
+"structural molecule activity"	GO:0005198	1	Mcavernosa30052	-0.28116844447541
+"structural molecule activity"	GO:0005198	1	Mcavernosa03561	0.290838306877101
+"structural molecule activity"	GO:0005198	1	Mcavernosa24468	-0.0454159436839074
+"structural molecule activity"	GO:0005198	1	Mcavernosa17003	-0.113628641190917
+"structural molecule activity"	GO:0005198	1	Mcavernosa17276	0.464853038625831
+"structural molecule activity"	GO:0005198	1	Mcavernosa02327	-0.162763974336655

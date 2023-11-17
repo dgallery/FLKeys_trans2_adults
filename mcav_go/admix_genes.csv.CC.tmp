@@ -1,0 +1,198 @@
+id	term	lev	value	seq
+"cellular_component"	GO:0005575	-1	-1.4332062787095	Mcavernosa05857
+"intracellular"	GO:0005622	2	-1.4332062787095	Mcavernosa05857
+"cell part"	GO:0044464	1	-1.4332062787095	Mcavernosa05857
+"cell"	GO:0005623	1	-1.4332062787095	Mcavernosa05857
+"nucleus"	GO:0005634	3	-1.4332062787095	Mcavernosa05857
+"intracellular membrane-bounded organelle"	GO:0043231	2	-1.4332062787095	Mcavernosa05857
+"membrane-bounded organelle"	GO:0043227	2	-1.4332062787095	Mcavernosa05857
+"intracellular organelle"	GO:0043229	2	-1.4332062787095	Mcavernosa05857
+"organelle"	GO:0043226	1	-1.4332062787095	Mcavernosa05857
+"intracellular part"	GO:0044424	2	-1.4332062787095	Mcavernosa05857
+"nuclear envelope"	GO:0005635	3	-1.4332062787095	Mcavernosa05857
+"organelle envelope"	GO:0031967	2	-1.4332062787095	Mcavernosa05857
+"nuclear part"	GO:0044428	2	-1.4332062787095	Mcavernosa05857
+"envelope"	GO:0031975	2	-1.4332062787095	Mcavernosa05857
+"intracellular organelle part"	GO:0044446	2	-1.4332062787095	Mcavernosa05857
+"organelle part"	GO:0044422	1	-1.4332062787095	Mcavernosa05857
+"nucleolus"	GO:0005730	2	-1.4332062787095	Mcavernosa05857
+"intracellular non-membrane-bounded organelle"	GO:0043232	2	-1.4332062787095	Mcavernosa05857
+"non-membrane-bounded organelle"	GO:0043228	2	-1.4332062787095	Mcavernosa05857
+"cytoplasm"	GO:0005737	3	-1.4332062787095	Mcavernosa05857
+"Golgi apparatus"	GO:0005794	3	-1.4332062787095	Mcavernosa05857
+"cytoplasmic part"	GO:0044444	3	-1.4332062787095	Mcavernosa05857
+"endomembrane system"	GO:0012505	2	-1.4332062787095	Mcavernosa05857
+"membrane"	GO:0016020	1	-1.4332062787095	Mcavernosa05857
+"organelle membrane"	GO:0031090	2	-1.4332062787095	Mcavernosa05857
+"nuclear membrane"	GO:0031965	4	-1.4332062787095	Mcavernosa05857
+"membrane-enclosed lumen"	GO:0031974	1	-1.4332062787095	Mcavernosa05857
+"nuclear lumen"	GO:0031981	3	-1.4332062787095	Mcavernosa05857
+"intracellular organelle lumen"	GO:0070013	2	-1.4332062787095	Mcavernosa05857
+"organelle lumen"	GO:0043233	2	-1.4332062787095	Mcavernosa05857
+"perinuclear region of cytoplasm"	GO:0048471	2	-1.4332062787095	Mcavernosa05857
+"cellular_component"	GO:0005575	-1	2.01601097386935	Mcavernosa08308
+"extracellular region"	GO:0005576	1	2.01601097386935	Mcavernosa08308
+"intracellular"	GO:0005622	2	2.01601097386935	Mcavernosa08308
+"cell part"	GO:0044464	1	2.01601097386935	Mcavernosa08308
+"cell"	GO:0005623	1	2.01601097386935	Mcavernosa08308
+"nucleus"	GO:0005634	3	2.01601097386935	Mcavernosa08308
+"intracellular membrane-bounded organelle"	GO:0043231	2	2.01601097386935	Mcavernosa08308
+"membrane-bounded organelle"	GO:0043227	2	2.01601097386935	Mcavernosa08308
+"intracellular organelle"	GO:0043229	2	2.01601097386935	Mcavernosa08308
+"organelle"	GO:0043226	1	2.01601097386935	Mcavernosa08308
+"intracellular part"	GO:0044424	2	2.01601097386935	Mcavernosa08308
+"nuclear envelope"	GO:0005635	3	2.01601097386935	Mcavernosa08308
+"organelle envelope"	GO:0031967	2	2.01601097386935	Mcavernosa08308
+"nuclear part"	GO:0044428	2	2.01601097386935	Mcavernosa08308
+"envelope"	GO:0031975	2	2.01601097386935	Mcavernosa08308
+"intracellular organelle part"	GO:0044446	2	2.01601097386935	Mcavernosa08308
+"organelle part"	GO:0044422	1	2.01601097386935	Mcavernosa08308
+"cytoplasm"	GO:0005737	3	2.01601097386935	Mcavernosa08308
+"plasma membrane"	GO:0005886	2	2.01601097386935	Mcavernosa08308
+"membrane"	GO:0016020	1	2.01601097386935	Mcavernosa08308
+"caveola"	GO:0005901	2	2.01601097386935	Mcavernosa08308
+"plasma membrane raft"	GO:0044853	2	2.01601097386935	Mcavernosa08308
+"membrane raft"	GO:0045121	2	2.01601097386935	Mcavernosa08308
+"plasma membrane region"	GO:0098590	2	2.01601097386935	Mcavernosa08308
+"membrane microdomain"	GO:0098857	2	2.01601097386935	Mcavernosa08308
+"membrane region"	GO:0098589	2	2.01601097386935	Mcavernosa08308
+"membrane part"	GO:0044425	1	2.01601097386935	Mcavernosa08308
+"plasma membrane part"	GO:0044459	2	2.01601097386935	Mcavernosa08308
+"endomembrane system"	GO:0012505	2	2.01601097386935	Mcavernosa08308
+"vesicle membrane"	GO:0012506	2	2.01601097386935	Mcavernosa08308
+"organelle membrane"	GO:0031090	2	2.01601097386935	Mcavernosa08308
+"cytoplasmic vesicle membrane"	GO:0030659	4	2.01601097386935	Mcavernosa08308
+"cytoplasmic vesicle part"	GO:0044433	2	2.01601097386935	Mcavernosa08308
+"cytoplasmic part"	GO:0044444	3	2.01601097386935	Mcavernosa08308
+"cytoplasmic vesicle"	GO:0031410	3	2.01601097386935	Mcavernosa08308
+"intracellular vesicle"	GO:0097708	2	2.01601097386935	Mcavernosa08308
+"vesicle"	GO:0031982	2	2.01601097386935	Mcavernosa08308
+"nuclear membrane"	GO:0031965	4	2.01601097386935	Mcavernosa08308
+"extracellular organelle"	GO:0043230	2	2.01601097386935	Mcavernosa08308
+"extracellular region part"	GO:0044421	1	2.01601097386935	Mcavernosa08308
+"extracellular membrane-bounded organelle"	GO:0065010	3	2.01601097386935	Mcavernosa08308
+"extracellular exosome"	GO:0070062	4	2.01601097386935	Mcavernosa08308
+"extracellular vesicle"	GO:1903561	2	2.01601097386935	Mcavernosa08308
+"cell periphery"	GO:0071944	2	2.01601097386935	Mcavernosa08308
+"photoreceptor outer segment"	GO:0001750	3	-2.12502101982812	Mcavernosa10628
+"ciliary part"	GO:0044441	3	-2.12502101982812	Mcavernosa10628
+"neuron part"	GO:0097458	2	-2.12502101982812	Mcavernosa10628
+"organelle part"	GO:0044422	1	-2.12502101982812	Mcavernosa10628
+"plasma membrane bounded cell projection part"	GO:0120038	3	-2.12502101982812	Mcavernosa10628
+"cell part"	GO:0044464	1	-2.12502101982812	Mcavernosa10628
+"cellular_component"	GO:0005575	-1	-2.12502101982812	Mcavernosa10628
+"cell projection part"	GO:0044463	2	-2.12502101982812	Mcavernosa10628
+"intracellular"	GO:0005622	2	-2.12502101982812	Mcavernosa10628
+"cell"	GO:0005623	1	-2.12502101982812	Mcavernosa10628
+"cytoplasm"	GO:0005737	3	-2.12502101982812	Mcavernosa10628
+"intracellular part"	GO:0044424	2	-2.12502101982812	Mcavernosa10628
+"Golgi apparatus"	GO:0005794	3	-2.12502101982812	Mcavernosa10628
+"intracellular membrane-bounded organelle"	GO:0043231	2	-2.12502101982812	Mcavernosa10628
+"cytoplasmic part"	GO:0044444	3	-2.12502101982812	Mcavernosa10628
+"membrane-bounded organelle"	GO:0043227	2	-2.12502101982812	Mcavernosa10628
+"intracellular organelle"	GO:0043229	2	-2.12502101982812	Mcavernosa10628
+"organelle"	GO:0043226	1	-2.12502101982812	Mcavernosa10628
+"centrosome"	GO:0005813	3	-2.12502101982812	Mcavernosa10628
+"microtubule organizing center"	GO:0005815	2	-2.12502101982812	Mcavernosa10628
+"cytoskeletal part"	GO:0044430	3	-2.12502101982812	Mcavernosa10628
+"intracellular organelle part"	GO:0044446	2	-2.12502101982812	Mcavernosa10628
+"cytoskeleton"	GO:0005856	3	-2.12502101982812	Mcavernosa10628
+"intracellular non-membrane-bounded organelle"	GO:0043232	2	-2.12502101982812	Mcavernosa10628
+"non-membrane-bounded organelle"	GO:0043228	2	-2.12502101982812	Mcavernosa10628
+"cilium"	GO:0005929	3	-2.12502101982812	Mcavernosa10628
+"plasma membrane bounded cell projection"	GO:0120025	3	-2.12502101982812	Mcavernosa10628
+"cell projection"	GO:0042995	2	-2.12502101982812	Mcavernosa10628
+"axoneme"	GO:0005930	3	-2.12502101982812	Mcavernosa10628
+"microtubule cytoskeleton"	GO:0015630	2	-2.12502101982812	Mcavernosa10628
+"motile cilium"	GO:0031514	2	-2.12502101982812	Mcavernosa10628
+"plasma membrane bounded cell projection cytoplasm"	GO:0032838	3	-2.12502101982812	Mcavernosa10628
+"cytoplasmic region"	GO:0099568	2	-2.12502101982812	Mcavernosa10628
+"ciliary basal body"	GO:0036064	3	-2.12502101982812	Mcavernosa10628
+"sperm flagellum"	GO:0036126	2	-2.12502101982812	Mcavernosa10628
+"sperm part"	GO:0097223	2	-2.12502101982812	Mcavernosa10628
+"9+2 motile cilium"	GO:0097729	3	-2.12502101982812	Mcavernosa10628
+"ciliary plasm"	GO:0097014	2	-2.12502101982812	Mcavernosa10628
+"cellular_component"	GO:0005575	-1	-0.082416212005853	Mcavernosa00583
+"intracellular"	GO:0005622	2	-0.082416212005853	Mcavernosa00583
+"cell part"	GO:0044464	1	-0.082416212005853	Mcavernosa00583
+"cell"	GO:0005623	1	-0.082416212005853	Mcavernosa00583
+"nucleus"	GO:0005634	3	-0.082416212005853	Mcavernosa00583
+"intracellular membrane-bounded organelle"	GO:0043231	2	-0.082416212005853	Mcavernosa00583
+"membrane-bounded organelle"	GO:0043227	2	-0.082416212005853	Mcavernosa00583
+"intracellular organelle"	GO:0043229	2	-0.082416212005853	Mcavernosa00583
+"organelle"	GO:0043226	1	-0.082416212005853	Mcavernosa00583
+"intracellular part"	GO:0044424	2	-0.082416212005853	Mcavernosa00583
+"nuclear envelope"	GO:0005635	3	-0.082416212005853	Mcavernosa00583
+"organelle envelope"	GO:0031967	2	-0.082416212005853	Mcavernosa00583
+"nuclear part"	GO:0044428	2	-0.082416212005853	Mcavernosa00583
+"envelope"	GO:0031975	2	-0.082416212005853	Mcavernosa00583
+"intracellular organelle part"	GO:0044446	2	-0.082416212005853	Mcavernosa00583
+"organelle part"	GO:0044422	1	-0.082416212005853	Mcavernosa00583
+"cytoplasm"	GO:0005737	3	-0.082416212005853	Mcavernosa00583
+"endoplasmic reticulum"	GO:0005783	2	-0.082416212005853	Mcavernosa00583
+"cytoplasmic part"	GO:0044444	3	-0.082416212005853	Mcavernosa00583
+"endoplasmic reticulum membrane"	GO:0005789	2	-0.082416212005853	Mcavernosa00583
+"membrane"	GO:0016020	1	-0.082416212005853	Mcavernosa00583
+"membrane part"	GO:0044425	1	-0.082416212005853	Mcavernosa00583
+"endoplasmic reticulum part"	GO:0044432	2	-0.082416212005853	Mcavernosa00583
+"endomembrane system"	GO:0012505	2	-0.082416212005853	Mcavernosa00583
+"organelle membrane"	GO:0031090	2	-0.082416212005853	Mcavernosa00583
+"nuclear outer membrane-endoplasmic reticulum membrane network"	GO:0042175	2	-0.082416212005853	Mcavernosa00583
+"cellular_component"	GO:0005575	-1	-2.05789261689392	Mcavernosa34467
+"extracellular region"	GO:0005576	1	-2.05789261689392	Mcavernosa34467
+"extracellular space"	GO:0005615	2	-2.05789261689392	Mcavernosa34467
+"extracellular region part"	GO:0044421	1	-2.05789261689392	Mcavernosa34467
+"cellular_component"	GO:0005575	-1	-2.95186380405552	Mcavernosa07733
+"extracellular region"	GO:0005576	1	-2.95186380405552	Mcavernosa07733
+"Golgi membrane"	GO:0000139	3	6.03742012503422	Mcavernosa31103
+"Golgi apparatus part"	GO:0044431	3	6.03742012503422	Mcavernosa31103
+"bounding membrane of organelle"	GO:0098588	2	6.03742012503422	Mcavernosa31103
+"cytoplasmic part"	GO:0044444	3	6.03742012503422	Mcavernosa31103
+"intracellular organelle part"	GO:0044446	2	6.03742012503422	Mcavernosa31103
+"intracellular part"	GO:0044424	2	6.03742012503422	Mcavernosa31103
+"organelle part"	GO:0044422	1	6.03742012503422	Mcavernosa31103
+"cell part"	GO:0044464	1	6.03742012503422	Mcavernosa31103
+"cellular_component"	GO:0005575	-1	6.03742012503422	Mcavernosa31103
+"organelle membrane"	GO:0031090	2	6.03742012503422	Mcavernosa31103
+"membrane"	GO:0016020	1	6.03742012503422	Mcavernosa31103
+"intracellular"	GO:0005622	2	6.03742012503422	Mcavernosa31103
+"cell"	GO:0005623	1	6.03742012503422	Mcavernosa31103
+"nucleus"	GO:0005634	3	6.03742012503422	Mcavernosa31103
+"intracellular membrane-bounded organelle"	GO:0043231	2	6.03742012503422	Mcavernosa31103
+"membrane-bounded organelle"	GO:0043227	2	6.03742012503422	Mcavernosa31103
+"intracellular organelle"	GO:0043229	2	6.03742012503422	Mcavernosa31103
+"organelle"	GO:0043226	1	6.03742012503422	Mcavernosa31103
+"cytoplasm"	GO:0005737	3	6.03742012503422	Mcavernosa31103
+"Golgi apparatus"	GO:0005794	3	6.03742012503422	Mcavernosa31103
+"Golgi-associated vesicle"	GO:0005798	2	6.03742012503422	Mcavernosa31103
+"cytoplasmic vesicle"	GO:0031410	3	6.03742012503422	Mcavernosa31103
+"intracellular vesicle"	GO:0097708	2	6.03742012503422	Mcavernosa31103
+"vesicle"	GO:0031982	2	6.03742012503422	Mcavernosa31103
+"trans-Golgi network"	GO:0005802	2	6.03742012503422	Mcavernosa31103
+"Golgi subcompartment"	GO:0098791	2	6.03742012503422	Mcavernosa31103
+"organelle subcompartment"	GO:0031984	2	6.03742012503422	Mcavernosa31103
+"cytoskeleton"	GO:0005856	3	6.03742012503422	Mcavernosa31103
+"intracellular non-membrane-bounded organelle"	GO:0043232	2	6.03742012503422	Mcavernosa31103
+"non-membrane-bounded organelle"	GO:0043228	2	6.03742012503422	Mcavernosa31103
+"plasma membrane"	GO:0005886	2	6.03742012503422	Mcavernosa31103
+"cell surface"	GO:0009986	2	6.03742012503422	Mcavernosa31103
+"endomembrane system"	GO:0012505	2	6.03742012503422	Mcavernosa31103
+"postsynaptic density"	GO:0014069	3	6.03742012503422	Mcavernosa31103
+"neuron part"	GO:0097458	2	6.03742012503422	Mcavernosa31103
+"postsynaptic specialization"	GO:0099572	2	6.03742012503422	Mcavernosa31103
+"synapse part"	GO:0044456	1	6.03742012503422	Mcavernosa31103
+"integral component of membrane"	GO:0016021	2	6.03742012503422	Mcavernosa31103
+"intrinsic component of membrane"	GO:0031224	2	6.03742012503422	Mcavernosa31103
+"membrane part"	GO:0044425	1	6.03742012503422	Mcavernosa31103
+"cell projection"	GO:0042995	2	6.03742012503422	Mcavernosa31103
+"cytoskeletal part"	GO:0044430	3	6.03742012503422	Mcavernosa31103
+"cell projection part"	GO:0044463	2	6.03742012503422	Mcavernosa31103
+"synapse"	GO:0045202	1	6.03742012503422	Mcavernosa31103
+"cell periphery"	GO:0071944	2	6.03742012503422	Mcavernosa31103
+"cellular_component"	GO:0005575	-1	1.39456001248902	Mcavernosa31484
+"extracellular region"	GO:0005576	1	1.39456001248902	Mcavernosa31484
+"basement membrane"	GO:0005604	4	1.39456001248902	Mcavernosa31484
+"collagen-containing extracellular matrix"	GO:0062023	3	1.39456001248902	Mcavernosa31484
+"extracellular matrix"	GO:0031012	2	1.39456001248902	Mcavernosa31484
+"extracellular region part"	GO:0044421	1	1.39456001248902	Mcavernosa31484
+"extracellular matrix component"	GO:0044420	2	1.39456001248902	Mcavernosa31484

@@ -1,0 +1,218 @@
+####### mcav set2 pipeline
+
+### initial cleaning and prep pipeline: https://github.com/jprippe/Mcav_depth_tagseq
+
+#2bRAD data: both transects to ID genetic clusters with both adult and juvenile samples
+#bams prepped by JP: https://github.com/jprippe/Mcav_depth_tagseq
+
+#load these every time you login:
+conda activate flkeys
+export GENOME_FASTA=$WORK/db/mcav/Mcavernosa_July2018_phased.fasta
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+#----------- assessing base qualities and coverage depth
+ls *bam >bams #original # of bams is 210
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -baq 1 -ref $GENOME_FASTA -maxDepth 1200"
+TODO="-doQsDist 1 -doDepth 1 -doCounts 1 -dumpCounts 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out dd">ddd
+ls6_launcher_creator.py -j ddd -n ddd -t 4:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ddd.slurm
+
+# summarizing results (using cannibalized Matteo Fumagalli's script)
+module load Rstats
+echo "Rscript ~/bin/plotQC.R prefix=dd bams=bams > qranks" > qranksjob
+ls6_launcher_creator.py -j qranksjob -n qranksjob -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch qranksjob.slurm
+
+# percentages of sites with coverage >5x in each sample, from worst to best:
+cat qranks
+
+# scp dd.pdf to local cpu to view more details. 
+
+# manually remove poorly covered sample(s) from bams 
+
+# ========= population structure (based on common polymorphisms) =======
+#set minimum # individuals to 75-80% of total
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -skipTriallelic 1 -minInd 173 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doBcf 1 -doPost 1 -doGlf 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out mc02ball" > mca02ball
+ls6_launcher_creator.py -j mca02ball -n mca02ball -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch mca02ball.slurm
+
+# how many SNPs?
+zcat mc02ball.mafs.gz | wc -l 
+#7241 SNPS
+
+# scp mc02ball.ibsMat and bams to local, use ibs_PCA.R to analyze
+#upload new bams_noclones file to TACC
+
+#---------------------- ADMIXTURE (after removing clones)
+#[keep the 198 bams in bams_noclones]
+#set min ind to ~75-80% of individuals in bams list
+
+FILTERS="-uniqueOnly 1 -skipTriallelic 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -minInd 158 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doPost 1 -doGlf 2"
+echo "angsd -b bams_noclones -GL 1 $FILTERS $TODO -P 12 -out mcav2ball" >ab
+ls6_launcher_creator.py -j ab -n ab -t 2:30:00 -e $email -w 1 -a $allo -q normal
+sbatch ab.slurm
+
+# how many SNPs?
+zcat mcav2ball.mafs.gz | wc -l
+# 7495 SNPS
+
+# NgsAdmix for K from 2 to 6
+idev -A $allo
+for K in `seq 2 6` ; 
+do 
+NGSadmix -likes mcav2ball.beagle.gz -K $K -P 10 -o mc_k${K};
+done
+
+# creating table of correspondences of bams to "populations"
+cat bams_noclones | perl -pe 's/(\D+)(\d+)([NDO])([_s2])(.+)|([M])([C])([NOD])([AJ])(\d+)(.+)/$1$2$3\t$3$6$7$8$9$10\t$8/' > inds2pops_all
+
+# scp *ibsMat,*qopt,inds2pops files to laptop, use ibs_PCA.R to plot PCA
+
+#------------------------------------------------------------------------------------------#
+
+#### 2bRAD data - set 2 ONLY: ID clones adults and juveniles
+#bams prepped by JP (https://github.com/jprippe/Mcav_depth_tagseq)
+
+#load these every time you login:
+conda activate flkeys
+export GENOME_FASTA=$WORK/db/mcav/Mcavernosa_July2018_phased.fasta
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+#----------- assessing base qualities and coverage depth
+ls *bam >bams #original # of bams is 99
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -baq 1 -ref $GENOME_FASTA -maxDepth 1200"
+TODO="-doQsDist 1 -doDepth 1 -doCounts 1 -dumpCounts 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out dd">ddd
+ls6_launcher_creator.py -j ddd -n ddd -t 4:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ddd.slurm
+
+# summarizing results (using cannibalized Matteo Fumagalli's script)
+module load Rstats
+echo "Rscript ~/bin/plotQC.R prefix=dd bams=bams > qranks" > qranksjob
+ls6_launcher_creator.py -j qranksjob -n qranksjob -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch qranksjob.slurm
+
+# percentages of sites with coverage >5x in each sample, from worst to best:
+cat qranks
+
+# scp dd.pdf to local cpu to view more details. 
+
+# manually remove poorly covered sample(s) from bams 
+# MJ15D, MA12D, MA14O, MA6D, MJ1D, MA11D, MA12O : coverage less that 0.05; 
+# keeping for now but may need to be purged from analysis if doing weird things
+
+# ========= population structure (based on common polymorphisms) =======
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -skipTriallelic 1 -minInd 86 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doBcf 1 -doPost 1 -doGlf 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out mc02b" > mca02b
+ls6_launcher_creator.py -j mca02b -n mca02b -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch mca02b.slurm
+
+# how many SNPs?
+zcat mc02b.mafs.gz | wc -l 
+#7238 SNPS
+
+# scp mc02b.ibsMat and bams to local, use ibs_PCA.R to analyze
+#upload new bams_noclones file to TACC
+
+#---------------------- ADMIXTURE (after removing clones)
+#[keep the 97 bams in bams_noclones]
+#set min ind to ~75-80% of individuals in bams list
+
+FILTERS="-uniqueOnly 1 -skipTriallelic 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -minInd 73 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doPost 1 -doGlf 2"
+echo "angsd -b bams_noclones -GL 1 $FILTERS $TODO -P 12 -out mcav2b" >ab
+ls6_launcher_creator.py -j ab -n ab -t 2:30:00 -e $email -w 1 -a $allo -q normal
+sbatch ab.slurm
+
+# how many SNPs?
+zcat mcav2b.mafs.gz | wc -l
+# 11916 SNPS
+
+# creating table of correspondences of bams to "populations"
+cat bams_noclones | perl -pe 's/([M])(\D+)(\d+)([NDO])(\D+)(\d+)(.+)/$1$2$3$4\t$4/' > inds2pops
+
+# NgsAdmix for K from 2 to 6
+idev -A $allo
+for K in `seq 2 6` ; 
+do 
+NGSadmix -likes mcav2b.beagle.gz -K $K -P 10 -o mc_k${K};
+done
+
+# scp *ibsMat,*qopt,inds2pops files to laptop, use ibs_PCA.R to plot PCA
+
+#------------------------------------------------------------------------------------------#
+
+##### tagseq data: adults and juveniles
+
+#copy fastq files from corral to scratch
+cp /corral-repl/utexas/tagmap/rippe_backups/FLKeys_AdultJuv_Set2_TagSeq/M*.fastq /scratch/07707/dgallery/mcav.tag
+
+# adaptor and quality trimming:
+>clean
+for F in *.fastq; do
+echo "tagseq_clipper.pl $F | /work/07707/dgallery/ls6/software/cutadapt - -a AAAAAAAA -a AGATCGG -q 15 -m 25 -o ${F/.fq/}.trim" >>clean;
+done
+ls6_launcher_creator.py -j clean -n clean -a IBN21018 -t 0:15:00 -e dgallery@utexas.edu -w 48
+sbatch clean.slurm
+
+#samtools index (can be run on idev node)
+idev -A IBN21018
+export GENOME_FASTA=/work/07707/dgallery/ls6/db/mcav/Mcavernosa_July2018_phased.fasta
+samtools faidx $GENOME_FASTA
+
+# Mapping and compressing into bam files
+>maps
+for file in *.trim; do 
+echo "module load bowtie2/ctr-2.3.4.3--py37he860b03_1; module load samtools/ctr-1.9--h91753b0_5; bowtie2 --no-unal --score-min L,16,1 --local -L 16 -x $GENOME_FASTA -U $file -S ${file/.trim/}.sam && \
+samtools sort -O bam -o ${file/.trim/}.bam ${file/.trim/}.sam && samtools index ${file/.trim/}.bam " >> maps;
+done
+ls6_launcher_creator.py -j maps -n maps -t 1:00:00 -w 24 -a IBN21018 -e dgallery@utexas.edu -q normal
+sbatch maps.slurm
+
+# sanity check: number of bam files should be the same number as number of sam & .fastq files 
+ls *bam | wc -l  
+ls *sam | wc -l
+ls *fastq | wc -l
+# all = 110
+
+#archive bams in work directory so they don't get scratched
+
+#********************** COUNTS DATA for DEQSEQ ************************#
+
+# analyzed with adults and juveniles
+
+# set up 3' base pair adding to reference genome  
+#[after testing variations (0bp, 300bp, 700bp, 2000bp), 300bp addition provides the most coverage without too much overlap]
+
+# add add_3prime_buffer_to_gff.py to bin
+chmod +x *.py
+
+#INSTALL Feature.Counts:
+# DOWNLOAD FEATURE COUNTS instructions here:
+# http://subread.sourceforge.net/featureCounts.html
+tar zxvf subread-2.0.3-Linux-x86_64.tar.gz
+
+#go to directory with annotation and run:
+add_3prime_buffer_to_gff_300.py -i Mcavernosa.maker.coding.gff3 -o Mcavernosa.maker.coding.3primePlus300.gff3 -b 300
+
+#convert into a saf
+awk 'BEGIN {OFS="\t"; print "GeneID","Chr","Start","End","Strand"} {split($9, a, "ID="); split(a[2], b, ";"); print b[1],$1,$4,$5,$7}' Mcavernosa.maker.coding.3primePlus300.gff3 > Mcavernosa.maker.coding.3primePlus300.saf
+
+export GENOME_300=$WORK/db/MCav.annotations/Mcav_genome/Mcavernosa_annotation/Mcavernosa.maker.coding.3primePlus300.saf
+
+#go to directory with bams and get feature counts:
+/work/07707/dgallery/ls6/software/subread-2.0.3-Linux-x86_64/bin/featureCounts -a $GENOME_300 -F SAF -p -o feature_counts_buff300_from_saf.tsv -T 36 --primary *.bam
+
+#scp feature_counts_buff300_from_saf.tsv to laptop and run through mcav_counts2.0.R, mcav_deseq2.0.R
+
+

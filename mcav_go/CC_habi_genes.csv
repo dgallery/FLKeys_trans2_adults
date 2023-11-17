@@ -1,0 +1,1742 @@
+name	term	lev	seq	value
+"nuclear transcription factor complex"	GO:0044798	2	Mcavernosa28665	-0.34883126551642
+"nuclear transcription factor complex"	GO:0044798	2	Mcavernosa08425	-0.181900892835396
+"nuclear transcription factor complex"	GO:0044798	2	Mcavernosa15655	-0.149533102472838
+"nuclear transcription factor complex"	GO:0044798	2	Mcavernosa24666	0.267346810618777
+"nuclear transcription factor complex"	GO:0044798	2	Mcavernosa17171	0.393609893387578
+"transcription factor complex"	GO:0005667	2	Mcavernosa04750	0.800363917137061
+"transcription factor complex"	GO:0005667	2	Mcavernosa06112	0.21023019033174
+"transcription factor complex"	GO:0005667	2	Mcavernosa14027	-0.14262794060665
+"transcription factor complex"	GO:0005667	2	Mcavernosa27934	-0.28777852761249
+"transcription factor complex"	GO:0005667	2	Mcavernosa28665	-0.34883126551642
+"transcription factor complex"	GO:0005667	2	Mcavernosa08425	-0.181900892835396
+"transcription factor complex"	GO:0005667	2	Mcavernosa14751	-0.123619317319729
+"transcription factor complex"	GO:0005667	2	Mcavernosa11384	1.74182836656939
+"transcription factor complex"	GO:0005667	2	Mcavernosa19825	1.09858251275218
+"transcription factor complex"	GO:0005667	2	Mcavernosa15655	-0.149533102472838
+"transcription factor complex"	GO:0005667	2	Mcavernosa21601	-0.310050078103574
+"transcription factor complex"	GO:0005667	2	Mcavernosa20110	0.60638146048907
+"transcription factor complex"	GO:0005667	2	Mcavernosa20189	0.386173314174017
+"transcription factor complex"	GO:0005667	2	Mcavernosa23602	-0.480018399543052
+"transcription factor complex"	GO:0005667	2	Mcavernosa01422	-0.837715943514968
+"transcription factor complex"	GO:0005667	2	Mcavernosa08185	-0.0945669431220221
+"transcription factor complex"	GO:0005667	2	Mcavernosa24666	0.267346810618777
+"transcription factor complex"	GO:0005667	2	Mcavernosa17171	0.393609893387578
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa07024	0.0626969610878739
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa22639	-0.496111250043636
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa16115	0.00514781336685019
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa09869	0.787329419965521
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa21571	-0.829864340877287
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa26766	0.207733924738959
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa30573	-1.07188469363559
+"oxidoreductase complex"	GO:1990204	2	Mcavernosa07902	-0.593341095396684
+"ATPase complex"	GO:1904949	2	Mcavernosa18374	0.383472946403686
+"ATPase complex"	GO:1904949	2	Mcavernosa06192	-1.37200423060549
+"ATPase complex"	GO:1904949	2	Mcavernosa22661	1.10657174492153
+"ATPase complex"	GO:1904949	2	Mcavernosa22745	0.951240224855774
+"ATPase complex"	GO:1904949	2	Mcavernosa09675	-0.463340045679616
+"ATPase complex"	GO:1904949	2	Mcavernosa00562	0.77646277496146
+"ATPase complex"	GO:1904949	2	Mcavernosa29901	0.0756091517951236
+"ATPase complex"	GO:1904949	2	Mcavernosa16477	0.0861228024737234
+"ATPase complex"	GO:1904949	2	Mcavernosa16481	-0.510185448060468
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa04656	-0.280116465588387
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa12536	-0.186436636568721
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa12838	-0.0287782023496003
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa14416	-0.0568182593413786
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa11855	-0.319854767304927
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa12026	-0.31244203675719
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa18576	5.80344925688899
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa21863	0.319187097881905
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa21508	-0.970197057308383
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa20543	-0.599163747756626
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa00590	0.515637692538516
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa01159	0.456147246317325
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa01412	-0.23919121991648
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa01446	0.336114885910516
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa03238	1.01561709816669
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa17171	0.393609893387578
+"endosomal part"	GO:0010008;GO:0044440	3	Mcavernosa02584	4.37301239877326
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa13096	0.416739251989667
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa31719	-1.99236311634553
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa26417	-1.10306161121984
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa20680	-0.770245429144605
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa17591	-0.229168609122514
+"adherens junction"	GO:0005912;GO:0070161;GO:0030055	3	Mcavernosa11909	0.0280737616928119
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa04656	-0.280116465588387
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa12536	-0.186436636568721
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa12724	1.26925234277308
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa28776	4.70328761550953
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa08337	-0.423660176908236
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa12026	-0.31244203675719
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa18283	0.0400478530810982
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa18576	5.80344925688899
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa19820	-0.714459107185693
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa22595	0.214919130480114
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa01159	0.456147246317325
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa07457	-0.453577136995981
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa17171	0.393609893387578
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa31070	0.0587935573939201
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa11894	-0.167530093122046
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa21508	-0.970197057308383
+"organelle subcompartment"	GO:0005802;GO:0098791;GO:0031984	2	Mcavernosa12595	-0.408420481369649
+"cell-cell junction"	GO:0005911	2	Mcavernosa13096	0.416739251989667
+"cell-cell junction"	GO:0005911	2	Mcavernosa28645	-1.70522538093692
+"cell-cell junction"	GO:0005911	2	Mcavernosa19820	-0.714459107185693
+"cell-cell junction"	GO:0005911	2	Mcavernosa21863	0.319187097881905
+"cell-cell junction"	GO:0005911	2	Mcavernosa15963	-0.686980593229337
+"cell-cell junction"	GO:0005911	2	Mcavernosa17591	-0.229168609122514
+"cell-cell junction"	GO:0005911	2	Mcavernosa16477	0.0861228024737234
+"cell-cell junction"	GO:0005911	2	Mcavernosa16481	-0.510185448060468
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa04802	0.472010769236991
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa06121	-0.508650361596383
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa06124	-0.370970371770491
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa13211	-0.62847386275489
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa13580	0.206522826281962
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa27973	0.58975433854391
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa28777	-1.0101952828863
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa08346	-0.0140911506586614
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa08683	-0.0832333350479906
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa08742	0.196609911836709
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa09149	1.88019871456855
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa11853	0.0979694899785635
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa06798	-0.0034966444425546
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa16115	0.00514781336685019
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa16263	2.10425852194976
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa10627	0.423204802250414
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa09576	-0.6520869937895
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa09869	0.787329419965521
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa20680	-0.770245429144605
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa20808	0.867431389344885
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa20819	0.0191638557897351
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa29901	0.0756091517951236
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa25737	-0.0709725441164587
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa30573	-1.07188469363559
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa30576	-1.03098827578442
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa34316	-0.624870491836147
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa34313	-0.62998974736222
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa03676	-0.24881206133562
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa07902	-0.593341095396684
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa24413	1.55841231686804
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa24412	-0.360296653063839
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa16569	0.02967333755885
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa02407	-0.77292665698696
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa03071	-0.158957605909666
+"mitochondrial envelope"	GO:0005740;GO:0031966	3	Mcavernosa31326	-0.0811052208053791
+"recycling endosome"	GO:0055037	2	Mcavernosa12026	-0.31244203675719
+"recycling endosome"	GO:0055037	2	Mcavernosa18374	0.383472946403686
+"recycling endosome"	GO:0055037	2	Mcavernosa21863	0.319187097881905
+"recycling endosome"	GO:0055037	2	Mcavernosa01159	0.456147246317325
+"recycling endosome"	GO:0055037	2	Mcavernosa17171	0.393609893387578
+"early endosome"	GO:0005769	2	Mcavernosa04656	-0.280116465588387
+"early endosome"	GO:0005769	2	Mcavernosa05180	0.673917421470048
+"early endosome"	GO:0005769	2	Mcavernosa13376	0.769218613438233
+"early endosome"	GO:0005769	2	Mcavernosa08742	0.196609911836709
+"early endosome"	GO:0005769	2	Mcavernosa11855	-0.319854767304927
+"early endosome"	GO:0005769	2	Mcavernosa12026	-0.31244203675719
+"early endosome"	GO:0005769	2	Mcavernosa18576	5.80344925688899
+"early endosome"	GO:0005769	2	Mcavernosa21863	0.319187097881905
+"early endosome"	GO:0005769	2	Mcavernosa22595	0.214919130480114
+"early endosome"	GO:0005769	2	Mcavernosa21508	-0.970197057308383
+"early endosome"	GO:0005769	2	Mcavernosa20543	-0.599163747756626
+"early endosome"	GO:0005769	2	Mcavernosa01446	0.336114885910516
+"early endosome"	GO:0005769	2	Mcavernosa07457	-0.453577136995981
+"early endosome"	GO:0005769	2	Mcavernosa02584	4.37301239877326
+"cell surface"	GO:0009986	2	Mcavernosa06121	-0.508650361596383
+"cell surface"	GO:0009986	2	Mcavernosa06124	-0.370970371770491
+"cell surface"	GO:0009986	2	Mcavernosa27973	0.58975433854391
+"cell surface"	GO:0009986	2	Mcavernosa08742	0.196609911836709
+"cell surface"	GO:0009986	2	Mcavernosa18374	0.383472946403686
+"cell surface"	GO:0009986	2	Mcavernosa16010	0.152867549101595
+"cell surface"	GO:0009986	2	Mcavernosa09460	-0.185565370419602
+"cell surface"	GO:0009986	2	Mcavernosa21508	-0.970197057308383
+"cell surface"	GO:0009986	2	Mcavernosa27270	0.673811688773883
+"cell surface"	GO:0009986	2	Mcavernosa01412	-0.23919121991648
+"cell surface"	GO:0009986	2	Mcavernosa01769	0.185906799087506
+"cell surface"	GO:0009986	2	Mcavernosa25362	-1.07166489762903
+"cell surface"	GO:0009986	2	Mcavernosa17276	0.464853038625831
+"cell surface"	GO:0009986	2	Mcavernosa02584	4.37301239877326
+"cell surface"	GO:0009986	2	Mcavernosa03007	-0.338686104151266
+"cell surface"	GO:0009986	2	Mcavernosa30914	-1.34088169843686
+"extrinsic component of membrane"	GO:0019898	2	Mcavernosa14262	-0.164546166791202
+"extrinsic component of membrane"	GO:0019898	2	Mcavernosa22382	-0.297589197438231
+"extrinsic component of membrane"	GO:0019898	2	Mcavernosa21590	-0.0594193346341187
+"extrinsic component of membrane"	GO:0019898	2	Mcavernosa20819	0.0191638557897351
+"extrinsic component of membrane"	GO:0019898	2	Mcavernosa01412	-0.23919121991648
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa04802	0.472010769236991
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa06121	-0.508650361596383
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa06124	-0.370970371770491
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa13580	0.206522826281962
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa27973	0.58975433854391
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa08742	0.196609911836709
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa09149	1.88019871456855
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa06798	-0.0034966444425546
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa16115	0.00514781336685019
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa16263	2.10425852194976
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa10627	0.423204802250414
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa09576	-0.6520869937895
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa09869	0.787329419965521
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa20808	0.867431389344885
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa30573	-1.07188469363559
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa30576	-1.03098827578442
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa34316	-0.624870491836147
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa34313	-0.62998974736222
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa03676	-0.24881206133562
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa07902	-0.593341095396684
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa24413	1.55841231686804
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa24412	-0.360296653063839
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa16569	0.02967333755885
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa02407	-0.77292665698696
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa03071	-0.158957605909666
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa31326	-0.0811052208053791
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa01422	-0.837715943514968
+"organelle inner membrane"	GO:0005743;GO:0019866	3	Mcavernosa24666	0.267346810618777
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa04869	0.356535645676911
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa13971	-0.631274940226337
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa27934	-0.28777852761249
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa28797	0.816372132795614
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa09170	0.366787195976221
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa14340	-0.289346365578871
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa14396	-0.111975973081987
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa14781	-0.256613942938293
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa14884	-0.498363375320034
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa18279	-0.518707817334222
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa18494	0.429402161603429
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa07070	-0.370973263325129
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa19620	-0.330881738452255
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa19734	-0.198541010301918
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa22406	-0.0308216896606807
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa22745	0.951240224855774
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa15655	-0.149533102472838
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa16043	3.03815916299368
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa16272	-0.093972599704618
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa09675	-0.463340045679616
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa21601	-0.310050078103574
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa26358	-0.48421887084346
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa20110	0.60638146048907
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa00562	0.77646277496146
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa35077	0.213496107693504
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa07764	0.728345662297823
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa24380	0.294805305460833
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa24829	0.279132910313718
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa02327	-0.162763974336655
+"chromosome"	GO:0005694;GO:0044427	4	Mcavernosa22661	1.10657174492153
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa04816	-0.0670500502245522
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa14781	-0.256613942938293
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa14884	-0.498363375320034
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa11909	0.0280737616928119
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa18494	0.429402161603429
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa06769	-1.78569421646435
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa22769	-0.0617633547711772
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa21718	0.491534153676904
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa01285	-0.207988595902223
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa01446	0.336114885910516
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa16568	0.116770398226089
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa03173	1.05713828962951
+"actin cytoskeleton"	GO:0015629	2	Mcavernosa30913	0.250552878907586
+"spliceosomal complex"	GO:0005681	2	Mcavernosa13089	-0.056112906022068
+"spliceosomal complex"	GO:0005681	2	Mcavernosa13266	0.522550613153221
+"spliceosomal complex"	GO:0005681	2	Mcavernosa13261	0.278991935011033
+"spliceosomal complex"	GO:0005681	2	Mcavernosa08698	0.614577290097225
+"spliceosomal complex"	GO:0005681	2	Mcavernosa09083	1.92650853336531
+"spliceosomal complex"	GO:0005681	2	Mcavernosa06743	0.0705020330498237
+"spliceosomal complex"	GO:0005681	2	Mcavernosa19829	0.435643429045769
+"spliceosomal complex"	GO:0005681	2	Mcavernosa22472	0.470015327105555
+"spliceosomal complex"	GO:0005681	2	Mcavernosa15612	-0.539804277966065
+"spliceosomal complex"	GO:0005681	2	Mcavernosa10827	0.504449621127159
+"spliceosomal complex"	GO:0005681	2	Mcavernosa26873	-0.331693944643268
+"spliceosomal complex"	GO:0005681	2	Mcavernosa26978	-1.24862507783711
+"spliceosomal complex"	GO:0005681	2	Mcavernosa33577	-0.865570884449565
+"spliceosomal complex"	GO:0005681	2	Mcavernosa01386	0.0235156722245026
+"spliceosomal complex"	GO:0005681	2	Mcavernosa02151	0.371222677245505
+"spliceosomal complex"	GO:0005681	2	Mcavernosa03729	0.0922103417562317
+"leading edge membrane"	GO:0031256	3	Mcavernosa13376	0.769218613438233
+"leading edge membrane"	GO:0031256	3	Mcavernosa10941	-0.603741916391632
+"leading edge membrane"	GO:0031256	3	Mcavernosa10032	-0.466763806372361
+"leading edge membrane"	GO:0031256	3	Mcavernosa20819	0.0191638557897351
+"leading edge membrane"	GO:0031256	3	Mcavernosa02940	-0.52896471660652
+"Golgi stack"	GO:0005795;GO:0031985	2	Mcavernosa12724	1.26925234277308
+"Golgi stack"	GO:0005795;GO:0031985	2	Mcavernosa08337	-0.423660176908236
+"Golgi stack"	GO:0005795;GO:0031985	2	Mcavernosa11894	-0.167530093122046
+"Golgi stack"	GO:0005795;GO:0031985	2	Mcavernosa21508	-0.970197057308383
+"Golgi stack"	GO:0005795;GO:0031985	2	Mcavernosa07457	-0.453577136995981
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa04656	-0.280116465588387
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa05180	0.673917421470048
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa05656	-1.23850595038755
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa06025	1.97193255879547
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa12536	-0.186436636568721
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa12724	1.26925234277308
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa12838	-0.0287782023496003
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa13211	-0.62847386275489
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa28254	0.0541101250994746
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa14408	0.0253585104133313
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa14416	-0.0568182593413786
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa15320	-0.288574972977498
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa11855	-0.319854767304927
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa11894	-0.167530093122046
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa12026	-0.31244203675719
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa18283	0.0400478530810982
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa18374	0.383472946403686
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa18576	5.80344925688899
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa06652	0.580307293486951
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa21863	0.319187097881905
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa22595	0.214919130480114
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa10510	0.718094058442981
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa10735	0.483767065681508
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa21508	-0.970197057308383
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa26766	0.207733924738959
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa20543	-0.599163747756626
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa20819	0.0191638557897351
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa00109	-0.162740794907091
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa00590	0.515637692538516
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa01159	0.456147246317325
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa01412	-0.23919121991648
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa01446	0.336114885910516
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa01862	0.432181055484751
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa03238	1.01561709816669
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa17171	0.393609893387578
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa02584	4.37301239877326
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa03007	-0.338686104151266
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa30913	0.250552878907586
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa31070	0.0587935573939201
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa31326	-0.0811052208053791
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa31458	-0.636837932635095
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa31457	3.8237607986774
+"bounding membrane of organelle"	GO:0098588	2	Mcavernosa31557	0.131319979646183
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa12553	2.4879872047071
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa14548	-0.621496206227601
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa31727	-0.589070574504853
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa17803	-0.434968401979785
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa18073	0.875734168986699
+"microbody"	GO:0005777;GO:0042579	3	Mcavernosa30882	0.7945165032609
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa04656	-0.280116465588387
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa14416	-0.0568182593413786
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa07024	0.0626969610878739
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa22595	0.214919130480114
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa21508	-0.970197057308383
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa17971	0.0507993314756932
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa01412	-0.23919121991648
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa01446	0.336114885910516
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa03238	1.01561709816669
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa03804	-0.693465297709415
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa17171	0.393609893387578
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa30913	0.250552878907586
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa05180	0.673917421470048
+"vacuole"	GO:0000323;GO:0005773;GO:0005764	4	Mcavernosa15167	0.0333040173608385
+"axoneme"	GO:0005930	2	Mcavernosa14781	-0.256613942938293
+"axoneme"	GO:0005930	2	Mcavernosa12040	-0.304383876765476
+"axoneme"	GO:0005930	2	Mcavernosa24154	-0.097375879571784
+"axoneme"	GO:0005930	2	Mcavernosa07764	0.728345662297823
+"axoneme"	GO:0005930	2	Mcavernosa24682	0.901550534254319
+"late endosome"	GO:0005770	2	Mcavernosa04656	-0.280116465588387
+"late endosome"	GO:0005770	2	Mcavernosa05180	0.673917421470048
+"late endosome"	GO:0005770	2	Mcavernosa14416	-0.0568182593413786
+"late endosome"	GO:0005770	2	Mcavernosa15167	0.0333040173608385
+"late endosome"	GO:0005770	2	Mcavernosa21863	0.319187097881905
+"late endosome"	GO:0005770	2	Mcavernosa20543	-0.599163747756626
+"late endosome"	GO:0005770	2	Mcavernosa00590	0.515637692538516
+"late endosome"	GO:0005770	2	Mcavernosa01446	0.336114885910516
+"late endosome"	GO:0005770	2	Mcavernosa03238	1.01561709816669
+"late endosome"	GO:0005770	2	Mcavernosa02584	4.37301239877326
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa06025	1.97193255879547
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa06121	-0.508650361596383
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa06124	-0.370970371770491
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa13376	0.769218613438233
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa13971	-0.631274940226337
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa27973	0.58975433854391
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa08312	0.271334263782396
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa14446	0.678178016802795
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa14548	-0.621496206227601
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa14781	-0.256613942938293
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa15167	0.0333040173608385
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa12040	-0.304383876765476
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa31719	-1.99236311634553
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa18283	0.0400478530810982
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa18298	-0.191166343356433
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa18494	0.429402161603429
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa19134	1.27459906578917
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa07024	0.0626969610878739
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa22769	-0.0617633547711772
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa16010	0.152867549101595
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa10510	0.718094058442981
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa10817	-0.344660161863013
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa10821	-0.219376291510543
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa10941	-0.603741916391632
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa10032	-0.466763806372361
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa21508	-0.970197057308383
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa26766	0.207733924738959
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa20819	0.0191638557897351
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa00928	-0.60818461781578
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa24154	-0.097375879571784
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa24337	-0.74635847634559
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa35077	0.213496107693504
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa01285	-0.207988595902223
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa01412	-0.23919121991648
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa01574	0.467130886011092
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa01893	-0.741890454808612
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa03817	-0.190892070981341
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa07764	0.728345662297823
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa24682	0.901550534254319
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa24997	-1.24074123562113
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa17007	1.4124865093372
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa02940	-0.52896471660652
+"plasma membrane bounded cell projection part"	GO:0120038	2	Mcavernosa03007	-0.338686104151266
+"early endosome membrane"	GO:0031901	6	Mcavernosa04656	-0.280116465588387
+"early endosome membrane"	GO:0031901	6	Mcavernosa11855	-0.319854767304927
+"early endosome membrane"	GO:0031901	6	Mcavernosa12026	-0.31244203675719
+"early endosome membrane"	GO:0031901	6	Mcavernosa20543	-0.599163747756626
+"early endosome membrane"	GO:0031901	6	Mcavernosa02584	4.37301239877326
+"plasma membrane region"	GO:0098590	2	Mcavernosa06025	1.97193255879547
+"plasma membrane region"	GO:0098590	2	Mcavernosa06121	-0.508650361596383
+"plasma membrane region"	GO:0098590	2	Mcavernosa06124	-0.370970371770491
+"plasma membrane region"	GO:0098590	2	Mcavernosa13376	0.769218613438233
+"plasma membrane region"	GO:0098590	2	Mcavernosa13580	0.206522826281962
+"plasma membrane region"	GO:0098590	2	Mcavernosa27973	0.58975433854391
+"plasma membrane region"	GO:0098590	2	Mcavernosa28254	0.0541101250994746
+"plasma membrane region"	GO:0098590	2	Mcavernosa08299	-0.953542517206381
+"plasma membrane region"	GO:0098590	2	Mcavernosa08308	2.01601097386935
+"plasma membrane region"	GO:0098590	2	Mcavernosa08566	0.575239077073468
+"plasma membrane region"	GO:0098590	2	Mcavernosa14781	-0.256613942938293
+"plasma membrane region"	GO:0098590	2	Mcavernosa18283	0.0400478530810982
+"plasma membrane region"	GO:0098590	2	Mcavernosa21863	0.319187097881905
+"plasma membrane region"	GO:0098590	2	Mcavernosa22404	-0.259866053399535
+"plasma membrane region"	GO:0098590	2	Mcavernosa10510	0.718094058442981
+"plasma membrane region"	GO:0098590	2	Mcavernosa10941	-0.603741916391632
+"plasma membrane region"	GO:0098590	2	Mcavernosa10006	-0.0914288087987167
+"plasma membrane region"	GO:0098590	2	Mcavernosa10032	-0.466763806372361
+"plasma membrane region"	GO:0098590	2	Mcavernosa26417	-1.10306161121984
+"plasma membrane region"	GO:0098590	2	Mcavernosa26766	0.207733924738959
+"plasma membrane region"	GO:0098590	2	Mcavernosa20680	-0.770245429144605
+"plasma membrane region"	GO:0098590	2	Mcavernosa20819	0.0191638557897351
+"plasma membrane region"	GO:0098590	2	Mcavernosa17591	-0.229168609122514
+"plasma membrane region"	GO:0098590	2	Mcavernosa24349	1.13432288884195
+"plasma membrane region"	GO:0098590	2	Mcavernosa01285	-0.207988595902223
+"plasma membrane region"	GO:0098590	2	Mcavernosa01412	-0.23919121991648
+"plasma membrane region"	GO:0098590	2	Mcavernosa16477	0.0861228024737234
+"plasma membrane region"	GO:0098590	2	Mcavernosa16481	-0.510185448060468
+"plasma membrane region"	GO:0098590	2	Mcavernosa17007	1.4124865093372
+"plasma membrane region"	GO:0098590	2	Mcavernosa02584	4.37301239877326
+"plasma membrane region"	GO:0098590	2	Mcavernosa02940	-0.52896471660652
+"plasma membrane region"	GO:0098590	2	Mcavernosa03007	-0.338686104151266
+"plasma membrane region"	GO:0098590	2	Mcavernosa31100	-0.0685195971525766
+"mitochondrial part"	GO:0044429	2	Mcavernosa04802	0.472010769236991
+"mitochondrial part"	GO:0044429	2	Mcavernosa06121	-0.508650361596383
+"mitochondrial part"	GO:0044429	2	Mcavernosa06124	-0.370970371770491
+"mitochondrial part"	GO:0044429	2	Mcavernosa13211	-0.62847386275489
+"mitochondrial part"	GO:0044429	2	Mcavernosa13580	0.206522826281962
+"mitochondrial part"	GO:0044429	2	Mcavernosa27973	0.58975433854391
+"mitochondrial part"	GO:0044429	2	Mcavernosa28777	-1.0101952828863
+"mitochondrial part"	GO:0044429	2	Mcavernosa08346	-0.0140911506586614
+"mitochondrial part"	GO:0044429	2	Mcavernosa08683	-0.0832333350479906
+"mitochondrial part"	GO:0044429	2	Mcavernosa08742	0.196609911836709
+"mitochondrial part"	GO:0044429	2	Mcavernosa09149	1.88019871456855
+"mitochondrial part"	GO:0044429	2	Mcavernosa14548	-0.621496206227601
+"mitochondrial part"	GO:0044429	2	Mcavernosa11853	0.0979694899785635
+"mitochondrial part"	GO:0044429	2	Mcavernosa31727	-0.589070574504853
+"mitochondrial part"	GO:0044429	2	Mcavernosa06798	-0.0034966444425546
+"mitochondrial part"	GO:0044429	2	Mcavernosa22639	-0.496111250043636
+"mitochondrial part"	GO:0044429	2	Mcavernosa15527	0.0210108328166567
+"mitochondrial part"	GO:0044429	2	Mcavernosa15703	0.282400392778105
+"mitochondrial part"	GO:0044429	2	Mcavernosa16115	0.00514781336685019
+"mitochondrial part"	GO:0044429	2	Mcavernosa16263	2.10425852194976
+"mitochondrial part"	GO:0044429	2	Mcavernosa10627	0.423204802250414
+"mitochondrial part"	GO:0044429	2	Mcavernosa09576	-0.6520869937895
+"mitochondrial part"	GO:0044429	2	Mcavernosa09869	0.787329419965521
+"mitochondrial part"	GO:0044429	2	Mcavernosa21571	-0.829864340877287
+"mitochondrial part"	GO:0044429	2	Mcavernosa20680	-0.770245429144605
+"mitochondrial part"	GO:0044429	2	Mcavernosa20808	0.867431389344885
+"mitochondrial part"	GO:0044429	2	Mcavernosa20819	0.0191638557897351
+"mitochondrial part"	GO:0044429	2	Mcavernosa17803	-0.434968401979785
+"mitochondrial part"	GO:0044429	2	Mcavernosa23463	-0.430850708354606
+"mitochondrial part"	GO:0044429	2	Mcavernosa29901	0.0756091517951236
+"mitochondrial part"	GO:0044429	2	Mcavernosa25737	-0.0709725441164587
+"mitochondrial part"	GO:0044429	2	Mcavernosa30573	-1.07188469363559
+"mitochondrial part"	GO:0044429	2	Mcavernosa30576	-1.03098827578442
+"mitochondrial part"	GO:0044429	2	Mcavernosa34316	-0.624870491836147
+"mitochondrial part"	GO:0044429	2	Mcavernosa34313	-0.62998974736222
+"mitochondrial part"	GO:0044429	2	Mcavernosa03676	-0.24881206133562
+"mitochondrial part"	GO:0044429	2	Mcavernosa07902	-0.593341095396684
+"mitochondrial part"	GO:0044429	2	Mcavernosa24413	1.55841231686804
+"mitochondrial part"	GO:0044429	2	Mcavernosa24412	-0.360296653063839
+"mitochondrial part"	GO:0044429	2	Mcavernosa16569	0.02967333755885
+"mitochondrial part"	GO:0044429	2	Mcavernosa02407	-0.77292665698696
+"mitochondrial part"	GO:0044429	2	Mcavernosa03071	-0.158957605909666
+"mitochondrial part"	GO:0044429	2	Mcavernosa31326	-0.0811052208053791
+"nuclear speck"	GO:0016607	4	Mcavernosa08698	0.614577290097225
+"nuclear speck"	GO:0016607	4	Mcavernosa12071	-0.758684363840594
+"nuclear speck"	GO:0016607	4	Mcavernosa06743	0.0705020330498237
+"nuclear speck"	GO:0016607	4	Mcavernosa22472	0.470015327105555
+"nuclear speck"	GO:0016607	4	Mcavernosa15612	-0.539804277966065
+"nuclear speck"	GO:0016607	4	Mcavernosa01079	-0.0991589461646841
+"nuclear speck"	GO:0016607	4	Mcavernosa01285	-0.207988595902223
+"nuclear speck"	GO:0016607	4	Mcavernosa01287	-0.605549469782994
+"nuclear speck"	GO:0016607	4	Mcavernosa03729	0.0922103417562317
+"nuclear speck"	GO:0016607	4	Mcavernosa31043	-1.12241016389102
+"nuclear chromosome"	GO:0000228	2	Mcavernosa04869	0.356535645676911
+"nuclear chromosome"	GO:0000228	2	Mcavernosa27934	-0.28777852761249
+"nuclear chromosome"	GO:0000228	2	Mcavernosa14340	-0.289346365578871
+"nuclear chromosome"	GO:0000228	2	Mcavernosa14396	-0.111975973081987
+"nuclear chromosome"	GO:0000228	2	Mcavernosa14884	-0.498363375320034
+"nuclear chromosome"	GO:0000228	2	Mcavernosa18279	-0.518707817334222
+"nuclear chromosome"	GO:0000228	2	Mcavernosa19734	-0.198541010301918
+"nuclear chromosome"	GO:0000228	2	Mcavernosa22406	-0.0308216896606807
+"nuclear chromosome"	GO:0000228	2	Mcavernosa22745	0.951240224855774
+"nuclear chromosome"	GO:0000228	2	Mcavernosa16043	3.03815916299368
+"nuclear chromosome"	GO:0000228	2	Mcavernosa16272	-0.093972599704618
+"nuclear chromosome"	GO:0000228	2	Mcavernosa09675	-0.463340045679616
+"nuclear chromosome"	GO:0000228	2	Mcavernosa21601	-0.310050078103574
+"nuclear chromosome"	GO:0000228	2	Mcavernosa20110	0.60638146048907
+"nuclear chromosome"	GO:0000228	2	Mcavernosa00562	0.77646277496146
+"nuclear chromosome"	GO:0000228	2	Mcavernosa35077	0.213496107693504
+"nuclear chromosome"	GO:0000228	2	Mcavernosa24829	0.279132910313718
+"receptor complex"	GO:0043235	2	Mcavernosa08742	0.196609911836709
+"receptor complex"	GO:0043235	2	Mcavernosa11795	-1.08952582362016
+"receptor complex"	GO:0043235	2	Mcavernosa11801	-0.485368027326044
+"receptor complex"	GO:0043235	2	Mcavernosa09600	-0.0715986086542219
+"receptor complex"	GO:0043235	2	Mcavernosa24666	0.267346810618777
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa18374	0.383472946403686
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa06192	-1.37200423060549
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa29901	0.0756091517951236
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa16477	0.0861228024737234
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa16481	-0.510185448060468
+"transmembrane transporter complex"	GO:0098533;GO:1902495;GO:1990351	4	Mcavernosa29031	0.065810933866346
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa04656	-0.280116465588387
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa14416	-0.0568182593413786
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa21508	-0.970197057308383
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa01412	-0.23919121991648
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa01446	0.336114885910516
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa17171	0.393609893387578
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa05180	0.673917421470048
+"vacuolar part"	GO:0005765;GO:0098852;GO:0005774;GO:0044437	5	Mcavernosa17971	0.0507993314756932
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa28254	0.0541101250994746
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa18283	0.0400478530810982
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa07024	0.0626969610878739
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa21863	0.319187097881905
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa22595	0.214919130480114
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa26766	0.207733924738959
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa01412	-0.23919121991648
+"endocytic vesicle"	GO:0030139;GO:0045335	4	Mcavernosa17090	0.794125515658332
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa05656	-1.23850595038755
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa06121	-0.508650361596383
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa06124	-0.370970371770491
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa12838	-0.0287782023496003
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa13580	0.206522826281962
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa27973	0.58975433854391
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa14446	0.678178016802795
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa11795	-1.08952582362016
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa11801	-0.485368027326044
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa18374	0.383472946403686
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa07024	0.0626969610878739
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa19458	-0.182342760996923
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa19820	-0.714459107185693
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa21863	0.319187097881905
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa22404	-0.259866053399535
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa10941	-0.603741916391632
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa09600	-0.0715986086542219
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa10006	-0.0914288087987167
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa26494	0.616989658715082
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa26766	0.207733924738959
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa17591	-0.229168609122514
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa23555	2.9960866557639
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa01769	0.185906799087506
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa02023	0.67131258067255
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa24997	-1.24074123562113
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa16477	0.0861228024737234
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa16481	-0.510185448060468
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa16657	0.0327333267531349
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa02584	4.37301239877326
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa02691	-0.200131903117409
+"integral component of plasma membrane"	GO:0005887;GO:0031226	4	Mcavernosa03007	-0.338686104151266
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa06121	-0.508650361596383
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa06124	-0.370970371770491
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa13971	-0.631274940226337
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa27973	0.58975433854391
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa08312	0.271334263782396
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa14446	0.678178016802795
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa14548	-0.621496206227601
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa15167	0.0333040173608385
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa15320	-0.288574972977498
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa18298	-0.191166343356433
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa18494	0.429402161603429
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa18576	5.80344925688899
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa07024	0.0626969610878739
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa22595	0.214919130480114
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa21508	-0.970197057308383
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa26766	0.207733924738959
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa00025	-0.189961304137219
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa00928	-0.60818461781578
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa25691	0.667908962964863
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa35077	0.213496107693504
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa08225	0.449887207593551
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa24997	-1.24074123562113
+"neuronal cell body"	GO:0043025;GO:0044297	3	Mcavernosa17007	1.4124865093372
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa04656	-0.280116465588387
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa05180	0.673917421470048
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa12536	-0.186436636568721
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa12838	-0.0287782023496003
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa13211	-0.62847386275489
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa14416	-0.0568182593413786
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa11855	-0.319854767304927
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa11894	-0.167530093122046
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa12026	-0.31244203675719
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa18283	0.0400478530810982
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa18576	5.80344925688899
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa21863	0.319187097881905
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa21508	-0.970197057308383
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa26766	0.207733924738959
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa20543	-0.599163747756626
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa20819	0.0191638557897351
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa00590	0.515637692538516
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa01159	0.456147246317325
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa01412	-0.23919121991648
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa01446	0.336114885910516
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa03238	1.01561709816669
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa17171	0.393609893387578
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa02584	4.37301239877326
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa31326	-0.0811052208053791
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa06045	3.63297316502377
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa08299	-0.953542517206381
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa08308	2.01601097386935
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa15167	0.0333040173608385
+"cytoplasmic vesicle part"	GO:0098805;GO:0044433	2	Mcavernosa30913	0.250552878907586
+"axon part"	GO:0033267	2	Mcavernosa06121	-0.508650361596383
+"axon part"	GO:0033267	2	Mcavernosa06124	-0.370970371770491
+"axon part"	GO:0033267	2	Mcavernosa13971	-0.631274940226337
+"axon part"	GO:0033267	2	Mcavernosa27973	0.58975433854391
+"axon part"	GO:0033267	2	Mcavernosa14781	-0.256613942938293
+"axon part"	GO:0033267	2	Mcavernosa31719	-1.99236311634553
+"axon part"	GO:0033267	2	Mcavernosa18494	0.429402161603429
+"axon part"	GO:0033267	2	Mcavernosa22769	-0.0617633547711772
+"axon part"	GO:0033267	2	Mcavernosa20819	0.0191638557897351
+"axon part"	GO:0033267	2	Mcavernosa01285	-0.207988595902223
+"axon part"	GO:0033267	2	Mcavernosa17007	1.4124865093372
+"nucleoplasm part"	GO:0044451	2	Mcavernosa04750	0.800363917137061
+"nucleoplasm part"	GO:0044451	2	Mcavernosa06112	0.21023019033174
+"nucleoplasm part"	GO:0044451	2	Mcavernosa14027	-0.14262794060665
+"nucleoplasm part"	GO:0044451	2	Mcavernosa27934	-0.28777852761249
+"nucleoplasm part"	GO:0044451	2	Mcavernosa28665	-0.34883126551642
+"nucleoplasm part"	GO:0044451	2	Mcavernosa28714	0.417439783423564
+"nucleoplasm part"	GO:0044451	2	Mcavernosa08425	-0.181900892835396
+"nucleoplasm part"	GO:0044451	2	Mcavernosa08698	0.614577290097225
+"nucleoplasm part"	GO:0044451	2	Mcavernosa14751	-0.123619317319729
+"nucleoplasm part"	GO:0044451	2	Mcavernosa11384	1.74182836656939
+"nucleoplasm part"	GO:0044451	2	Mcavernosa12071	-0.758684363840594
+"nucleoplasm part"	GO:0044451	2	Mcavernosa18360	0.0485783053385017
+"nucleoplasm part"	GO:0044451	2	Mcavernosa06743	0.0705020330498237
+"nucleoplasm part"	GO:0044451	2	Mcavernosa19620	-0.330881738452255
+"nucleoplasm part"	GO:0044451	2	Mcavernosa19825	1.09858251275218
+"nucleoplasm part"	GO:0044451	2	Mcavernosa22472	0.470015327105555
+"nucleoplasm part"	GO:0044451	2	Mcavernosa22745	0.951240224855774
+"nucleoplasm part"	GO:0044451	2	Mcavernosa15612	-0.539804277966065
+"nucleoplasm part"	GO:0044451	2	Mcavernosa15655	-0.149533102472838
+"nucleoplasm part"	GO:0044451	2	Mcavernosa11213	0.491234618623641
+"nucleoplasm part"	GO:0044451	2	Mcavernosa21601	-0.310050078103574
+"nucleoplasm part"	GO:0044451	2	Mcavernosa20110	0.60638146048907
+"nucleoplasm part"	GO:0044451	2	Mcavernosa20189	0.386173314174017
+"nucleoplasm part"	GO:0044451	2	Mcavernosa20682	1.25294841929505
+"nucleoplasm part"	GO:0044451	2	Mcavernosa23602	-0.480018399543052
+"nucleoplasm part"	GO:0044451	2	Mcavernosa00281	3.1900209077175
+"nucleoplasm part"	GO:0044451	2	Mcavernosa00562	0.77646277496146
+"nucleoplasm part"	GO:0044451	2	Mcavernosa01079	-0.0991589461646841
+"nucleoplasm part"	GO:0044451	2	Mcavernosa01285	-0.207988595902223
+"nucleoplasm part"	GO:0044451	2	Mcavernosa01287	-0.605549469782994
+"nucleoplasm part"	GO:0044451	2	Mcavernosa01422	-0.837715943514968
+"nucleoplasm part"	GO:0044451	2	Mcavernosa03414	0.52677319168989
+"nucleoplasm part"	GO:0044451	2	Mcavernosa03729	0.0922103417562317
+"nucleoplasm part"	GO:0044451	2	Mcavernosa07547	-0.0908589883393588
+"nucleoplasm part"	GO:0044451	2	Mcavernosa08185	-0.0945669431220221
+"nucleoplasm part"	GO:0044451	2	Mcavernosa24666	0.267346810618777
+"nucleoplasm part"	GO:0044451	2	Mcavernosa17044	0.0320318701688481
+"nucleoplasm part"	GO:0044451	2	Mcavernosa17084	0.869733607799375
+"nucleoplasm part"	GO:0044451	2	Mcavernosa17171	0.393609893387578
+"nucleoplasm part"	GO:0044451	2	Mcavernosa31043	-1.12241016389102
+"nucleoplasm part"	GO:0044451	2	Mcavernosa31241	0.403681035409693
+"nucleoplasm part"	GO:0044451	2	Mcavernosa31465	1.32013346605937
+"membrane coat"	GO:0030117;GO:0048475	2	Mcavernosa28254	0.0541101250994746
+"membrane coat"	GO:0030117;GO:0048475	2	Mcavernosa08337	-0.423660176908236
+"membrane coat"	GO:0030117;GO:0048475	2	Mcavernosa18283	0.0400478530810982
+"membrane coat"	GO:0030117;GO:0048475	2	Mcavernosa20819	0.0191638557897351
+"membrane coat"	GO:0030117;GO:0048475	2	Mcavernosa17171	0.393609893387578
+"nuclear pore"	GO:0005643;GO:0046930	2	Mcavernosa05624	-0.111071327905123
+"nuclear pore"	GO:0005643;GO:0046930	2	Mcavernosa32167	-0.573993608386713
+"nuclear pore"	GO:0005643;GO:0046930	2	Mcavernosa16635	0.341111573838429
+"nuclear pore"	GO:0005643;GO:0046930	2	Mcavernosa16675	-0.523594599435491
+"nuclear pore"	GO:0005643;GO:0046930	2	Mcavernosa02327	-0.162763974336655
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa04656	-0.280116465588387
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa05180	0.673917421470048
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa05656	-1.23850595038755
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa12536	-0.186436636568721
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa12724	1.26925234277308
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa28254	0.0541101250994746
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa28776	4.70328761550953
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa08337	-0.423660176908236
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa15320	-0.288574972977498
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa11894	-0.167530093122046
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa12026	-0.31244203675719
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa31719	-1.99236311634553
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa18283	0.0400478530810982
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa18374	0.383472946403686
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa18576	5.80344925688899
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa06652	0.580307293486951
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa19820	-0.714459107185693
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa22595	0.214919130480114
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa10735	0.483767065681508
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa21508	-0.970197057308383
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa26494	0.616989658715082
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa20543	-0.599163747756626
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa17414	-0.828858344467344
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa00109	-0.162740794907091
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa01159	0.456147246317325
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa01862	0.432181055484751
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa07457	-0.453577136995981
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa24682	0.901550534254319
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa17171	0.393609893387578
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa02584	4.37301239877326
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa31070	0.0587935573939201
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa31458	-0.636837932635095
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa31457	3.8237607986774
+"Golgi apparatus part"	GO:0044431	2	Mcavernosa31557	0.131319979646183
+"condensed chromosome kinetochore"	GO:0000777	5	Mcavernosa14781	-0.256613942938293
+"condensed chromosome kinetochore"	GO:0000777	5	Mcavernosa19734	-0.198541010301918
+"condensed chromosome kinetochore"	GO:0000777	5	Mcavernosa22406	-0.0308216896606807
+"condensed chromosome kinetochore"	GO:0000777	5	Mcavernosa26358	-0.48421887084346
+"condensed chromosome kinetochore"	GO:0000777	5	Mcavernosa02327	-0.162763974336655
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa06000	0.41968541583826
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa06175	0.121088496567171
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa13095	-0.726118469279859
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa13971	-0.631274940226337
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa09207	0.677960215660932
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa15221	-0.223645658270165
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa11853	0.0979694899785635
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa12071	-0.758684363840594
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa18360	0.0485783053385017
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa18494	0.429402161603429
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa18576	5.80344925688899
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa16010	0.152867549101595
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa10510	0.718094058442981
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa21718	0.491534153676904
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa01126	-0.307382589131598
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa01127	4.55900179148077
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa33463	0.79877707350172
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa01527	-0.172004214181967
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa01574	0.467130886011092
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa07764	0.728345662297823
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa24682	0.901550534254319
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa17090	0.794125515658332
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa30913	0.250552878907586
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa31100	-0.0685195971525766
+"microtubule organizing center"	GO:0005813;GO:0005815	2	Mcavernosa06025	1.97193255879547
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa14262	-0.164546166791202
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa11795	-1.08952582362016
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa11801	-0.485368027326044
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa18283	0.0400478530810982
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa18374	0.383472946403686
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa06192	-1.37200423060549
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa07024	0.0626969610878739
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa22382	-0.297589197438231
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa21590	-0.0594193346341187
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa26766	0.207733924738959
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa29901	0.0756091517951236
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa29031	0.065810933866346
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa16477	0.0861228024737234
+"plasma membrane protein complex"	GO:0098797	3	Mcavernosa16481	-0.510185448060468
+"cytoplasmic side of plasma membrane"	GO:0009898;GO:0098562	3	Mcavernosa14262	-0.164546166791202
+"cytoplasmic side of plasma membrane"	GO:0009898;GO:0098562	3	Mcavernosa11795	-1.08952582362016
+"cytoplasmic side of plasma membrane"	GO:0009898;GO:0098562	3	Mcavernosa11801	-0.485368027326044
+"cytoplasmic side of plasma membrane"	GO:0009898;GO:0098562	3	Mcavernosa22382	-0.297589197438231
+"cytoplasmic side of plasma membrane"	GO:0009898;GO:0098562	3	Mcavernosa21590	-0.0594193346341187
+"cell junction"	GO:0030054	1	Mcavernosa13096	0.416739251989667
+"cell junction"	GO:0030054	1	Mcavernosa28645	-1.70522538093692
+"cell junction"	GO:0030054	1	Mcavernosa11909	0.0280737616928119
+"cell junction"	GO:0030054	1	Mcavernosa31719	-1.99236311634553
+"cell junction"	GO:0030054	1	Mcavernosa19820	-0.714459107185693
+"cell junction"	GO:0030054	1	Mcavernosa21863	0.319187097881905
+"cell junction"	GO:0030054	1	Mcavernosa15963	-0.686980593229337
+"cell junction"	GO:0030054	1	Mcavernosa16272	-0.093972599704618
+"cell junction"	GO:0030054	1	Mcavernosa10941	-0.603741916391632
+"cell junction"	GO:0030054	1	Mcavernosa26417	-1.10306161121984
+"cell junction"	GO:0030054	1	Mcavernosa20680	-0.770245429144605
+"cell junction"	GO:0030054	1	Mcavernosa17591	-0.229168609122514
+"cell junction"	GO:0030054	1	Mcavernosa01574	0.467130886011092
+"cell junction"	GO:0030054	1	Mcavernosa02165	-1.05865497645643
+"cell junction"	GO:0030054	1	Mcavernosa16477	0.0861228024737234
+"cell junction"	GO:0030054	1	Mcavernosa16481	-0.510185448060468
+"synapse part"	GO:0044456	1	Mcavernosa06121	-0.508650361596383
+"synapse part"	GO:0044456	1	Mcavernosa06124	-0.370970371770491
+"synapse part"	GO:0044456	1	Mcavernosa13580	0.206522826281962
+"synapse part"	GO:0044456	1	Mcavernosa27973	0.58975433854391
+"synapse part"	GO:0044456	1	Mcavernosa28254	0.0541101250994746
+"synapse part"	GO:0044456	1	Mcavernosa14446	0.678178016802795
+"synapse part"	GO:0044456	1	Mcavernosa14781	-0.256613942938293
+"synapse part"	GO:0044456	1	Mcavernosa15167	0.0333040173608385
+"synapse part"	GO:0044456	1	Mcavernosa18283	0.0400478530810982
+"synapse part"	GO:0044456	1	Mcavernosa22404	-0.259866053399535
+"synapse part"	GO:0044456	1	Mcavernosa20819	0.0191638557897351
+"synapse part"	GO:0044456	1	Mcavernosa01159	0.456147246317325
+"synapse part"	GO:0044456	1	Mcavernosa01285	-0.207988595902223
+"synapse part"	GO:0044456	1	Mcavernosa17007	1.4124865093372
+"synapse part"	GO:0044456	1	Mcavernosa17044	0.0320318701688481
+"synapse part"	GO:0044456	1	Mcavernosa17171	0.393609893387578
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa13266	0.522550613153221
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa13261	0.278991935011033
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa08698	0.614577290097225
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa06743	0.0705020330498237
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa19829	0.435643429045769
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa15612	-0.539804277966065
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa10827	0.504449621127159
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa26978	-1.24862507783711
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa33577	-0.865570884449565
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa02151	0.371222677245505
+"catalytic step 2 spliceosome"	GO:0071013	2	Mcavernosa03729	0.0922103417562317
+"pole plasm"	GO:0045495	3	Mcavernosa15612	-0.539804277966065
+"pole plasm"	GO:0045495	3	Mcavernosa21392	-1.43144124655788
+"pole plasm"	GO:0045495	3	Mcavernosa26978	-1.24862507783711
+"pole plasm"	GO:0045495	3	Mcavernosa35077	0.213496107693504
+"pole plasm"	GO:0045495	3	Mcavernosa33577	-0.865570884449565
+"pole plasm"	GO:0045495	3	Mcavernosa03729	0.0922103417562317
+"pole plasm"	GO:0045495	3	Mcavernosa17245	1.24291486841466
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa13089	-0.056112906022068
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa08698	0.614577290097225
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa06743	0.0705020330498237
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa19829	0.435643429045769
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa22472	0.470015327105555
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa15612	-0.539804277966065
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa10827	0.504449621127159
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa26873	-0.331693944643268
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa02151	0.371222677245505
+"precatalytic spliceosome"	GO:0071011	2	Mcavernosa03729	0.0922103417562317
+"late endosome membrane"	GO:0031902	5	Mcavernosa04656	-0.280116465588387
+"late endosome membrane"	GO:0031902	5	Mcavernosa14416	-0.0568182593413786
+"late endosome membrane"	GO:0031902	5	Mcavernosa20543	-0.599163747756626
+"late endosome membrane"	GO:0031902	5	Mcavernosa00590	0.515637692538516
+"late endosome membrane"	GO:0031902	5	Mcavernosa01446	0.336114885910516
+"late endosome membrane"	GO:0031902	5	Mcavernosa03238	1.01561709816669
+"late endosome membrane"	GO:0031902	5	Mcavernosa02584	4.37301239877326
+"microtubule associated complex"	GO:0005875	4	Mcavernosa12990	-0.307729589030377
+"microtubule associated complex"	GO:0005875	4	Mcavernosa28254	0.0541101250994746
+"microtubule associated complex"	GO:0005875	4	Mcavernosa08742	0.196609911836709
+"microtubule associated complex"	GO:0005875	4	Mcavernosa14781	-0.256613942938293
+"microtubule associated complex"	GO:0005875	4	Mcavernosa18494	0.429402161603429
+"microtubule associated complex"	GO:0005875	4	Mcavernosa18576	5.80344925688899
+"microtubule associated complex"	GO:0005875	4	Mcavernosa19648	-0.806154615510625
+"microtubule associated complex"	GO:0005875	4	Mcavernosa22639	-0.496111250043636
+"microtubule associated complex"	GO:0005875	4	Mcavernosa21571	-0.829864340877287
+"microtubule associated complex"	GO:0005875	4	Mcavernosa21590	-0.0594193346341187
+"microtubule associated complex"	GO:0005875	4	Mcavernosa21718	0.491534153676904
+"microtubule associated complex"	GO:0005875	4	Mcavernosa26538	0.303246083088959
+"microtubule associated complex"	GO:0005875	4	Mcavernosa24154	-0.097375879571784
+"microtubule associated complex"	GO:0005875	4	Mcavernosa01412	-0.23919121991648
+"microtubule associated complex"	GO:0005875	4	Mcavernosa01527	-0.172004214181967
+"microtubule associated complex"	GO:0005875	4	Mcavernosa03676	-0.24881206133562
+"microtubule associated complex"	GO:0005875	4	Mcavernosa07504	-0.672201145071351
+"microtubule associated complex"	GO:0005875	4	Mcavernosa07764	0.728345662297823
+"microtubule associated complex"	GO:0005875	4	Mcavernosa24413	1.55841231686804
+"microtubule associated complex"	GO:0005875	4	Mcavernosa24412	-0.360296653063839
+"microtubule associated complex"	GO:0005875	4	Mcavernosa17044	0.0320318701688481
+"microtubule associated complex"	GO:0005875	4	Mcavernosa31100	-0.0685195971525766
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa08299	-0.953542517206381
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa08308	2.01601097386935
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa08742	0.196609911836709
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa20543	-0.599163747756626
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa20680	-0.770245429144605
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa03238	1.01561709816669
+"membrane microdomain"	GO:0045121;GO:0098857;GO:0098589	3	Mcavernosa02940	-0.52896471660652
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa04656	-0.280116465588387
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa06045	3.63297316502377
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa08299	-0.953542517206381
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa08308	2.01601097386935
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa15167	0.0333040173608385
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa11894	-0.167530093122046
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa18283	0.0400478530810982
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa26766	0.207733924738959
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa20543	-0.599163747756626
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa20819	0.0191638557897351
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa01159	0.456147246317325
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa01412	-0.23919121991648
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa17171	0.393609893387578
+"vesicle membrane"	GO:0012506;GO:0030659	3	Mcavernosa02584	4.37301239877326
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa08742	0.196609911836709
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa14548	-0.621496206227601
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa31727	-0.589070574504853
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa22639	-0.496111250043636
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa15527	0.0210108328166567
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa15703	0.282400392778105
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa16263	2.10425852194976
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa10627	0.423204802250414
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa21571	-0.829864340877287
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa17803	-0.434968401979785
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa23463	-0.430850708354606
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa03676	-0.24881206133562
+"mitochondrial matrix"	GO:0005759	4	Mcavernosa03071	-0.158957605909666
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa04816	-0.0670500502245522
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa06045	3.63297316502377
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa12343	-0.930422887478385
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa12595	-0.408420481369649
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa27949	-0.29781826012432
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa08312	0.271334263782396
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa14781	-0.256613942938293
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa18494	0.429402161603429
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa06632	0.15317520527364
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa19820	-0.714459107185693
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa22769	-0.0617633547711772
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa07764	0.728345662297823
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa17044	0.0320318701688481
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa14548	-0.621496206227601
+"cytoplasmic region"	GO:0005938;GO:0099568	3	Mcavernosa24154	-0.097375879571784
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa04656	-0.280116465588387
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa05656	-1.23850595038755
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa27938	0.0304038653003901
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa14408	0.0253585104133313
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa14416	-0.0568182593413786
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa15320	-0.288574972977498
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa11894	-0.167530093122046
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa12142	0.00297461039212163
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa31856	-0.339575024052992
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa31864	4.78993432753747
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa18374	0.383472946403686
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa21866	-1.25234641880411
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa21863	0.319187097881905
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa22595	0.214919130480114
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa15974	0.372835711562477
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa21508	-0.970197057308383
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa21773	1.13381683671171
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa20116	-0.0303298928887569
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa29896	0.0324868301985241
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa25737	-0.0709725441164587
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa16787	-0.0857851712332167
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa02538	0.19644347423095
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa30913	0.250552878907586
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa31458	-0.636837932635095
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa31457	3.8237607986774
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa12595	-0.408420481369649
+"endoplasmic reticulum part"	GO:0005789;GO:0044432;GO:0042175	3	Mcavernosa31070	0.0587935573939201
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa13211	-0.62847386275489
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa08742	0.196609911836709
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa16115	0.00514781336685019
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa09869	0.787329419965521
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa20808	0.867431389344885
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa20819	0.0191638557897351
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa30573	-1.07188469363559
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa07902	-0.593341095396684
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa24413	1.55841231686804
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa24412	-0.360296653063839
+"mitochondrial membrane part"	GO:0044455	2	Mcavernosa31326	-0.0811052208053791
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa13971	-0.631274940226337
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa31719	-1.99236311634553
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa18494	0.429402161603429
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa22769	-0.0617633547711772
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa01285	-0.207988595902223
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa17007	1.4124865093372
+"site of polarized growth"	GO:0030426;GO:0030427	3	Mcavernosa06632	0.15317520527364
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa13211	-0.62847386275489
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa14408	0.0253585104133313
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa20808	0.867431389344885
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa31070	0.0587935573939201
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa31326	-0.0811052208053791
+"intrinsic component of organelle membrane"	GO:0031300;GO:0031301	2	Mcavernosa31557	0.131319979646183
+"microtubule organizing center part"	GO:0044450	3	Mcavernosa09207	0.677960215660932
+"microtubule organizing center part"	GO:0044450	3	Mcavernosa10510	0.718094058442981
+"microtubule organizing center part"	GO:0044450	3	Mcavernosa01574	0.467130886011092
+"microtubule organizing center part"	GO:0044450	3	Mcavernosa24682	0.901550534254319
+"microtubule organizing center part"	GO:0044450	3	Mcavernosa30913	0.250552878907586
+"cilium"	GO:0005929	2	Mcavernosa06025	1.97193255879547
+"cilium"	GO:0005929	2	Mcavernosa14781	-0.256613942938293
+"cilium"	GO:0005929	2	Mcavernosa18283	0.0400478530810982
+"cilium"	GO:0005929	2	Mcavernosa18494	0.429402161603429
+"cilium"	GO:0005929	2	Mcavernosa16010	0.152867549101595
+"cilium"	GO:0005929	2	Mcavernosa10510	0.718094058442981
+"cilium"	GO:0005929	2	Mcavernosa09909	1.08698349040042
+"cilium"	GO:0005929	2	Mcavernosa00109	-0.162740794907091
+"cilium"	GO:0005929	2	Mcavernosa00928	-0.60818461781578
+"cilium"	GO:0005929	2	Mcavernosa25691	0.667908962964863
+"cilium"	GO:0005929	2	Mcavernosa24154	-0.097375879571784
+"cilium"	GO:0005929	2	Mcavernosa29031	0.065810933866346
+"cilium"	GO:0005929	2	Mcavernosa01574	0.467130886011092
+"cilium"	GO:0005929	2	Mcavernosa01893	-0.741890454808612
+"cilium"	GO:0005929	2	Mcavernosa03817	-0.190892070981341
+"cilium"	GO:0005929	2	Mcavernosa08225	0.449887207593551
+"cilium"	GO:0005929	2	Mcavernosa24682	0.901550534254319
+"cilium"	GO:0005929	2	Mcavernosa03007	-0.338686104151266
+"small nuclear ribonucleoprotein complex"	GO:0030532;GO:0120114	2	Mcavernosa09083	1.92650853336531
+"small nuclear ribonucleoprotein complex"	GO:0030532;GO:0120114	2	Mcavernosa22472	0.470015327105555
+"small nuclear ribonucleoprotein complex"	GO:0030532;GO:0120114	2	Mcavernosa20682	1.25294841929505
+"small nuclear ribonucleoprotein complex"	GO:0030532;GO:0120114	2	Mcavernosa01386	0.0235156722245026
+"small nuclear ribonucleoprotein complex"	GO:0030532;GO:0120114	2	Mcavernosa31241	0.403681035409693
+"synapse"	GO:0045202	1	Mcavernosa06121	-0.508650361596383
+"synapse"	GO:0045202	1	Mcavernosa06124	-0.370970371770491
+"synapse"	GO:0045202	1	Mcavernosa06175	0.121088496567171
+"synapse"	GO:0045202	1	Mcavernosa13580	0.206522826281962
+"synapse"	GO:0045202	1	Mcavernosa27973	0.58975433854391
+"synapse"	GO:0045202	1	Mcavernosa28254	0.0541101250994746
+"synapse"	GO:0045202	1	Mcavernosa14446	0.678178016802795
+"synapse"	GO:0045202	1	Mcavernosa14781	-0.256613942938293
+"synapse"	GO:0045202	1	Mcavernosa15167	0.0333040173608385
+"synapse"	GO:0045202	1	Mcavernosa18283	0.0400478530810982
+"synapse"	GO:0045202	1	Mcavernosa19458	-0.182342760996923
+"synapse"	GO:0045202	1	Mcavernosa22382	-0.297589197438231
+"synapse"	GO:0045202	1	Mcavernosa22404	-0.259866053399535
+"synapse"	GO:0045202	1	Mcavernosa20819	0.0191638557897351
+"synapse"	GO:0045202	1	Mcavernosa00025	-0.189961304137219
+"synapse"	GO:0045202	1	Mcavernosa24337	-0.74635847634559
+"synapse"	GO:0045202	1	Mcavernosa01159	0.456147246317325
+"synapse"	GO:0045202	1	Mcavernosa01285	-0.207988595902223
+"synapse"	GO:0045202	1	Mcavernosa01446	0.336114885910516
+"synapse"	GO:0045202	1	Mcavernosa02165	-1.05865497645643
+"synapse"	GO:0045202	1	Mcavernosa17007	1.4124865093372
+"synapse"	GO:0045202	1	Mcavernosa17044	0.0320318701688481
+"synapse"	GO:0045202	1	Mcavernosa17171	0.393609893387578
+"P granule"	GO:0043186;GO:0060293	2	Mcavernosa21392	-1.43144124655788
+"P granule"	GO:0043186;GO:0060293	2	Mcavernosa26978	-1.24862507783711
+"P granule"	GO:0043186;GO:0060293	2	Mcavernosa35077	0.213496107693504
+"P granule"	GO:0043186;GO:0060293	2	Mcavernosa33577	-0.865570884449565
+"P granule"	GO:0043186;GO:0060293	2	Mcavernosa17245	1.24291486841466
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa04400	0.441578259187158
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa04869	0.356535645676911
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa13093	-0.497075021413875
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa13971	-0.631274940226337
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa08497	0.878299200435298
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa14340	-0.289346365578871
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa14396	-0.111975973081987
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa18279	-0.518707817334222
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa15527	0.0210108328166567
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa15975	0.198240066856783
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa10950	-0.580761972240143
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa10998	-0.0323085102032109
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa29763	0.202320790359257
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa30052	-0.28116844447541
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa03561	0.290838306877101
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa24468	-0.0454159436839074
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa17003	-0.113628641190917
+"ribosome"	GO:0005840;GO:0044391;GO:0044445;GO:0022626	2	Mcavernosa08156	-0.577835983015791
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa28254	0.0541101250994746
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa08337	-0.423660176908236
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa08742	0.196609911836709
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa18283	0.0400478530810982
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa21863	0.319187097881905
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa09460	-0.185565370419602
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa21508	-0.970197057308383
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa01412	-0.23919121991648
+"clathrin-coated pit"	GO:0005905	2	Mcavernosa24997	-1.24074123562113
+"membrane protein complex"	GO:0098796	2	Mcavernosa05180	0.673917421470048
+"membrane protein complex"	GO:0098796	2	Mcavernosa05624	-0.111071327905123
+"membrane protein complex"	GO:0098796	2	Mcavernosa14262	-0.164546166791202
+"membrane protein complex"	GO:0098796	2	Mcavernosa28254	0.0541101250994746
+"membrane protein complex"	GO:0098796	2	Mcavernosa08337	-0.423660176908236
+"membrane protein complex"	GO:0098796	2	Mcavernosa08742	0.196609911836709
+"membrane protein complex"	GO:0098796	2	Mcavernosa14408	0.0253585104133313
+"membrane protein complex"	GO:0098796	2	Mcavernosa11795	-1.08952582362016
+"membrane protein complex"	GO:0098796	2	Mcavernosa11801	-0.485368027326044
+"membrane protein complex"	GO:0098796	2	Mcavernosa32167	-0.573993608386713
+"membrane protein complex"	GO:0098796	2	Mcavernosa18283	0.0400478530810982
+"membrane protein complex"	GO:0098796	2	Mcavernosa18374	0.383472946403686
+"membrane protein complex"	GO:0098796	2	Mcavernosa06192	-1.37200423060549
+"membrane protein complex"	GO:0098796	2	Mcavernosa07024	0.0626969610878739
+"membrane protein complex"	GO:0098796	2	Mcavernosa22382	-0.297589197438231
+"membrane protein complex"	GO:0098796	2	Mcavernosa15974	0.372835711562477
+"membrane protein complex"	GO:0098796	2	Mcavernosa16115	0.00514781336685019
+"membrane protein complex"	GO:0098796	2	Mcavernosa09869	0.787329419965521
+"membrane protein complex"	GO:0098796	2	Mcavernosa21590	-0.0594193346341187
+"membrane protein complex"	GO:0098796	2	Mcavernosa21773	1.13381683671171
+"membrane protein complex"	GO:0098796	2	Mcavernosa26766	0.207733924738959
+"membrane protein complex"	GO:0098796	2	Mcavernosa20116	-0.0303298928887569
+"membrane protein complex"	GO:0098796	2	Mcavernosa20819	0.0191638557897351
+"membrane protein complex"	GO:0098796	2	Mcavernosa29901	0.0756091517951236
+"membrane protein complex"	GO:0098796	2	Mcavernosa30573	-1.07188469363559
+"membrane protein complex"	GO:0098796	2	Mcavernosa34843	0.257328636018939
+"membrane protein complex"	GO:0098796	2	Mcavernosa29031	0.065810933866346
+"membrane protein complex"	GO:0098796	2	Mcavernosa01446	0.336114885910516
+"membrane protein complex"	GO:0098796	2	Mcavernosa03238	1.01561709816669
+"membrane protein complex"	GO:0098796	2	Mcavernosa07902	-0.593341095396684
+"membrane protein complex"	GO:0098796	2	Mcavernosa24413	1.55841231686804
+"membrane protein complex"	GO:0098796	2	Mcavernosa24412	-0.360296653063839
+"membrane protein complex"	GO:0098796	2	Mcavernosa16477	0.0861228024737234
+"membrane protein complex"	GO:0098796	2	Mcavernosa16481	-0.510185448060468
+"membrane protein complex"	GO:0098796	2	Mcavernosa16635	0.341111573838429
+"membrane protein complex"	GO:0098796	2	Mcavernosa16675	-0.523594599435491
+"membrane protein complex"	GO:0098796	2	Mcavernosa17171	0.393609893387578
+"membrane protein complex"	GO:0098796	2	Mcavernosa02327	-0.162763974336655
+"extracellular matrix"	GO:0031012	2	Mcavernosa06121	-0.508650361596383
+"extracellular matrix"	GO:0031012	2	Mcavernosa06124	-0.370970371770491
+"extracellular matrix"	GO:0031012	2	Mcavernosa27973	0.58975433854391
+"extracellular matrix"	GO:0031012	2	Mcavernosa14548	-0.621496206227601
+"extracellular matrix"	GO:0031012	2	Mcavernosa21863	0.319187097881905
+"extracellular matrix"	GO:0031012	2	Mcavernosa10817	-0.344660161863013
+"extracellular matrix"	GO:0031012	2	Mcavernosa21601	-0.310050078103574
+"extracellular matrix"	GO:0031012	2	Mcavernosa26494	0.616989658715082
+"extracellular matrix"	GO:0031012	2	Mcavernosa00597	-0.373919870581882
+"extracellular matrix"	GO:0031012	2	Mcavernosa17276	0.464853038625831
+"extracellular matrix"	GO:0031012	2	Mcavernosa02357	-0.465043332634063
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa08742	0.196609911836709
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa21863	0.319187097881905
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa26766	0.207733924738959
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa17971	0.0507993314756932
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa34843	0.257328636018939
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa01159	0.456147246317325
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa17171	0.393609893387578
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa30913	0.250552878907586
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa18283	0.0400478530810982
+"secretory vesicle"	GO:0030141;GO:0099503	5	Mcavernosa20819	0.0191638557897351
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa04816	-0.0670500502245522
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa28254	0.0541101250994746
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa14781	-0.256613942938293
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa06632	0.15317520527364
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa26417	-1.10306161121984
+"cell division site"	GO:0032153;GO:0032155	2	Mcavernosa31100	-0.0685195971525766
+"cell cortex part"	GO:0044448	2	Mcavernosa04816	-0.0670500502245522
+"cell cortex part"	GO:0044448	2	Mcavernosa12595	-0.408420481369649
+"cell cortex part"	GO:0044448	2	Mcavernosa14781	-0.256613942938293
+"cell cortex part"	GO:0044448	2	Mcavernosa06632	0.15317520527364
+"cell cortex part"	GO:0044448	2	Mcavernosa22769	-0.0617633547711772
+"chromatin"	GO:0000785	4	Mcavernosa27934	-0.28777852761249
+"chromatin"	GO:0000785	4	Mcavernosa28797	0.816372132795614
+"chromatin"	GO:0000785	4	Mcavernosa09170	0.366787195976221
+"chromatin"	GO:0000785	4	Mcavernosa07070	-0.370973263325129
+"chromatin"	GO:0000785	4	Mcavernosa19620	-0.330881738452255
+"chromatin"	GO:0000785	4	Mcavernosa22406	-0.0308216896606807
+"chromatin"	GO:0000785	4	Mcavernosa22745	0.951240224855774
+"chromatin"	GO:0000785	4	Mcavernosa15655	-0.149533102472838
+"chromatin"	GO:0000785	4	Mcavernosa16043	3.03815916299368
+"chromatin"	GO:0000785	4	Mcavernosa16272	-0.093972599704618
+"chromatin"	GO:0000785	4	Mcavernosa21601	-0.310050078103574
+"chromatin"	GO:0000785	4	Mcavernosa20110	0.60638146048907
+"chromatin"	GO:0000785	4	Mcavernosa24829	0.279132910313718
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa04869	0.356535645676911
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa13971	-0.631274940226337
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa14396	-0.111975973081987
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa18279	-0.518707817334222
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa15527	0.0210108328166567
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa30052	-0.28116844447541
+"small ribosomal subunit"	GO:0015935	2	Mcavernosa17003	-0.113628641190917
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa06121	-0.508650361596383
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa06124	-0.370970371770491
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa27973	0.58975433854391
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa08566	0.575239077073468
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa21863	0.319187097881905
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa10006	-0.0914288087987167
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa17591	-0.229168609122514
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa16477	0.0861228024737234
+"basolateral plasma membrane"	GO:0016323	3	Mcavernosa16481	-0.510185448060468
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa05857	-1.4332062787095
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa06045	3.63297316502377
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa06175	0.121088496567171
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa12536	-0.186436636568721
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa13971	-0.631274940226337
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa27949	-0.29781826012432
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa28254	0.0541101250994746
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa12026	-0.31244203675719
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa31719	-1.99236311634553
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa18494	0.429402161603429
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa21863	0.319187097881905
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa09460	-0.185565370419602
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa21392	-1.43144124655788
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa21508	-0.970197057308383
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa21529	0.741146681431782
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa20543	-0.599163747756626
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa20819	0.0191638557897351
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa17591	-0.229168609122514
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa30052	-0.28116844447541
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa01285	-0.207988595902223
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa02165	-1.05865497645643
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa07764	0.728345662297823
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa24997	-1.24074123562113
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa17044	0.0320318701688481
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa17171	0.393609893387578
+"perinuclear region of cytoplasm"	GO:0048471	2	Mcavernosa30913	0.250552878907586
+"apical part of cell"	GO:0045177	2	Mcavernosa28254	0.0541101250994746
+"apical part of cell"	GO:0045177	2	Mcavernosa14446	0.678178016802795
+"apical part of cell"	GO:0045177	2	Mcavernosa14781	-0.256613942938293
+"apical part of cell"	GO:0045177	2	Mcavernosa21863	0.319187097881905
+"apical part of cell"	GO:0045177	2	Mcavernosa09460	-0.185565370419602
+"apical part of cell"	GO:0045177	2	Mcavernosa10006	-0.0914288087987167
+"apical part of cell"	GO:0045177	2	Mcavernosa26766	0.207733924738959
+"apical part of cell"	GO:0045177	2	Mcavernosa24349	1.13432288884195
+"apical part of cell"	GO:0045177	2	Mcavernosa34273	-0.0764840031452243
+"apical part of cell"	GO:0045177	2	Mcavernosa01412	-0.23919121991648
+"apical part of cell"	GO:0045177	2	Mcavernosa02165	-1.05865497645643
+"apical part of cell"	GO:0045177	2	Mcavernosa02584	4.37301239877326
+"apical part of cell"	GO:0045177	2	Mcavernosa03007	-0.338686104151266
+"axon terminus"	GO:0098793;GO:0043679;GO:0044306	3	Mcavernosa06121	-0.508650361596383
+"axon terminus"	GO:0098793;GO:0043679;GO:0044306	3	Mcavernosa06124	-0.370970371770491
+"axon terminus"	GO:0098793;GO:0043679;GO:0044306	3	Mcavernosa27973	0.58975433854391
+"axon terminus"	GO:0098793;GO:0043679;GO:0044306	3	Mcavernosa14781	-0.256613942938293
+"axon terminus"	GO:0098793;GO:0043679;GO:0044306	3	Mcavernosa20819	0.0191638557897351
+"neuron projection"	GO:0043005	3	Mcavernosa06121	-0.508650361596383
+"neuron projection"	GO:0043005	3	Mcavernosa06124	-0.370970371770491
+"neuron projection"	GO:0043005	3	Mcavernosa13971	-0.631274940226337
+"neuron projection"	GO:0043005	3	Mcavernosa27973	0.58975433854391
+"neuron projection"	GO:0043005	3	Mcavernosa28254	0.0541101250994746
+"neuron projection"	GO:0043005	3	Mcavernosa28386	-0.297282699051588
+"neuron projection"	GO:0043005	3	Mcavernosa08312	0.271334263782396
+"neuron projection"	GO:0043005	3	Mcavernosa14446	0.678178016802795
+"neuron projection"	GO:0043005	3	Mcavernosa14548	-0.621496206227601
+"neuron projection"	GO:0043005	3	Mcavernosa14781	-0.256613942938293
+"neuron projection"	GO:0043005	3	Mcavernosa15167	0.0333040173608385
+"neuron projection"	GO:0043005	3	Mcavernosa31719	-1.99236311634553
+"neuron projection"	GO:0043005	3	Mcavernosa18298	-0.191166343356433
+"neuron projection"	GO:0043005	3	Mcavernosa18494	0.429402161603429
+"neuron projection"	GO:0043005	3	Mcavernosa18576	5.80344925688899
+"neuron projection"	GO:0043005	3	Mcavernosa19134	1.27459906578917
+"neuron projection"	GO:0043005	3	Mcavernosa07024	0.0626969610878739
+"neuron projection"	GO:0043005	3	Mcavernosa22382	-0.297589197438231
+"neuron projection"	GO:0043005	3	Mcavernosa22595	0.214919130480114
+"neuron projection"	GO:0043005	3	Mcavernosa22769	-0.0617633547711772
+"neuron projection"	GO:0043005	3	Mcavernosa10817	-0.344660161863013
+"neuron projection"	GO:0043005	3	Mcavernosa10821	-0.219376291510543
+"neuron projection"	GO:0043005	3	Mcavernosa21508	-0.970197057308383
+"neuron projection"	GO:0043005	3	Mcavernosa26766	0.207733924738959
+"neuron projection"	GO:0043005	3	Mcavernosa20819	0.0191638557897351
+"neuron projection"	GO:0043005	3	Mcavernosa00928	-0.60818461781578
+"neuron projection"	GO:0043005	3	Mcavernosa24337	-0.74635847634559
+"neuron projection"	GO:0043005	3	Mcavernosa30573	-1.07188469363559
+"neuron projection"	GO:0043005	3	Mcavernosa35077	0.213496107693504
+"neuron projection"	GO:0043005	3	Mcavernosa01285	-0.207988595902223
+"neuron projection"	GO:0043005	3	Mcavernosa01769	0.185906799087506
+"neuron projection"	GO:0043005	3	Mcavernosa02165	-1.05865497645643
+"neuron projection"	GO:0043005	3	Mcavernosa24682	0.901550534254319
+"neuron projection"	GO:0043005	3	Mcavernosa24997	-1.24074123562113
+"neuron projection"	GO:0043005	3	Mcavernosa17007	1.4124865093372
+"neuron projection"	GO:0043005	3	Mcavernosa03007	-0.338686104151266
+"neuron projection"	GO:0043005	3	Mcavernosa30913	0.250552878907586
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa27934	-0.28777852761249
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa22406	-0.0308216896606807
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa22661	1.10657174492153
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa22745	0.951240224855774
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa16043	3.03815916299368
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa16272	-0.093972599704618
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa09675	-0.463340045679616
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa21601	-0.310050078103574
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa20110	0.60638146048907
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa00562	0.77646277496146
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa35077	0.213496107693504
+"nuclear chromosome part"	GO:0044454	2	Mcavernosa24829	0.279132910313718
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa05180	0.673917421470048
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa28254	0.0541101250994746
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa12040	-0.304383876765476
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa18494	0.429402161603429
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa18576	5.80344925688899
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa09350	0.330030320435978
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa20819	0.0191638557897351
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa24154	-0.097375879571784
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa07504	-0.672201145071351
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa07764	0.728345662297823
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa31100	-0.0685195971525766
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa01446	0.336114885910516
+"polymeric cytoskeletal fiber"	GO:0005874;GO:0099513	5	Mcavernosa16568	0.116770398226089
+"synaptic membrane"	GO:0097060	2	Mcavernosa13580	0.206522826281962
+"synaptic membrane"	GO:0097060	2	Mcavernosa28254	0.0541101250994746
+"synaptic membrane"	GO:0097060	2	Mcavernosa22404	-0.259866053399535
+"synaptic membrane"	GO:0097060	2	Mcavernosa01285	-0.207988595902223
+"synaptic membrane"	GO:0097060	2	Mcavernosa17007	1.4124865093372
+"cell projection membrane"	GO:0031253	2	Mcavernosa06025	1.97193255879547
+"cell projection membrane"	GO:0031253	2	Mcavernosa13376	0.769218613438233
+"cell projection membrane"	GO:0031253	2	Mcavernosa18283	0.0400478530810982
+"cell projection membrane"	GO:0031253	2	Mcavernosa10510	0.718094058442981
+"cell projection membrane"	GO:0031253	2	Mcavernosa10941	-0.603741916391632
+"cell projection membrane"	GO:0031253	2	Mcavernosa10032	-0.466763806372361
+"cell projection membrane"	GO:0031253	2	Mcavernosa20819	0.0191638557897351
+"cell projection membrane"	GO:0031253	2	Mcavernosa01412	-0.23919121991648
+"cell projection membrane"	GO:0031253	2	Mcavernosa02940	-0.52896471660652
+"cell projection membrane"	GO:0031253	2	Mcavernosa03007	-0.338686104151266
+"nuclear body"	GO:0016604	2	Mcavernosa08698	0.614577290097225
+"nuclear body"	GO:0016604	2	Mcavernosa12071	-0.758684363840594
+"nuclear body"	GO:0016604	2	Mcavernosa06743	0.0705020330498237
+"nuclear body"	GO:0016604	2	Mcavernosa22472	0.470015327105555
+"nuclear body"	GO:0016604	2	Mcavernosa15612	-0.539804277966065
+"nuclear body"	GO:0016604	2	Mcavernosa11213	0.491234618623641
+"nuclear body"	GO:0016604	2	Mcavernosa20682	1.25294841929505
+"nuclear body"	GO:0016604	2	Mcavernosa00281	3.1900209077175
+"nuclear body"	GO:0016604	2	Mcavernosa01079	-0.0991589461646841
+"nuclear body"	GO:0016604	2	Mcavernosa01285	-0.207988595902223
+"nuclear body"	GO:0016604	2	Mcavernosa01287	-0.605549469782994
+"nuclear body"	GO:0016604	2	Mcavernosa03729	0.0922103417562317
+"nuclear body"	GO:0016604	2	Mcavernosa17084	0.869733607799375
+"nuclear body"	GO:0016604	2	Mcavernosa31043	-1.12241016389102
+"nuclear body"	GO:0016604	2	Mcavernosa31241	0.403681035409693
+"spindle"	GO:0005819	4	Mcavernosa12343	-0.930422887478385
+"spindle"	GO:0005819	4	Mcavernosa28254	0.0541101250994746
+"spindle"	GO:0005819	4	Mcavernosa14781	-0.256613942938293
+"spindle"	GO:0005819	4	Mcavernosa11853	0.0979694899785635
+"spindle"	GO:0005819	4	Mcavernosa18494	0.429402161603429
+"spindle"	GO:0005819	4	Mcavernosa19734	-0.198541010301918
+"spindle"	GO:0005819	4	Mcavernosa15670	-0.834735339378245
+"spindle"	GO:0005819	4	Mcavernosa16272	-0.093972599704618
+"spindle"	GO:0005819	4	Mcavernosa09350	0.330030320435978
+"spindle"	GO:0005819	4	Mcavernosa01126	-0.307382589131598
+"spindle"	GO:0005819	4	Mcavernosa01127	4.55900179148077
+"spindle"	GO:0005819	4	Mcavernosa01527	-0.172004214181967
+"spindle"	GO:0005819	4	Mcavernosa01574	0.467130886011092
+"spindle"	GO:0005819	4	Mcavernosa07764	0.728345662297823
+"spindle"	GO:0005819	4	Mcavernosa31100	-0.0685195971525766
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa12536	-0.186436636568721
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa28254	0.0541101250994746
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa08742	0.196609911836709
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa15167	0.0333040173608385
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa11894	-0.167530093122046
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa18283	0.0400478530810982
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa21508	-0.970197057308383
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa20819	0.0191638557897351
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa01159	0.456147246317325
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa24997	-1.24074123562113
+"coated vesicle"	GO:0030135;GO:0030136	3	Mcavernosa17171	0.393609893387578
+"sarcomere"	GO:0030017	3	Mcavernosa06025	1.97193255879547
+"sarcomere"	GO:0030017	3	Mcavernosa28850	1.43560668868124
+"sarcomere"	GO:0030017	3	Mcavernosa14446	0.678178016802795
+"sarcomere"	GO:0030017	3	Mcavernosa14884	-0.498363375320034
+"sarcomere"	GO:0030017	3	Mcavernosa06769	-1.78569421646435
+"sarcomere"	GO:0030017	3	Mcavernosa22769	-0.0617633547711772
+"sarcomere"	GO:0030017	3	Mcavernosa10819	0.462969572312989
+"sarcomere"	GO:0030017	3	Mcavernosa30843	-0.564504479742849
+"sarcomere"	GO:0030017	3	Mcavernosa30913	0.250552878907586
+"side of membrane"	GO:0098552	2	Mcavernosa14262	-0.164546166791202
+"side of membrane"	GO:0098552	2	Mcavernosa11795	-1.08952582362016
+"side of membrane"	GO:0098552	2	Mcavernosa11801	-0.485368027326044
+"side of membrane"	GO:0098552	2	Mcavernosa18374	0.383472946403686
+"side of membrane"	GO:0098552	2	Mcavernosa22382	-0.297589197438231
+"side of membrane"	GO:0098552	2	Mcavernosa21590	-0.0594193346341187
+"side of membrane"	GO:0098552	2	Mcavernosa27270	0.673811688773883
+"side of membrane"	GO:0098552	2	Mcavernosa01412	-0.23919121991648
+"side of membrane"	GO:0098552	2	Mcavernosa01769	0.185906799087506
+"side of membrane"	GO:0098552	2	Mcavernosa25362	-1.07166489762903
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa22639	-0.496111250043636
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa15527	0.0210108328166567
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa16115	0.00514781336685019
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa09869	0.787329419965521
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa30573	-1.07188469363559
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa07902	-0.593341095396684
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa24413	1.55841231686804
+"mitochondrial protein complex"	GO:0098798;GO:0098800	4	Mcavernosa24412	-0.360296653063839
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa13971	-0.631274940226337
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa14781	-0.256613942938293
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa18494	0.429402161603429
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa19734	-0.198541010301918
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa22406	-0.0308216896606807
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa16272	-0.093972599704618
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa26358	-0.48421887084346
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa24380	0.294805305460833
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa02327	-0.162763974336655
+"chromosomal region"	GO:0000775;GO:0098687	3	Mcavernosa35077	0.213496107693504
+"extracellular region part"	GO:0044421	1	Mcavernosa06121	-0.508650361596383
+"extracellular region part"	GO:0044421	1	Mcavernosa06124	-0.370970371770491
+"extracellular region part"	GO:0044421	1	Mcavernosa13789	-0.265050822945202
+"extracellular region part"	GO:0044421	1	Mcavernosa27973	0.58975433854391
+"extracellular region part"	GO:0044421	1	Mcavernosa28827	-0.618644872734359
+"extracellular region part"	GO:0044421	1	Mcavernosa28831	0.0474056452267975
+"extracellular region part"	GO:0044421	1	Mcavernosa28825	-0.460701950060155
+"extracellular region part"	GO:0044421	1	Mcavernosa08299	-0.953542517206381
+"extracellular region part"	GO:0044421	1	Mcavernosa08308	2.01601097386935
+"extracellular region part"	GO:0044421	1	Mcavernosa08742	0.196609911836709
+"extracellular region part"	GO:0044421	1	Mcavernosa14548	-0.621496206227601
+"extracellular region part"	GO:0044421	1	Mcavernosa14781	-0.256613942938293
+"extracellular region part"	GO:0044421	1	Mcavernosa21866	-1.25234641880411
+"extracellular region part"	GO:0044421	1	Mcavernosa21863	0.319187097881905
+"extracellular region part"	GO:0044421	1	Mcavernosa10414	-0.765952690736744
+"extracellular region part"	GO:0044421	1	Mcavernosa10819	0.462969572312989
+"extracellular region part"	GO:0044421	1	Mcavernosa10817	-0.344660161863013
+"extracellular region part"	GO:0044421	1	Mcavernosa09460	-0.185565370419602
+"extracellular region part"	GO:0044421	1	Mcavernosa10167	5.5681456725744
+"extracellular region part"	GO:0044421	1	Mcavernosa21601	-0.310050078103574
+"extracellular region part"	GO:0044421	1	Mcavernosa26494	0.616989658715082
+"extracellular region part"	GO:0044421	1	Mcavernosa00597	-0.373919870581882
+"extracellular region part"	GO:0044421	1	Mcavernosa27466	4.24267676380098
+"extracellular region part"	GO:0044421	1	Mcavernosa34288	0.00469606747525235
+"extracellular region part"	GO:0044421	1	Mcavernosa02151	0.371222677245505
+"extracellular region part"	GO:0044421	1	Mcavernosa25362	-1.07166489762903
+"extracellular region part"	GO:0044421	1	Mcavernosa17044	0.0320318701688481
+"extracellular region part"	GO:0044421	1	Mcavernosa17276	0.464853038625831
+"extracellular region part"	GO:0044421	1	Mcavernosa02357	-0.465043332634063
+"extracellular region part"	GO:0044421	1	Mcavernosa02940	-0.52896471660652
+"extracellular region part"	GO:0044421	1	Mcavernosa03007	-0.338686104151266
+"extracellular region part"	GO:0044421	1	Mcavernosa30913	0.250552878907586
+"extracellular region part"	GO:0044421	1	Mcavernosa30914	-1.34088169843686
+"extracellular region part"	GO:0044421	1	Mcavernosa31100	-0.0685195971525766
+"external side of plasma membrane"	GO:0009897	3	Mcavernosa18374	0.383472946403686
+"external side of plasma membrane"	GO:0009897	3	Mcavernosa27270	0.673811688773883
+"external side of plasma membrane"	GO:0009897	3	Mcavernosa01412	-0.23919121991648
+"external side of plasma membrane"	GO:0009897	3	Mcavernosa01769	0.185906799087506
+"external side of plasma membrane"	GO:0009897	3	Mcavernosa25362	-1.07166489762903
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa09083	1.92650853336531
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa18298	-0.191166343356433
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa19294	-0.352569667278454
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa21392	-1.43144124655788
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa26978	-1.24862507783711
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa35077	0.213496107693504
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa33577	-0.865570884449565
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa17245	1.24291486841466
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa02389	-0.82411302188321
+"ribonucleoprotein granule"	GO:0036464;GO:0035770	4	Mcavernosa07070	-0.370973263325129
+"postsynaptic density"	GO:0014069;GO:0099572	2	Mcavernosa28254	0.0541101250994746
+"postsynaptic density"	GO:0014069;GO:0099572	2	Mcavernosa14446	0.678178016802795
+"postsynaptic density"	GO:0014069;GO:0099572	2	Mcavernosa15167	0.0333040173608385
+"postsynaptic density"	GO:0014069;GO:0099572	2	Mcavernosa17007	1.4124865093372
+"postsynaptic density"	GO:0014069;GO:0099572	2	Mcavernosa17044	0.0320318701688481
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa05624	-0.111071327905123
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa05857	-1.4332062787095
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa12343	-0.930422887478385
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa13971	-0.631274940226337
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa08299	-0.953542517206381
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa08308	2.01601097386935
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa08698	0.614577290097225
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa12071	-0.758684363840594
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa32167	-0.573993608386713
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa18494	0.429402161603429
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa15975	0.198240066856783
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa10006	-0.0914288087987167
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa21508	-0.970197057308383
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa01422	-0.837715943514968
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa35094	0.481720345905276
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa24666	0.267346810618777
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa16635	0.341111573838429
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa16675	-0.523594599435491
+"nuclear envelope"	GO:0005635;GO:0031965	2	Mcavernosa02327	-0.162763974336655
+"spindle microtubule"	GO:0005876	2	Mcavernosa28254	0.0541101250994746
+"spindle microtubule"	GO:0005876	2	Mcavernosa18494	0.429402161603429
+"spindle microtubule"	GO:0005876	2	Mcavernosa09350	0.330030320435978
+"spindle microtubule"	GO:0005876	2	Mcavernosa07764	0.728345662297823
+"spindle microtubule"	GO:0005876	2	Mcavernosa31100	-0.0685195971525766
+"nucleolus"	GO:0005730	3	Mcavernosa04750	0.800363917137061
+"nucleolus"	GO:0005730	3	Mcavernosa04869	0.356535645676911
+"nucleolus"	GO:0005730	3	Mcavernosa05857	-1.4332062787095
+"nucleolus"	GO:0005730	3	Mcavernosa06045	3.63297316502377
+"nucleolus"	GO:0005730	3	Mcavernosa12380	-0.697728256124547
+"nucleolus"	GO:0005730	3	Mcavernosa13759	0.40169733019195
+"nucleolus"	GO:0005730	3	Mcavernosa28665	-0.34883126551642
+"nucleolus"	GO:0005730	3	Mcavernosa28776	4.70328761550953
+"nucleolus"	GO:0005730	3	Mcavernosa09078	-0.948114914000184
+"nucleolus"	GO:0005730	3	Mcavernosa09170	0.366787195976221
+"nucleolus"	GO:0005730	3	Mcavernosa14340	-0.289346365578871
+"nucleolus"	GO:0005730	3	Mcavernosa14396	-0.111975973081987
+"nucleolus"	GO:0005730	3	Mcavernosa14781	-0.256613942938293
+"nucleolus"	GO:0005730	3	Mcavernosa18279	-0.518707817334222
+"nucleolus"	GO:0005730	3	Mcavernosa06671	1.14550013860001
+"nucleolus"	GO:0005730	3	Mcavernosa06743	0.0705020330498237
+"nucleolus"	GO:0005730	3	Mcavernosa19518	1.29854184584069
+"nucleolus"	GO:0005730	3	Mcavernosa19734	-0.198541010301918
+"nucleolus"	GO:0005730	3	Mcavernosa20004	-0.138380000095406
+"nucleolus"	GO:0005730	3	Mcavernosa22745	0.951240224855774
+"nucleolus"	GO:0005730	3	Mcavernosa15655	-0.149533102472838
+"nucleolus"	GO:0005730	3	Mcavernosa10998	-0.0323085102032109
+"nucleolus"	GO:0005730	3	Mcavernosa11213	0.491234618623641
+"nucleolus"	GO:0005730	3	Mcavernosa10006	-0.0914288087987167
+"nucleolus"	GO:0005730	3	Mcavernosa20682	1.25294841929505
+"nucleolus"	GO:0005730	3	Mcavernosa00281	3.1900209077175
+"nucleolus"	GO:0005730	3	Mcavernosa30052	-0.28116844447541
+"nucleolus"	GO:0005730	3	Mcavernosa27466	4.24267676380098
+"nucleolus"	GO:0005730	3	Mcavernosa01287	-0.605549469782994
+"nucleolus"	GO:0005730	3	Mcavernosa07547	-0.0908589883393588
+"nucleolus"	GO:0005730	3	Mcavernosa24468	-0.0454159436839074
+"nucleolus"	GO:0005730	3	Mcavernosa24633	0.130554038607914
+"nucleolus"	GO:0005730	3	Mcavernosa17003	-0.113628641190917
+"nucleolus"	GO:0005730	3	Mcavernosa03071	-0.158957605909666
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa05180	0.673917421470048
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa06025	1.97193255879547
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa28254	0.0541101250994746
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa28850	1.43560668868124
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa14446	0.678178016802795
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa14884	-0.498363375320034
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa12040	-0.304383876765476
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa18494	0.429402161603429
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa18576	5.80344925688899
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa06769	-1.78569421646435
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa22769	-0.0617633547711772
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa15703	0.282400392778105
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa10819	0.462969572312989
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa09350	0.330030320435978
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa20819	0.0191638557897351
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa01049	-0.0272724161484167
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa24154	-0.097375879571784
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa27270	0.673811688773883
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa01446	0.336114885910516
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa07504	-0.672201145071351
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa07764	0.728345662297823
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa16568	0.116770398226089
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa30843	-0.564504479742849
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa30913	0.250552878907586
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa31100	-0.0685195971525766
+"supramolecular complex"	GO:0099512;GO:0099081;GO:0099080	2	Mcavernosa11853	0.0979694899785635
+"dendrite"	GO:0030425	4	Mcavernosa06121	-0.508650361596383
+"dendrite"	GO:0030425	4	Mcavernosa06124	-0.370970371770491
+"dendrite"	GO:0030425	4	Mcavernosa13971	-0.631274940226337
+"dendrite"	GO:0030425	4	Mcavernosa27973	0.58975433854391
+"dendrite"	GO:0030425	4	Mcavernosa08312	0.271334263782396
+"dendrite"	GO:0030425	4	Mcavernosa14446	0.678178016802795
+"dendrite"	GO:0030425	4	Mcavernosa14548	-0.621496206227601
+"dendrite"	GO:0030425	4	Mcavernosa15167	0.0333040173608385
+"dendrite"	GO:0030425	4	Mcavernosa18298	-0.191166343356433
+"dendrite"	GO:0030425	4	Mcavernosa18494	0.429402161603429
+"dendrite"	GO:0030425	4	Mcavernosa19134	1.27459906578917
+"dendrite"	GO:0030425	4	Mcavernosa07024	0.0626969610878739
+"dendrite"	GO:0030425	4	Mcavernosa10817	-0.344660161863013
+"dendrite"	GO:0030425	4	Mcavernosa10821	-0.219376291510543
+"dendrite"	GO:0030425	4	Mcavernosa21508	-0.970197057308383
+"dendrite"	GO:0030425	4	Mcavernosa26766	0.207733924738959
+"dendrite"	GO:0030425	4	Mcavernosa00928	-0.60818461781578
+"dendrite"	GO:0030425	4	Mcavernosa24337	-0.74635847634559
+"dendrite"	GO:0030425	4	Mcavernosa35077	0.213496107693504
+"dendrite"	GO:0030425	4	Mcavernosa01285	-0.207988595902223
+"dendrite"	GO:0030425	4	Mcavernosa24682	0.901550534254319
+"dendrite"	GO:0030425	4	Mcavernosa24997	-1.24074123562113
+"apical plasma membrane"	GO:0016324	3	Mcavernosa14781	-0.256613942938293
+"apical plasma membrane"	GO:0016324	3	Mcavernosa21863	0.319187097881905
+"apical plasma membrane"	GO:0016324	3	Mcavernosa10006	-0.0914288087987167
+"apical plasma membrane"	GO:0016324	3	Mcavernosa26766	0.207733924738959
+"apical plasma membrane"	GO:0016324	3	Mcavernosa24349	1.13432288884195
+"apical plasma membrane"	GO:0016324	3	Mcavernosa01412	-0.23919121991648
+"apical plasma membrane"	GO:0016324	3	Mcavernosa02584	4.37301239877326
+"apical plasma membrane"	GO:0016324	3	Mcavernosa03007	-0.338686104151266
+"spindle pole"	GO:0000922	4	Mcavernosa18494	0.429402161603429
+"spindle pole"	GO:0000922	4	Mcavernosa16272	-0.093972599704618
+"spindle pole"	GO:0000922	4	Mcavernosa09350	0.330030320435978
+"spindle pole"	GO:0000922	4	Mcavernosa01126	-0.307382589131598
+"spindle pole"	GO:0000922	4	Mcavernosa01127	4.55900179148077
+"spindle pole"	GO:0000922	4	Mcavernosa01527	-0.172004214181967
+"ruffle"	GO:0001726	2	Mcavernosa06025	1.97193255879547
+"ruffle"	GO:0001726	2	Mcavernosa12724	1.26925234277308
+"ruffle"	GO:0001726	2	Mcavernosa13376	0.769218613438233
+"ruffle"	GO:0001726	2	Mcavernosa10032	-0.466763806372361
+"ruffle"	GO:0001726	2	Mcavernosa20819	0.0191638557897351
+"ruffle"	GO:0001726	2	Mcavernosa02165	-1.05865497645643
+"ruffle"	GO:0001726	2	Mcavernosa02940	-0.52896471660652
+"midbody"	GO:0030496	2	Mcavernosa13971	-0.631274940226337
+"midbody"	GO:0030496	2	Mcavernosa28254	0.0541101250994746
+"midbody"	GO:0030496	2	Mcavernosa14781	-0.256613942938293
+"midbody"	GO:0030496	2	Mcavernosa18576	5.80344925688899
+"midbody"	GO:0030496	2	Mcavernosa26417	-1.10306161121984
+"midbody"	GO:0030496	2	Mcavernosa01126	-0.307382589131598
+"midbody"	GO:0030496	2	Mcavernosa01127	4.55900179148077
+"midbody"	GO:0030496	2	Mcavernosa01527	-0.172004214181967
+"midbody"	GO:0030496	2	Mcavernosa31100	-0.0685195971525766
+"transferase complex"	GO:1990234	3	Mcavernosa28714	0.417439783423564
+"transferase complex"	GO:1990234	3	Mcavernosa19620	-0.330881738452255
+"transferase complex"	GO:1990234	3	Mcavernosa22745	0.951240224855774
+"transferase complex"	GO:1990234	3	Mcavernosa10627	0.423204802250414
+"transferase complex"	GO:1990234	3	Mcavernosa09350	0.330030320435978
+"transferase complex"	GO:1990234	3	Mcavernosa21625	-0.260557576716937
+"transferase complex"	GO:1990234	3	Mcavernosa01079	-0.0991589461646841
+"transferase complex"	GO:1990234	3	Mcavernosa03414	0.52677319168989
+"transferase complex"	GO:1990234	3	Mcavernosa16787	-0.0857851712332167
+"transferase complex"	GO:1990234	3	Mcavernosa31465	1.32013346605937
+"kinetochore"	GO:0000776	2	Mcavernosa13971	-0.631274940226337
+"kinetochore"	GO:0000776	2	Mcavernosa14781	-0.256613942938293
+"kinetochore"	GO:0000776	2	Mcavernosa18494	0.429402161603429
+"kinetochore"	GO:0000776	2	Mcavernosa19734	-0.198541010301918
+"kinetochore"	GO:0000776	2	Mcavernosa22406	-0.0308216896606807
+"kinetochore"	GO:0000776	2	Mcavernosa26358	-0.48421887084346
+"kinetochore"	GO:0000776	2	Mcavernosa02327	-0.162763974336655
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa04400	0.441578259187158
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa13093	-0.497075021413875
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa08497	0.878299200435298
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa14340	-0.289346365578871
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa10950	-0.580761972240143
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa10998	-0.0323085102032109
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa29763	0.202320790359257
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa03561	0.290838306877101
+"large ribosomal subunit"	GO:0015934;GO:0022625	2	Mcavernosa24468	-0.0454159436839074
+"extracellular matrix component"	GO:0044420	2	Mcavernosa06121	-0.508650361596383
+"extracellular matrix component"	GO:0044420	2	Mcavernosa06124	-0.370970371770491
+"extracellular matrix component"	GO:0044420	2	Mcavernosa27973	0.58975433854391
+"extracellular matrix component"	GO:0044420	2	Mcavernosa21863	0.319187097881905
+"extracellular matrix component"	GO:0044420	2	Mcavernosa10817	-0.344660161863013
+"extracellular matrix component"	GO:0044420	2	Mcavernosa21601	-0.310050078103574
+"extracellular matrix component"	GO:0044420	2	Mcavernosa02357	-0.465043332634063
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa12343	-0.930422887478385
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa18373	-0.555295164081298
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa18979	1.41061210898768
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa21773	1.13381683671171
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa00930	-0.311000229810628
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa02023	0.67131258067255
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa15974	0.372835711562477
+"peptidase complex"	GO:0000502;GO:1905369;GO:1905368	4	Mcavernosa20116	-0.0303298928887569
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa06025	1.97193255879547
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa14781	-0.256613942938293
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa18283	0.0400478530810982
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa16010	0.152867549101595
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa10510	0.718094058442981
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa24154	-0.097375879571784
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa29031	0.065810933866346
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa01574	0.467130886011092
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa01893	-0.741890454808612
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa03817	-0.190892070981341
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa03007	-0.338686104151266
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa12040	-0.304383876765476
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa07764	0.728345662297823
+"ciliary part"	GO:0031514;GO:0044441	2	Mcavernosa24682	0.901550534254319
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa06025	1.97193255879547
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa28850	1.43560668868124
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa14446	0.678178016802795
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa14884	-0.498363375320034
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa06769	-1.78569421646435
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa22769	-0.0617633547711772
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa10819	0.462969572312989
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa27270	0.673811688773883
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa16568	0.116770398226089
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa30843	-0.564504479742849
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa30913	0.250552878907586
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa15703	0.282400392778105
+"contractile fiber"	GO:0030016;GO:0043292;GO:0044449	2	Mcavernosa01049	-0.0272724161484167
+"lamellipodium"	GO:0030027	2	Mcavernosa12724	1.26925234277308
+"lamellipodium"	GO:0030027	2	Mcavernosa27949	-0.29781826012432
+"lamellipodium"	GO:0030027	2	Mcavernosa10941	-0.603741916391632
+"lamellipodium"	GO:0030027	2	Mcavernosa26417	-1.10306161121984
+"lamellipodium"	GO:0030027	2	Mcavernosa17591	-0.229168609122514
+"lamellipodium"	GO:0030027	2	Mcavernosa01285	-0.207988595902223
+"lamellipodium"	GO:0030027	2	Mcavernosa02165	-1.05865497645643
+"mitotic spindle"	GO:0072686	2	Mcavernosa12343	-0.930422887478385
+"mitotic spindle"	GO:0072686	2	Mcavernosa15670	-0.834735339378245
+"mitotic spindle"	GO:0072686	2	Mcavernosa01126	-0.307382589131598
+"mitotic spindle"	GO:0072686	2	Mcavernosa01127	4.55900179148077
+"mitotic spindle"	GO:0072686	2	Mcavernosa31100	-0.0685195971525766
+"lipid droplet"	GO:0005811	4	Mcavernosa12990	-0.307729589030377
+"lipid droplet"	GO:0005811	4	Mcavernosa08742	0.196609911836709
+"lipid droplet"	GO:0005811	4	Mcavernosa15320	-0.288574972977498
+"lipid droplet"	GO:0005811	4	Mcavernosa11894	-0.167530093122046
+"lipid droplet"	GO:0005811	4	Mcavernosa31974	0.156540775855939
+"lipid droplet"	GO:0005811	4	Mcavernosa22639	-0.496111250043636
+"lipid droplet"	GO:0005811	4	Mcavernosa21571	-0.829864340877287
+"lipid droplet"	GO:0005811	4	Mcavernosa20680	-0.770245429144605
+"lipid droplet"	GO:0005811	4	Mcavernosa17803	-0.434968401979785
+"lipid droplet"	GO:0005811	4	Mcavernosa00025	-0.189961304137219
+"lipid droplet"	GO:0005811	4	Mcavernosa01431	-0.500393914862214
+"lipid droplet"	GO:0005811	4	Mcavernosa03676	-0.24881206133562
+"lipid droplet"	GO:0005811	4	Mcavernosa24413	1.55841231686804
+"lipid droplet"	GO:0005811	4	Mcavernosa24412	-0.360296653063839
+"Golgi membrane"	GO:0000139	4	Mcavernosa04656	-0.280116465588387
+"Golgi membrane"	GO:0000139	4	Mcavernosa05656	-1.23850595038755
+"Golgi membrane"	GO:0000139	4	Mcavernosa12536	-0.186436636568721
+"Golgi membrane"	GO:0000139	4	Mcavernosa12724	1.26925234277308
+"Golgi membrane"	GO:0000139	4	Mcavernosa28254	0.0541101250994746
+"Golgi membrane"	GO:0000139	4	Mcavernosa15320	-0.288574972977498
+"Golgi membrane"	GO:0000139	4	Mcavernosa11894	-0.167530093122046
+"Golgi membrane"	GO:0000139	4	Mcavernosa12026	-0.31244203675719
+"Golgi membrane"	GO:0000139	4	Mcavernosa18283	0.0400478530810982
+"Golgi membrane"	GO:0000139	4	Mcavernosa18374	0.383472946403686
+"Golgi membrane"	GO:0000139	4	Mcavernosa18576	5.80344925688899
+"Golgi membrane"	GO:0000139	4	Mcavernosa06652	0.580307293486951
+"Golgi membrane"	GO:0000139	4	Mcavernosa22595	0.214919130480114
+"Golgi membrane"	GO:0000139	4	Mcavernosa10735	0.483767065681508
+"Golgi membrane"	GO:0000139	4	Mcavernosa21508	-0.970197057308383
+"Golgi membrane"	GO:0000139	4	Mcavernosa20543	-0.599163747756626
+"Golgi membrane"	GO:0000139	4	Mcavernosa00109	-0.162740794907091
+"Golgi membrane"	GO:0000139	4	Mcavernosa01159	0.456147246317325
+"Golgi membrane"	GO:0000139	4	Mcavernosa01862	0.432181055484751
+"Golgi membrane"	GO:0000139	4	Mcavernosa17171	0.393609893387578
+"Golgi membrane"	GO:0000139	4	Mcavernosa02584	4.37301239877326
+"Golgi membrane"	GO:0000139	4	Mcavernosa31070	0.0587935573939201
+"Golgi membrane"	GO:0000139	4	Mcavernosa31458	-0.636837932635095
+"Golgi membrane"	GO:0000139	4	Mcavernosa31457	3.8237607986774
+"Golgi membrane"	GO:0000139	4	Mcavernosa31557	0.131319979646183
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa14781	-0.256613942938293
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa19734	-0.198541010301918
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa22406	-0.0308216896606807
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa16272	-0.093972599704618
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa26358	-0.48421887084346
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa02327	-0.162763974336655
+"condensed chromosome"	GO:0000779;GO:0000793	2	Mcavernosa14884	-0.498363375320034
+"cell leading edge"	GO:0031252	2	Mcavernosa06025	1.97193255879547
+"cell leading edge"	GO:0031252	2	Mcavernosa12724	1.26925234277308
+"cell leading edge"	GO:0031252	2	Mcavernosa13376	0.769218613438233
+"cell leading edge"	GO:0031252	2	Mcavernosa27949	-0.29781826012432
+"cell leading edge"	GO:0031252	2	Mcavernosa10941	-0.603741916391632
+"cell leading edge"	GO:0031252	2	Mcavernosa10032	-0.466763806372361
+"cell leading edge"	GO:0031252	2	Mcavernosa26417	-1.10306161121984
+"cell leading edge"	GO:0031252	2	Mcavernosa20819	0.0191638557897351
+"cell leading edge"	GO:0031252	2	Mcavernosa17591	-0.229168609122514
+"cell leading edge"	GO:0031252	2	Mcavernosa01285	-0.207988595902223
+"cell leading edge"	GO:0031252	2	Mcavernosa02165	-1.05865497645643
+"cell leading edge"	GO:0031252	2	Mcavernosa17044	0.0320318701688481
+"cell leading edge"	GO:0031252	2	Mcavernosa02940	-0.52896471660652
+"transport vesicle"	GO:0030133	3	Mcavernosa11894	-0.167530093122046
+"transport vesicle"	GO:0030133	3	Mcavernosa18283	0.0400478530810982
+"transport vesicle"	GO:0030133	3	Mcavernosa21508	-0.970197057308383
+"transport vesicle"	GO:0030133	3	Mcavernosa20819	0.0191638557897351
+"transport vesicle"	GO:0030133	3	Mcavernosa34843	0.257328636018939
+"transport vesicle"	GO:0030133	3	Mcavernosa01159	0.456147246317325
+"transport vesicle"	GO:0030133	3	Mcavernosa17171	0.393609893387578
+"transport vesicle"	GO:0030133	3	Mcavernosa02584	4.37301239877326
+"transport vesicle"	GO:0030133	3	Mcavernosa30730	0.464307681168803
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa04656	-0.280116465588387
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa12536	-0.186436636568721
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa12026	-0.31244203675719
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa18283	0.0400478530810982
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa18576	5.80344925688899
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa01159	0.456147246317325
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa17171	0.393609893387578
+"trans-Golgi network membrane"	GO:0032588	2	Mcavernosa31070	0.0587935573939201
+"extracellular space"	GO:0005615	2	Mcavernosa13789	-0.265050822945202
+"extracellular space"	GO:0005615	2	Mcavernosa28827	-0.618644872734359
+"extracellular space"	GO:0005615	2	Mcavernosa28831	0.0474056452267975
+"extracellular space"	GO:0005615	2	Mcavernosa28825	-0.460701950060155
+"extracellular space"	GO:0005615	2	Mcavernosa08742	0.196609911836709
+"extracellular space"	GO:0005615	2	Mcavernosa14548	-0.621496206227601
+"extracellular space"	GO:0005615	2	Mcavernosa21866	-1.25234641880411
+"extracellular space"	GO:0005615	2	Mcavernosa21863	0.319187097881905
+"extracellular space"	GO:0005615	2	Mcavernosa10414	-0.765952690736744
+"extracellular space"	GO:0005615	2	Mcavernosa10819	0.462969572312989
+"extracellular space"	GO:0005615	2	Mcavernosa09460	-0.185565370419602
+"extracellular space"	GO:0005615	2	Mcavernosa10167	5.5681456725744
+"extracellular space"	GO:0005615	2	Mcavernosa00597	-0.373919870581882
+"extracellular space"	GO:0005615	2	Mcavernosa27466	4.24267676380098
+"extracellular space"	GO:0005615	2	Mcavernosa34288	0.00469606747525235
+"extracellular space"	GO:0005615	2	Mcavernosa02151	0.371222677245505
+"extracellular space"	GO:0005615	2	Mcavernosa25362	-1.07166489762903
+"extracellular space"	GO:0005615	2	Mcavernosa17276	0.464853038625831
+"extracellular space"	GO:0005615	2	Mcavernosa03007	-0.338686104151266
+"extracellular space"	GO:0005615	2	Mcavernosa30914	-1.34088169843686
+"endosome"	GO:0005768	5	Mcavernosa04656	-0.280116465588387
+"endosome"	GO:0005768	5	Mcavernosa05180	0.673917421470048
+"endosome"	GO:0005768	5	Mcavernosa12536	-0.186436636568721
+"endosome"	GO:0005768	5	Mcavernosa12838	-0.0287782023496003
+"endosome"	GO:0005768	5	Mcavernosa12942	1.82726227221657
+"endosome"	GO:0005768	5	Mcavernosa13376	0.769218613438233
+"endosome"	GO:0005768	5	Mcavernosa08742	0.196609911836709
+"endosome"	GO:0005768	5	Mcavernosa14416	-0.0568182593413786
+"endosome"	GO:0005768	5	Mcavernosa15167	0.0333040173608385
+"endosome"	GO:0005768	5	Mcavernosa11795	-1.08952582362016
+"endosome"	GO:0005768	5	Mcavernosa11801	-0.485368027326044
+"endosome"	GO:0005768	5	Mcavernosa11855	-0.319854767304927
+"endosome"	GO:0005768	5	Mcavernosa12026	-0.31244203675719
+"endosome"	GO:0005768	5	Mcavernosa18374	0.383472946403686
+"endosome"	GO:0005768	5	Mcavernosa18576	5.80344925688899
+"endosome"	GO:0005768	5	Mcavernosa21863	0.319187097881905
+"endosome"	GO:0005768	5	Mcavernosa22595	0.214919130480114
+"endosome"	GO:0005768	5	Mcavernosa21508	-0.970197057308383
+"endosome"	GO:0005768	5	Mcavernosa20543	-0.599163747756626
+"endosome"	GO:0005768	5	Mcavernosa00590	0.515637692538516
+"endosome"	GO:0005768	5	Mcavernosa01159	0.456147246317325
+"endosome"	GO:0005768	5	Mcavernosa01412	-0.23919121991648
+"endosome"	GO:0005768	5	Mcavernosa01446	0.336114885910516
+"endosome"	GO:0005768	5	Mcavernosa03238	1.01561709816669
+"endosome"	GO:0005768	5	Mcavernosa07457	-0.453577136995981
+"endosome"	GO:0005768	5	Mcavernosa24997	-1.24074123562113
+"endosome"	GO:0005768	5	Mcavernosa17171	0.393609893387578
+"endosome"	GO:0005768	5	Mcavernosa02584	4.37301239877326
+"cytosolic small ribosomal subunit"	GO:0022627	2	Mcavernosa04869	0.356535645676911
+"cytosolic small ribosomal subunit"	GO:0022627	2	Mcavernosa14396	-0.111975973081987
+"cytosolic small ribosomal subunit"	GO:0022627	2	Mcavernosa18279	-0.518707817334222
+"cytosolic small ribosomal subunit"	GO:0022627	2	Mcavernosa30052	-0.28116844447541
+"cytosolic small ribosomal subunit"	GO:0022627	2	Mcavernosa17003	-0.113628641190917
+"nuclear chromatin"	GO:0000790	2	Mcavernosa27934	-0.28777852761249
+"nuclear chromatin"	GO:0000790	2	Mcavernosa22406	-0.0308216896606807
+"nuclear chromatin"	GO:0000790	2	Mcavernosa22745	0.951240224855774
+"nuclear chromatin"	GO:0000790	2	Mcavernosa16043	3.03815916299368
+"nuclear chromatin"	GO:0000790	2	Mcavernosa21601	-0.310050078103574
+"nuclear chromatin"	GO:0000790	2	Mcavernosa20110	0.60638146048907
+"nuclear chromatin"	GO:0000790	2	Mcavernosa24829	0.279132910313718
+"axon"	GO:0030424	4	Mcavernosa06121	-0.508650361596383
+"axon"	GO:0030424	4	Mcavernosa06124	-0.370970371770491
+"axon"	GO:0030424	4	Mcavernosa13971	-0.631274940226337
+"axon"	GO:0030424	4	Mcavernosa27973	0.58975433854391
+"axon"	GO:0030424	4	Mcavernosa28254	0.0541101250994746
+"axon"	GO:0030424	4	Mcavernosa28386	-0.297282699051588
+"axon"	GO:0030424	4	Mcavernosa14781	-0.256613942938293
+"axon"	GO:0030424	4	Mcavernosa15167	0.0333040173608385
+"axon"	GO:0030424	4	Mcavernosa31719	-1.99236311634553
+"axon"	GO:0030424	4	Mcavernosa18494	0.429402161603429
+"axon"	GO:0030424	4	Mcavernosa18576	5.80344925688899
+"axon"	GO:0030424	4	Mcavernosa19134	1.27459906578917
+"axon"	GO:0030424	4	Mcavernosa22382	-0.297589197438231
+"axon"	GO:0030424	4	Mcavernosa22595	0.214919130480114
+"axon"	GO:0030424	4	Mcavernosa20819	0.0191638557897351
+"axon"	GO:0030424	4	Mcavernosa00928	-0.60818461781578
+"axon"	GO:0030424	4	Mcavernosa24337	-0.74635847634559
+"axon"	GO:0030424	4	Mcavernosa01769	0.185906799087506
+"axon"	GO:0030424	4	Mcavernosa17007	1.4124865093372
+"axon"	GO:0030424	4	Mcavernosa30913	0.250552878907586

@@ -1,0 +1,401 @@
+#### ssid set 2 pipeline
+
+########## Identify admix clusters in combination with set 1 ssid samples: adults and juveniles
+
+#copy .fastq for both sets into a single directory
+conda activate flkeys
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+
+#####2bRAD data: need to build a denovo genome
+#------------ setting up Symbiodinium genomes
+export ZOOX_FASTA=$WORK/db/zoox/symABCD_longref.fasta
+
+# indexing genome for bowtie2 mapper
+echo 'bowtie2-build $ZOOX_FASTA $ZOOX_FASTA' >btb
+ls5_launcher_creator.py -j btb -n btb -l btbl -t 2:00:00 -a $allo -e $email -w 1 -q normal
+sbatch btbl
+
+idev
+samtools faidx $ZOOX_FASTA
+
+#------------ Mapping to symbiodinium, discarding reads that stick
+
+SYM_REF="$WORK/db/zoox/symABCD_longref.fasta"
+>mapsym
+for F in `ls *.fastq`; do
+echo "bowtie2 -x $SYM_REF -U $F -S $F.sam">>mapsym
+done
+ls6_launcher_creator.py -j mapsym -n mapsym -t 2:00:00 -a $allo -e $email -w 12 -q normal
+sbatch mapsym.slurm
+
+# saving fastq reads that do NOT map to chr11-14 (Symbiodinium genomes)
+>sam2fq
+for S in `ls *.sam`; do
+F=`echo $S | perl -pe 's/\..+//'`;
+echo "cat $S | awk '\$3==\"*\"' | cut -f1,10,11 | sed 's/^/@/' | sed 's/\t/\n/' | sed 's/\t/\n+\n/' > $F.nosymbio.fastq">>sam2fq;
+done
+ls6_launcher_creator.py -j sam2fq -n s2f -t 00:30:00 -e $email -w 24 -q normal
+sbatch s2f.slurm
+
+#### COMMAND ABOVE TO CONVERT SAM FILE BACK TO FASTQ
+# Subset all lines where the third element is "*" (i.e., the sequence did not align to the Symbiodiniaceae genome), extract elements 1, 10 and 11, add @ to beginning of each line, change first tab delimiter (\t) to new line (\n) delimiter, change second tab delimiter to new line delimiter with "+" on a new line in between
+####
+
+#====================# denovo RAD business :
+
+# selecting well-sequenced files to represent common alleles:
+
+# copy all 'nosymbio' fastq files to new directory
+mkdir 2genome
+ls -S *.nosymbio.fastq | head -100 | perl -pe 's/(\S+)/cp $1 2genome\//' | bash
+# ls -S sorts by file size; this command takes the 100 largest (well-sequenced) files
+
+cd 2genome
+
+# 'uniquing' ('stacking') individual fastq reads:
+>unii
+ls *.nosymbio.fastq | perl -pe 's/^(.+)$/uniquerOne.pl $1 >$1\.uni/' >unii
+ls6_launcher_creator.py -j unii -n unii -t 00:30:00 -a $allo -e $email -w 12 -q normal
+sbatch unii.slurm
+
+# uniquerOne.pl :
+# Makes uniqued 2bRAD read file for a single fastq file. This is analogous to making 'stacks' in STACKS. The script records unique tag sequences, the total number of their appearances, and how many of those were in reverse-complement orientation. (STACKS would consider reverse-complements as separate loci)
+
+# merging uniqued files (set minInd to >10, or >10% of total number of samples, whatever is greater)
+echo "mergeUniq.pl uni minInd=10 >all.uniq">mu
+ls6_launcher_creator.py -j mu -n mu -t 0:30:00 -a $allo -e $email -w 1 -q normal
+sbatch mu.slurm
+
+# discarding tags that have more than 7 observations without reverse-complement
+awk '!($3>7 && $4==0) && $2!="seq"' all.uniq >all.tab
+wc -l all.tab  
+
+# creating fasta file out of merged and filtered tags:
+awk '{print ">"$1"\n"$2}' all.tab > all.fasta
+
+# clustering reads into loci using cd-hit
+# clustering allowing for up to 3 mismatches (-c 0.91); the most abundant sequence becomes reference
+# -aL : alignment coverage for the longer sequence (setting at 1 means the alignment must cover 100% of the sequence)
+# -aS : alignment coverage for the shorter sequence (setting to 1 means the alignment must cover 100% of the sequence
+# -c : sequence identity threshold, calculated as # of identical bases in alignment / full length of the shorter sequence
+# -g : the program will cluster it into the most similar cluster that meets the threshold, rather than the first
+# -M -T : memory limit and # of threads to use (0 sets no limits)
+echo "cd-hit-est -i all.fasta -o cdh_alltags.fas -aL 1 -aS 1 -g 1 -c 0.91 -M 0 -T 0" > cd_hit
+ls6_launcher_creator.py -j cd_hit -n cd_hit -t 0:30:00 -a $allo -e $email -w 1 -q normal
+sbatch cd_hit.slurm
+
+#------------
+# making fake reference genome (of 30 chromosomes) out of cd-hit cluster representatives
+# need bowtie2, samtools and picard_tools for indexing
+
+concatFasta.pl fasta=cdh_alltags.fas num=30
+
+#move the fake genome to where you store the rest of your genomes
+
+# formatting fake genome
+export GENOME_REF=$WORK/db/ssid_fake_dg/cdh_alltags_cc.fasta
+bowtie2-build $GENOME_REF $GENOME_REF
+
+idev
+conda activate flkeys
+samtools faidx $GENOME_REF
+
+
+# Mapping reads to reference (reads-derived fake one, or real) and formatting bam files 
+
+# for denovo: map with bowtie2 with default parameters 
+>maps
+for F in `ls *.nosymbio.fastq`; do
+echo "bowtie2 --no-unal -x $GENOME_REF -U $F -S $F.sam">>maps
+done
+ls6_launcher_creator.py -j maps -n maps -t 01:00:00 -a $allo -e $email -w 24 -q normal
+sbatch maps.slurm
+
+ls *nosymbio.fastq.sam > sams
+cat sams | wc -l  # number should match number of.fastq files (250)
+
+# next stage is compressing, sorting and indexing the SAM files, so they become BAM files:
+cat sams | perl -pe 's/(\S+)\.sam/samtools view -bS $1\.sam >$1\.unsorted\.bam && samtools sort $1\.unsorted\.bam -o $1\.bam && samtools index $1\.bam/' >s2b
+ls6_launcher_creator.py -j s2b -n s2b -t 0:05:00 -w 24 -a $allo -e $email -q normal
+sbatch s2b.slurm
+
+rm *unsorted*
+ls *bam | wc -l  # should be the same number as number of .fastq files
+
+# BAM files are the input into various genotype calling / popgen programs, this is the main interim result of the analysis. Archive them.
+
+#------------ quality assessment
+
+>alignmentRates
+>align
+for F in `ls *nosymbio.fastq`; do 
+echo "grep -E '^[ATGCN]+$' $F | wc -l | grep -f - maps.e* -A 4 | tail -1 | perl -pe 's/maps\.e\d+-|% overall alignment rate//g' | xargs echo $F.sam >> alignmentRates" >>align; 
+done
+ls6_launcher_creator.py -j align -n align -t 0:15:00 -w 10 -a $allo -e $email -q normal
+sbatch align.slurm
+
+# using awk to find "good" samples with mapping efficiencies >20%
+awk '$2>=20' alignmentRates | cut -f 1 -d " " | sort | uniq > goods
+
+# "bad" samples with mapping efficiencies <20%
+awk '$2<20' alignmentRates | cut -f 1 -d " " > bads
+
+#----------- assessing base qualities and coverage depth
+ls *bam >bams #original # of bams is 250
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -baq 1 -ref $GENOME_REF -maxDepth 1200"
+TODO="-doQsDist 1 -doDepth 1 -doCounts 1 -dumpCounts 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out dd">ddd
+ls6_launcher_creator.py -j ddd -n ddd -t 4:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ddd.slurm
+
+# summarizing results (using cannibalized Matteo Fumagalli's script)
+module load Rstats
+echo "Rscript ~/bin/plotQC.R prefix=dd bams=bams > qranks" > qranksjob
+ls6_launcher_creator.py -j qranksjob -n qranksjob -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch qranksjob.slurm
+
+# percentages of sites with coverage >5x in each sample, from worst to best:
+cat qranks
+
+# scp dd.pdf to local cpu to view more details. 
+
+# manually remove poorly covered sample(s) from bams 
+#samples with coverage < 0.05: SSOA4.nosymbio.fastq.bam, SSOJ2.nosymbio.fastq.bam, SSNJ1.nosymbio.fastq.bam  
+
+# ========= population structure (based on common polymorphisms) =======
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -skipTriallelic 1 -minInd 197 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doBcf 1 -doPost 1 -doGlf 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out ss02ball" > ssa02ball
+ls6_launcher_creator.py -j ssa02ball -n ssa02ball -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ssa02ball.slurm
+
+# how many SNPs?
+zcat ss02ball.mafs.gz | wc -l 
+#16147 SNPS
+
+# scp ss0all.ibsMat and bams to local, use ibs_PCA.R to analyze
+#upload new bams_noclones file to TACC
+
+#---------------------- ADMIXTURE (after removing clones)
+#[keep the 220 bams in bams_noclones]
+#set min ind to ~75-80% of individuals in bams list
+
+FILTERS="-uniqueOnly 1 -skipTriallelic 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -minInd 176 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doPost 1 -doGlf 2"
+echo "angsd -b bams_noclones -ref $GENOME_REF -GL 1 $FILTERS $TODO -P 12 -out ssid2ball" >ab
+ls6_launcher_creator.py -j ab -n ab -t 2:30:00 -e $email -w 1 -a $allo -q normal
+sbatch ab.slurm
+
+# how many SNPs?
+zcat ssid2ball.mafs.gz | wc -l
+# 16433 SNPS
+
+# creating table of correspondences of bams to "populations"
+cat bams_noclones | perl -pe 's/([S])(\D+)(\d+)([NDO])(\D+)(\d+)(.+)|([S])([S])([NDO])([AJ])(\d+c*-*\d*)(.nosymbio.fastq.bam)/$1$2$3$4\t$4$8$9$10$11$12\t$10/' > inds2pops_all
+
+# NgsAdmix for K from 2 to 6
+idev -A $allo
+for K in `seq 2 6` ; 
+do 
+NGSadmix -likes ssid2ball.beagle.gz -K $K -P 10 -o ss_k${K};
+done
+
+
+# scp *ibsMat, *qopt inds2pops files to laptop, use ibs_PCA.R to plot PCA
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~2bRAD just with set 2 (adults and juveniles)~~~~~~~~~~~~~~~~~~~~~~
+#==============
+
+conda activate flkeys
+export GENOME_REF=$WORK/db/ssid_fake_dg/cdh_alltags_cc.fasta
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+# Mapping reads to reference (reads-derived fake one, or real) and formatting bam files 
+
+# for denovo: map with bowtie2 with default parameters 
+>maps
+for F in `ls *.nosymbio.fastq`; do
+echo "bowtie2 --no-unal -x $GENOME_REF -U $F -S $F.sam">>maps
+done
+ls6_launcher_creator.py -j maps -n maps -t 0:30:00 -a $allo -e $email -w 24 -q normal
+sbatch maps.slurm
+
+ls *nosymbio.fastq.sam > sams
+cat sams | wc -l  # number should match number of.fastq files
+
+# next stage is compressing, sorting and indexing the SAM files, so they become BAM files:
+cat sams | perl -pe 's/(\S+)\.sam/samtools view -bS $1\.sam >$1\.unsorted\.bam && samtools sort $1\.unsorted\.bam -o $1\.bam && samtools index $1\.bam/' >s2b
+ls6_launcher_creator.py -j s2b -n s2b -t 0:05:00 -w 24 -a $allo -e $email -q normal
+sbatch s2b.slurm
+
+rm *unsorted*
+ls *bam | wc -l  # should be the same number as number of .fastq files
+
+# BAM files are the input into various genotype calling / popgen programs, this is the main interim result of the analysis. Archive them.
+
+#------------ quality assessment
+
+>alignmentRates
+>align
+for F in `ls *nosymbio.fastq`; do 
+echo "grep -E '^[ATGCN]+$' $F | wc -l | grep -f - maps.e* -A 4 | tail -1 | perl -pe 's/maps\.e\d+-|% overall alignment rate//g' | xargs echo $F.sam >> alignmentRates" >>align; 
+done
+ls6_launcher_creator.py -j align -n align -t 0:15:00 -w 10 -a $allo -e $email -q normal
+sbatch align.slurm
+
+# using awk to find "good" samples with mapping efficiencies >20%
+awk '$2>=20' alignmentRates | cut -f 1 -d " " | sort | uniq > goods
+
+# "bad" samples with mapping efficiencies <20%
+awk '$2<20' alignmentRates | cut -f 1 -d " " > bads
+
+
+#----------- assessing base qualities and coverage depth
+ls *bam >bams #original # of bams is 122
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -baq 1 -ref $GENOME_REF -maxDepth 1200"
+TODO="-doQsDist 1 -doDepth 1 -doCounts 1 -dumpCounts 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out dd">ddd
+ls6_launcher_creator.py -j ddd -n ddd -t 4:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ddd.slurm
+
+# summarizing results (using cannibalized Matteo Fumagalli's script)
+module load Rstats
+echo "Rscript ~/bin/plotQC.R prefix=dd bams=bams > qranks" > qranksjob
+ls6_launcher_creator.py -j qranksjob -n qranksjob -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch qranksjob.slurm
+
+# percentages of sites with coverage >5x in each sample, from worst to best:
+cat qranks
+
+# scp dd.pdf to local cpu to view more details. 
+
+# manually remove poorly covered sample(s) from bams 
+# all samples coverage > 0.05
+
+# ========= population structure (based on common polymorphisms) =======
+
+FILTERS="-uniqueOnly 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -skipTriallelic 1 -minInd 97 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doBcf 1 -doPost 1 -doGlf 2"
+echo "angsd -b bams -GL 1 $FILTERS $TODO -P 1 -out ss02b" > ss02b
+ls6_launcher_creator.py -j ss02b -n ss02b -t 02:00:00 -e $email -w 1 -a $allo -q normal
+sbatch ss02b.slurm
+
+# scp ss02b.ibsMat and bams to local, use ibs_PCA.R to analyze
+#upload new bams_noclones file to TACC
+
+#---------------------- ADMIXTURE (after removing clones)
+#[keep the 110 bams in bams_noclones]
+#set min ind to ~75-80% of individuals in bams list
+
+FILTERS="-uniqueOnly 1 -skipTriallelic 1 -remove_bads 1 -minMapQ 20 -minQ 25 -dosnpstat 1 -doHWE 1 -sb_pval 1e-5 -hetbias_pval 1e-5 -minInd 88 -snp_pval 1e-5 -minMaf 0.05"
+TODO="-doMajorMinor 1 -doMaf 1 -doCounts 1 -makeMatrix 1 -doIBS 1 -doCov 1 -doGeno 8 -doPost 1 -doGlf 2"
+echo "angsd -b bams_noclones -GL 1 $FILTERS $TODO -P 12 -out ssid2b" >ab
+ls6_launcher_creator.py -j ab -n ab -t 2:30:00 -e $email -w 1 -a $allo -q normal
+sbatch ab.slurm
+
+# how many SNPs?
+zcat ssid2b.mafs.gz | wc -l
+# 30122 SNPS
+
+# creating table of correspondences of bams to "populations"
+cat bams_noclones | perl -pe 's/([S])(\D+)(\d+)([NDO])(\D+)(\d+)(.+)/$1$2$3$4\t$4/' > inds2pops
+
+# NgsAdmix for K from 2 to 6
+idev -A $allo
+for K in `seq 2 6` ; 
+do 
+NGSadmix -likes ssid2b.beagle.gz -K $K -P 10 -o ss_k${K};
+done
+
+# scp *ibsMat, inds2pops, *qopt files to laptop, use ibs_PCA.R to plot PCA
+
+#No FST for ssid [need proper genome for FST comparison to DEG]
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~Ssid tagseq pipeline (adults and juveniles)~~~~~~~~~~~~~~~~~~~~~~
+
+###LOAD EVERY LOGIN
+conda activate flkeys
+export GENOME_FASTA=/work/07707/dgallery/ls6/db/davies_Ssid/davies_Ssid.fasta
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+
+#copy fastq files from corral to scratch
+cp /corral-repl/utexas/tagmap/rippe_backups/FLKeys_AdultJuv_Set2_TagSeq/S*.fastq /scratch/07707/dgallery/ssid.tag
+
+# prep transcriptome for mapping:
+export GENOME_FASTA=$WORK/db/davies_Ssid/davies_Ssid.fasta
+echo "bowtie2-build $GENOME_FASTA $GENOME_FASTA" > ssid_bow
+ls6_launcher_creator.py -j ssid_bow -n ssid_bow -a $allo -t 1:00:00 -e $email -w 48
+sbatch ssid_bow.slurm
+
+#samtools index (can be run on idev node)
+idev -A IBN21018
+export GENOME_FASTA=$WORK/db/davies_Ssid/davies_Ssid.fasta
+samtools faidx $GENOME_FASTA
+
+# adaptor and quality trimming:
+>clean
+for F in *.fastq; do
+echo "tagseq_clipper.pl $F | cutadapt - -a AAAAAAAA -a AGATCGG -q 15 -m 25 -o ${F/.fq/}.trim" >>clean;
+done
+ls6_launcher_creator.py -j clean -n clean -a $allo -t 0:15:00 -e $email -w 48
+sbatch clean.slurm
+
+# Mapping and compressing into bam files
+>maps
+for file in *.trim; do 
+echo "bowtie2 --no-unal --local -x $GENOME_FASTA -U $file -S ${file/.trim/}.sam && \
+samtools sort -O bam -o ${file/.trim/}.bam ${file/.trim/}.sam && samtools index ${file/.trim/}.bam " >> maps;
+done
+ls6_launcher_creator.py -j maps -n maps -t 1:00:00 -w 24 -a $allo -e $email -q normal
+sbatch maps.slurm
+
+# sanity check: number of bam files should be the same number as number of sam & .fastq files 
+ls *bam | wc -l  
+ls *sam | wc -l
+ls *fastq | wc -l
+# all = 121
+
+#archive bams in work directory so they don't get scratched
+
+#********************** COUNTS DATA for DEQSEQ (adults and juveniles)************************#
+#------------ GENERATE READ COUNTS ------------#
+export GENOME_FASTA=$WORK/db/davies_Ssid/davies_Ssid.fasta
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+samcount_launch_bt2.pl '\.sam$' $WORK/db/davies_Ssid/davies_Ssid_seq2iso.tab > sc
+ls6_launcher_creator.py -j sc -n sc -t 0:15:00 -w 4 -N 2 -a $allo -e $email -q normal
+sbatch sc.slurm
+
+# assembling them all into a single table:
+expression_compiler.pl *.counts > allc.txt
+
+# let's remove those annoying chains of extensions from sample names:
+cat allc.txt | perl -pe 's/\.fastq\.sam\.counts//g' >allcounts_ssid.txt
+head allcounts_ssid.txt
+
+scp allcounts_ssid.txt to laptop and run through ssid_counts2.0.R, ssid_deseq2.0.R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+
+#-------------FST-----------------
+
+#Adult samples only: run fst.file.creation to make input files for fst
+
+# Create list of filtered SNP sites for SFS production (note: no filters that distort allele frequency!):
+# Change -minInd to ~80% of your total number of your individuals
+
+FILTERS="-minMapQ 30 -minQ 35 -minInd 26 -doHWE 1 -sb_pval 1e-3 -hetbias_pval 1e-3 -skipTriallelic 1 -maxHetFreq 0.5"
+DOS="-doMajorMinor 4 -ref $GENOME_FASTA -doMaf 1 -dosnpstat 1 -doGeno 11 -doPost 2 -doBcf 1"
+echo "angsd -b bams_adults_fst -GL 1 $FILTERS $DOS -P 1 -out sfsSites" >sites
+ls6_launcher_creator.py -j sites -n sites -t 2:00:00 -e $email -w 1 -a $allo
+sbatch sites.slurm
+
+# Create and index site list
+zcat sfsSites.geno.gz | awk "{print \$1\"\t\"\$2}" > sites2do
+angsd sites index sites2do
+
+# Define populations
+# create files with defined populations using fst.file.creation.R
+
+# Generate site allele frequency likelihood files for each of the subpopulations
+# Need to use locally installed angsd - conda does not correctly output these files
+# -doSaf 1: calculate the site allele frequency likelihood based on individual genotype likelihoods assuming HWE
+# Change -b and -out options to be unique for each of the populations you defined above
+TODO="-doSaf 1 -anc $GENOME_FASTA -ref $GENOME_FASTA -doMaf 1 -doMajorMinor 4 -doPost 1"
+echo "/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b clust1 -GL 1 -P 1 $TODO -out c1
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b clust2 -GL 1 -P 1 $TODO -out c2
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b clust3 -GL 1 -P 1 $TODO -out c3
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b near -GL 1 -P 1 $TODO -out n
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b off -GL 1 -P 1 $TODO -out o
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b deep -GL 1 -P 1 $TODO -out d
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b i_n1 -GL 1 -P 1 $TODO -out i_n1
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b o_n1 -GL 1 -P 1 $TODO -out o_n1
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b o_o2 -GL 1 -P 1 $TODO -out o_o2
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b i_o2 -GL 1 -P 1 $TODO -out i_o2
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b d_d3 -GL 1 -P 1 $TODO -out d_d3
+/work/07707/dgallery/ls6/software/angsd/angsd -sites sites2do -b o_d3 -GL 1 -P 1 $TODO -out o_d3" > saf_job
+ls6_launcher_creator.py -j saf_job -n saf_job -t 01:00:00 -e $email -w 2 -N 1 -a $allo
+sbatch saf_job.slurm
+
+# Record 2d-SFS priors
+# Again, change the input/output files and -fstout option to match all pairwise comparisons of your populations
+echo "realSFS c1.saf.idx c2.saf.idx -P 24 > p12.sfs ; realSFS fst index c1.saf.idx c2.saf.idx -sfs p12.sfs -fstout p12 
+realSFS c1.saf.idx c3.saf.idx -P 24 > p13.sfs ; realSFS fst index c1.saf.idx c3.saf.idx -sfs p13.sfs -fstout p13 
+realSFS c2.saf.idx c3.saf.idx -P 24 > p23.sfs ; realSFS fst index c2.saf.idx c3.saf.idx -sfs p23.sfs -fstout p23 
+realSFS n.saf.idx o.saf.idx -P 24 > pno.sfs ; realSFS fst index n.saf.idx o.saf.idx -sfs pno.sfs -fstout pno 
+realSFS o.saf.idx d.saf.idx -P 24 > pod.sfs ; realSFS fst index o.saf.idx d.saf.idx -sfs pod.sfs -fstout pod 
+realSFS n.saf.idx d.saf.idx -P 24 > pnd.sfs ; realSFS fst index n.saf.idx d.saf.idx -sfs pnd.sfs -fstout pnd
+realSFS i_n1.saf.idx o_o2.saf.idx -P 24 > pn1o2.sfs ; realSFS fst index i_n1.saf.idx o_o2.saf.idx -sfs pn1o2.sfs -fstout pn1o2
+realSFS i_n1.saf.idx d_d3.saf.idx -P 24 > pn1d3.sfs ; realSFS fst index i_n1.saf.idx d_d3.saf.idx -sfs pn1d3.sfs -fstout pn1d3
+realSFS o_o2.saf.idx d_d3.saf.idx -P 24 > po2d3.sfs ; realSFS fst index o_o2.saf.idx d_d3.saf.idx -sfs po2d3.sfs -fstout po2d3
+realSFS i_n1.saf.idx o_n1.saf.idx -P 24 > pio_n1.sfs ; realSFS fst index i_n1.saf.idx o_n1.saf.idx -sfs pio_n1.sfs -fstout pio_n1
+realSFS i_o2.saf.idx o_o2.saf.idx -P 24 > pio_o2.sfs ; realSFS fst index i_o2.saf.idx o_o2.saf.idx -sfs pio_o2.sfs -fstout pio_o2
+realSFS o_d3.saf.idx d_d3.saf.idx -P 24 > pod_d3.sfs ; realSFS fst index o_d3.saf.idx d_d3.saf.idx -sfs pod_d3.sfs -fstout pod_d3" >fst
+ls6_launcher_creator.py -j fst -n fst -t 01:00:00 -e $email -w 6 -a $allo -q normal
+sbatch fst.slurm
+
+# You can do the following in an idev session
+idev 
+
+# Global Fst between populations
+realSFS fst stats p12.fst.idx
+realSFS fst stats p13.fst.idx
+realSFS fst stats p23.fst.idx
+realSFS fst stats pno.fst.idx
+realSFS fst stats pod.fst.idx
+realSFS fst stats pnd.fst.idx
+realSFS fst stats pn1o2.fst.idx
+realSFS fst stats pn1d3.fst.idx
+realSFS fst stats po2d3.fst.idx
+realSFS fst stats pio_n1.fst.idx
+realSFS fst stats pio_o2.fst.idx
+realSFS fst stats pod_d3.fst.idx
+
+
+# Per-site Fst
+realSFS fst print p12.fst.idx > p12.fst
+realSFS fst print p13.fst.idx > p13.fst
+realSFS fst print p23.fst.idx > p23.fst
+realSFS fst print pno.fst.idx > pno.fst
+realSFS fst print pod.fst.idx > pod.fst
+realSFS fst print pnd.fst.idx > pnd.fst
+realSFS fst print pn1o2.fst.idx > pn1o2.fst
+realSFS fst print pn1d3.fst.idx > pn1d3.fst
+realSFS fst print po2d3.fst.idx > po2d3.fst
+realSFS fst print pio_n1.fst.idx > pio_n1.fst
+realSFS fst print pio_o2.fst.idx > pio_o2.fst
+realSFS fst print pod_d3.fst.idx > pod_d3.fst
+
+
+#copy .fst file to laptop for future analyses after completing tagseq analyses
+
+
+#**************************** Create kinship matrix *************************#
+conda activate angsd
+export allo=IBN21018
+export email=dgallery@utexas.edu
+
+#make glf and mafs files
+echo "angsd -b bams_qst_adults -gl 2 -domajorminor 1 -snp_pval 1e-6 -domaf 1 -minmaf 0.05 -doGlf 3 -out kinMAT" > kins
+ls6_launcher_creator.py -j kins -n kins -t 2:00:00 -e $email -w 1 -a $allo
+sbatch kins.slurm
+
+#remove header from mafs
+zcat kinMAT.mafs.gz | cut -f5 |sed 1d >freq
+
+#make kinship matrix
+echo "/work/07707/dgallery/ls6/software/ngsRelate/ngsRelate -g kinMAT.glf.gz -n 47 -f freq -O kinMAT" > kins2
+ls6_launcher_creator.py -j kins2 -n kins2 -t 2:00:00 -e $email -w 1 -a $allo
+sbatch kins2.slurm
+
+#download newres (kinship matrix) to computer
+
+
+
